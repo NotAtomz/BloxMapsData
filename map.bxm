@@ -1,0 +1,18 @@
+[
+  {
+    "instance": "Cube",
+    "name": "Cube",
+    "size": [20, 10, 10],
+    "position": [0, 0, 0],
+    "rotation": [0, 0, 0],
+    "anchored": true,
+    "canCollide": true,
+    "canTouch": false,
+    "color": "#ff0000"
+  },
+  {
+    "instance": "Spawn",
+    "name": "Spawn",
+    "position": [0, 5, 0]
+  }
+]
