@@ -3,6 +3,17 @@
   "objects": [
     {
       "instance": "Cube",
+      "name": "Ground",
+      "size": [500, 1, 500],
+      "position": [0, -1, 0],
+      "rotation": [0, 0, 0],
+      "anchored": true,
+      "canCollide": true,
+      "canTouch": false,
+      "color": "#00ff00"
+    },
+    {
+      "instance": "Cube",
       "name": "MainRoad_X",
       "size": [200, 1, 20],
       "position": [0, 0, 0],
@@ -140,3 +151,4 @@
     }
   ]
 }
+
