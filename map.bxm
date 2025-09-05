@@ -3,23 +3,140 @@
   "objects": [
     {
       "instance": "Cube",
-      "name": "Cube",
-      "size": [100, 5, 100],
+      "name": "MainRoad_X",
+      "size": [200, 1, 20],
       "position": [0, 0, 0],
       "rotation": [0, 0, 0],
       "anchored": true,
       "canCollide": true,
       "canTouch": false,
-      "color": "#00ff00"
+      "color": "#333333"
+    },
+    {
+      "instance": "Cube",
+      "name": "MainRoad_Z",
+      "size": [20, 1, 200],
+      "position": [0, 0, 0],
+      "rotation": [0, 0, 0],
+      "anchored": true,
+      "canCollide": true,
+      "canTouch": false,
+      "color": "#333333"
+    },
+    {
+      "instance": "Cube",
+      "name": "Sidewalk_North",
+      "size": [200, 1, 5],
+      "position": [0, 0.5, 12.5],
+      "rotation": [0, 0, 0],
+      "anchored": true,
+      "canCollide": true,
+      "canTouch": false,
+      "color": "#aaaaaa"
+    },
+    {
+      "instance": "Cube",
+      "name": "Sidewalk_South",
+      "size": [200, 1, 5],
+      "position": [0, 0.5, -12.5],
+      "rotation": [0, 0, 0],
+      "anchored": true,
+      "canCollide": true,
+      "canTouch": false,
+      "color": "#aaaaaa"
+    },
+    {
+      "instance": "Cube",
+      "name": "Sidewalk_East",
+      "size": [5, 1, 200],
+      "position": [12.5, 0.5, 0],
+      "rotation": [0, 0, 0],
+      "anchored": true,
+      "canCollide": true,
+      "canTouch": false,
+      "color": "#aaaaaa"
+    },
+    {
+      "instance": "Cube",
+      "name": "Sidewalk_West",
+      "size": [5, 1, 200],
+      "position": [-12.5, 0.5, 0],
+      "rotation": [0, 0, 0],
+      "anchored": true,
+      "canCollide": true,
+      "canTouch": false,
+      "color": "#aaaaaa"
+    },
+    {
+      "instance": "Cube",
+      "name": "Building_NorthEast",
+      "size": [20, 20, 20],
+      "position": [40, 10, 40],
+      "rotation": [0, 0, 0],
+      "anchored": true,
+      "canCollide": true,
+      "canTouch": false,
+      "color": "#ff5555"
+    },
+    {
+      "instance": "Cube",
+      "name": "Building_NorthWest",
+      "size": [20, 20, 20],
+      "position": [-40, 10, 40],
+      "rotation": [0, 0, 0],
+      "anchored": true,
+      "canCollide": true,
+      "canTouch": false,
+      "color": "#5555ff"
+    },
+    {
+      "instance": "Cube",
+      "name": "Building_SouthEast",
+      "size": [20, 20, 20],
+      "position": [40, 10, -40],
+      "rotation": [0, 0, 0],
+      "anchored": true,
+      "canCollide": true,
+      "canTouch": false,
+      "color": "#55ff55"
+    },
+    {
+      "instance": "Cube",
+      "name": "Building_SouthWest",
+      "size": [20, 20, 20],
+      "position": [-40, 10, -40],
+      "rotation": [0, 0, 0],
+      "anchored": true,
+      "canCollide": true,
+      "canTouch": false,
+      "color": "#ffff55"
     }
   ],
   "spawns": [
     {
       "instance": "Spawn",
-      "name": "Spawn",
-      "position": [0, 5, 0]
+      "name": "Spawn_Center",
+      "position": [0, 1, 0]
+    },
+    {
+      "instance": "Spawn",
+      "name": "Spawn_North",
+      "position": [0, 1, 50]
+    },
+    {
+      "instance": "Spawn",
+      "name": "Spawn_South",
+      "position": [0, 1, -50]
+    },
+    {
+      "instance": "Spawn",
+      "name": "Spawn_East",
+      "position": [50, 1, 0]
+    },
+    {
+      "instance": "Spawn",
+      "name": "Spawn_West",
+      "position": [-50, 1, 0]
     }
   ]
 }
-
-
