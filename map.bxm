@@ -122,8 +122,6 @@
       "canTouch": false,
       "color": "#ffff55"
     },
-
-    // ---------- Obby Section ----------
     {
       "instance": "Cube",
       "name": "Obby_Platform_1",
@@ -168,8 +166,6 @@
       "canTouch": false,
       "color": "#ff8800"
     },
-
-    // ---------- Street Lights ----------
     {
       "instance": "Cube",
       "name": "StreetLight_1",
@@ -243,3 +239,4 @@
     }
   ]
 }
+
