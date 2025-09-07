@@ -3,12 +3,12 @@
     {
       "gamename": "Test Game",
       "gamedesc": "Just a simple server test for multiplayer gameplay.",
-      "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/map1.bxm"
+      "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/map.bxm"
     },
     {
       "gamename": "Adventure",
       "gamedesc": "Explore a small adventure map with hidden treasures and fun challenges.",
-      "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/map2.bxm"
+      "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/baseplate.bxm"
     }
   ]
 }
