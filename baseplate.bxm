@@ -11,6 +11,17 @@
 "canCollide": true,
 "canTouch": false,
 "color": "#00ff00"
+},
+{
+"instance": "Cube",
+"name": "Part",
+"size": [20, 10, 10],
+"position": [10, 10, 0],
+"rotation": [0, 0, 0],
+"anchored": true,
+"canCollide": true,
+"canTouch": false,
+"color": "#00ff00"
 }
 ],
 "spawns": [
