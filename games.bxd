@@ -9,6 +9,11 @@
       "gamename": "Baseplate",
       "gamedesc": "Nothing but green.",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/baseplate.bxm"
+    },
+    {
+      "gamename": "Big Map",
+      "gamedesc": "Just testing out a big map for the game!.",
+      "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/testmap.bxm"
     }
   ]
 }
