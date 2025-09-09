@@ -14,6 +14,11 @@
       "gamename": "Big Map",
       "gamedesc": "Just testing out a big map for the game!.",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/testmap.bxm"
+    },
+    {
+      "gamename": "Crosswalk",
+      "gamedesc": "A super big map file test!.",
+      "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/crosswalk.bxm"
     }
   ]
 }
