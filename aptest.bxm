@@ -1,0 +1,154 @@
+{
+    "gameId": "5",
+    "objects": [
+        {
+            "instance": "Cube",
+            "name": "Ground",
+            "size": [
+                500,
+                1,
+                500
+            ],
+            "position": [
+                0,
+                -1,
+                0
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "anchored": true,
+            "canCollide": true,
+            "canTouch": false,
+            "color": "#808080"
+        },
+        {
+            "instance": "Cube",
+            "name": "Part",
+            "size": [
+                20,
+                10,
+                10
+            ],
+            "position": [
+                0,
+                20,
+                0
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "anchored": false,
+            "canCollide": true,
+            "canTouch": false,
+            "color": "#669999"
+        },
+        {
+            "instance": "Cube",
+            "name": "Part",
+            "size": [
+                20,
+                10,
+                10
+            ],
+            "position": [
+                0,
+                30,
+                0
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "anchored": false,
+            "canCollide": true,
+            "canTouch": false,
+            "color": "#669999"
+        },
+        {
+            "instance": "Cube",
+            "name": "Part",
+            "size": [
+                20,
+                10,
+                10
+            ],
+            "position": [
+                0,
+                40,
+                0
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "anchored": false,
+            "canCollide": true,
+            "canTouch": false,
+            "color": "#669999"
+        },
+        {
+            "instance": "Cube",
+            "name": "Part",
+            "size": [
+                20,
+                10,
+                10
+            ],
+            "position": [
+                0,
+                50,
+                0
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "anchored": false,
+            "canCollide": true,
+            "canTouch": false,
+            "color": "#669999"
+        },
+        {
+            "instance": "Cube",
+            "name": "Part",
+            "size": [
+                20,
+                10,
+                10
+            ],
+            "position": [
+                0,
+                60,
+                0
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "anchored": false,
+            "canCollide": true,
+            "canTouch": false,
+            "color": "#669999"
+        }
+    ],
+    "spawns": [
+        {
+            "instance": "Spawn",
+            "name": "Spawn_Center",
+            "position": [
+                0,
+                1,
+                0
+            ]
+        }
+    ]
+}
