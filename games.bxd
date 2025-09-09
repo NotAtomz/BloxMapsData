@@ -19,6 +19,11 @@
       "gamename": "Crosswalk",
       "gamedesc": "A super big map file test!.",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/crosswalk.bxm"
+    },
+    {
+      "gamename": "Blocks",
+      "gamedesc": "This is just to test if unanchored objects work!.",
+      "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/aptest.bxm"
     }
   ]
 }
