@@ -12,7 +12,7 @@
     },
     {
       "gamename": "Big Map",
-      "gamedesc": "Just testing out a big map for the game!.",
+      "gamedesc": "Just testing out a big map for the game!",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/testmap.bxm"
     },
     {
@@ -22,8 +22,13 @@
     },
     {
       "gamename": "Blocks",
-      "gamedesc": "This is just to test if unanchored objects work!.",
+      "gamedesc": "This is just to test if unanchored objects work!",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/aptest.bxm"
+    },
+    {
+      "gamename": "Haunted",
+      "gamedesc": "Big spooky haunted house!",
+      "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/hhsm.bxm"
     }
   ]
 }
