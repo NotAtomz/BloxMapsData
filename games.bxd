@@ -2,32 +2,50 @@
   "games": [
     {
       "gamename": "Server Test",
+      "gameimage": "",
       "gamedesc": "Just a simple server test for multiplayer gameplay.",
+      "gamecreated": "9/11/2025",
+      "gamemaker": "roblox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/map.bxm"
     },
     {
       "gamename": "Baseplate",
-      "gamedesc": "Nothing but grey land.",
+      "gameimage": "",
+      "gamedesc": "Just a simple map thats just grey.",
+      "gamecreated": "9/11/2025",
+      "gamemaker": "roblox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/baseplate.bxm"
     },
     {
       "gamename": "Big Map",
-      "gamedesc": "Just testing out a big map for the game!",
+      "gameimage": "",
+      "gamedesc": "Just a test map i created and converted into blox!",
+      "gamecreated": "9/11/2025",
+      "gamemaker": "roblox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/testmap.bxm"
     },
     {
       "gamename": "Crosswalk",
-      "gamedesc": "A super big map file test!.",
+      "gameimage": "",
+      "gamedesc": "Welcome to Crosswalk, Enjoy the nature of blox!",
+      "gamecreated": "9/11/2025",
+      "gamemaker": "roblox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/crosswalk.bxm"
     },
     {
       "gamename": "Blocks",
-      "gamedesc": "This is just to test if unanchored objects work!",
+      "gameimage": "",
+      "gamedesc": "Testing out weather unanchored objects work via client side.",
+      "gamecreated": "9/11/2025",
+      "gamemaker": "roblox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/aptest.bxm"
     },
     {
       "gamename": "Haunted",
-      "gamedesc": "Big spooky haunted house!",
+      "gameimage": "",
+      "gamedesc": "The spooky season is getting closer so lets just get some spooky maps in the game!",
+      "gamecreated": "9/11/2025",
+      "gamemaker": "roblox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/hhsm.bxm"
     }
   ]
