@@ -81,14 +81,14 @@
                 0,
                 0
             ],
-            "name": "Killbrick",
+            "name": "HurtBrick",
             "position": [
                 33.6,
                 3,
                 0
             ],
-            "color": "#ff0000",
-            "script": "killpart",
+            "color": "#ffa500",
+            "script": "hurtpart",
             "size": [
                 2,
                 1,
@@ -99,7 +99,7 @@
             "canCollide": true,
             "instance": "Sphere",
             "anchored": false,
-            "canTouch": true,
+            "canTouch": false,
             "rotation": [
                 -0,
                 0,
@@ -122,7 +122,7 @@
             "canCollide": true,
             "instance": "Sphere",
             "anchored": false,
-            "canTouch": true,
+            "canTouch": false,
             "rotation": [
                 -0,
                 0,
@@ -145,7 +145,7 @@
             "canCollide": true,
             "instance": "Sphere",
             "anchored": false,
-            "canTouch": true,
+            "canTouch": false,
             "rotation": [
                 -0,
                 0,
