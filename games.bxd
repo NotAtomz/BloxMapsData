@@ -1,9 +1,9 @@
 {
   "games": [
     {
-      "gamename": "Server Test",
-      "gameimage": "",
-      "gamedesc": "Just a simple server test for multiplayer gameplay.",
+      "gamename": "Blox Obby!",
+      "gameimage": "https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/f/c/1/fc1238f71cdad6f716e81f7c859acd7d580dce1e.png",
+      "gamedesc": "I have switched the game into a obby game as this map is no longer needed some maps will be changed as new updates come out enjoy!",
       "gamecreated": "9/11/2025",
       "gamemaker": "roblox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/map.bxm"
