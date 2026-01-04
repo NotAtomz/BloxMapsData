@@ -55,6 +55,14 @@
       "gamecreated": "9/12/2025",
       "gamemaker": "blox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/maptesting.bxm"
+    },
+    {
+      "gamename": "Big Blox Tree",
+      "gameimage": "",
+      "gamedesc": "In this game theres just a big giant tree!",
+      "gamecreated": "1/4/2026",
+      "gamemaker": "blox",
+      "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/newmaptest.bxm"
     }
   ]
 }
