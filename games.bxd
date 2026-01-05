@@ -3,15 +3,15 @@
     {
       "gamename": "Blox Obby!",
       "gameimage": "https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/f/c/1/fc1238f71cdad6f716e81f7c859acd7d580dce1e.png",
-      "gamedesc": "I have switched the game into a obby game as this map is no longer needed some maps will be changed as new updates come out enjoy!",
+      "gamedesc": "Test your skills and agility in Blox Obby! Leap, dodge, and climb through exciting obstacle courses as new maps and challenges are added with every update.",
       "gamecreated": "9/11/2025",
       "gamemaker": "blox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/map.bxm"
     },
     {
       "gamename": "Baseplate",
-      "gameimage": "https://static.wikia.nocookie.net/cooler-item-asylum/images/5/55/Baseplate.png/revision/latest?cb=20221122183035",
-      "gamedesc": "Just a simple map thats just grey.",
+      "gameimage": "https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/c/3/d/c3d155cf7e3cc0f8b421fdc9afec0e7be977cc86.png",
+      "gamedesc": "A simple yet versatile canvas! Baseplate gives you the perfect space to build, experiment, or just explore in a clean, open environment.",
       "gamecreated": "9/11/2025",
       "gamemaker": "blox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/baseplate.bxm"
@@ -19,7 +19,7 @@
     {
       "gamename": "Choas Corner",
       "gameimage": "https://tr.rbxcdn.com/180DAY-c03a38daacc8ee63f01656ab1c17df66/768/432/Image/Webp/noFilter",
-      "gamedesc": "Come join in the battles of chaos corner! you are giving tools to fight other users! enjoy and fight there may be some bugs...",
+      "gamedesc": "Dive into the frantic battles of Chaos Corner! Grab powerful tools, fight other players, and embrace the chaos. Can you survive the mayhem? Ignore the bugs..",
       "gamecreated": "9/11/2025",
       "gamemaker": "blox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/testmap.bxm"
@@ -27,7 +27,7 @@
     {
       "gamename": "Crosswalk",
       "gameimage": "https://images.steamusercontent.com/ugc/2263688881770259772/0718BFAECA27F24791CB0F34E1693ECB9A3A4F99/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "gamedesc": "Welcome to Crosswalk, Enjoy the nature of blox!",
+      "gamedesc": "Stroll through the peaceful streets of Crosswalk! Explore, relax, and enjoy the charming world of Blox in this calm and scenic adventure. AND FIGHT OTHERS ON SIGHT.",
       "gamecreated": "9/11/2025",
       "gamemaker": "blox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/crosswalk.bxm"
@@ -35,7 +35,7 @@
     {
       "gamename": "Blox House Choas",
       "gameimage": "https://static.wikitide.net/luxuryelevatorwiki/f/fd/House%2C_Slide_and_Free_Blocks_.png",
-      "gamedesc": "Come and see the small house of blox! gears are allowed so fight everyone you can! enjoy the game!",
+      "gamedesc": "Step inside Blox House Chaos! Gear up, explore every room, and battle friends in a fast-paced, action-packed environment full of surprises.",
       "gamecreated": "9/11/2025",
       "gamemaker": "blox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/aptest.bxm"
@@ -43,7 +43,7 @@
     {
       "gamename": "Haunted",
       "gameimage": "https://images.steamusercontent.com/ugc/1654476178434992009/59C3C7EA70FEFF60C90DFB5E59B20154B2964822/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "gamedesc": "The spooky season is getting closer so lets just get some spooky maps in the game!",
+      "gamedesc": "Get ready for spine-chilling thrills in Haunted! Explore spooky environments, uncover secrets, and embrace the eerie atmosphere perfect for thrill-seekers.",
       "gamecreated": "9/11/2025",
       "gamemaker": "blox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/hhsm.bxm"
@@ -51,15 +51,15 @@
     {
       "gamename": "Sword Fighting On Blox",
       "gameimage": "https://i.ytimg.com/vi/POhoyPiWZzQ/sddefault.jpg",
-      "gamedesc": "In this game you get a sword kill as many people as you can or try to stay alive or team up with others!",
+      "gamedesc": "Master your blade in Sword Fighting On Blox! Battle opponents, survive waves of enemies, and team up with friends in thrilling sword duels.",
       "gamecreated": "9/12/2025",
       "gamemaker": "blox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/maptesting.bxm"
     },
     {
       "gamename": "Big Blox Tree",
-      "gameimage": "https://static.wikia.nocookie.net/cooler-item-asylum/images/3/3d/Survive_the_PortABoi_The_Killer.webp/revision/latest?cb=20230206200404",
-      "gamedesc": "In this game theres just a big giant tree!",
+      "gameimage": "https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/c/3/d/c3d155cf7e3cc0f8b421fdc9afec0e7be977cc86.png",
+      "gamedesc": "Discover the wonder of Big Blox Tree! Climb, explore, and interact with the giant tree in a unique environment that sparks curiosity and adventure.",
       "gamecreated": "1/4/2026",
       "gamemaker": "blox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/newmaptest.bxm"
