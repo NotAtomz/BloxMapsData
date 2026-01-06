@@ -63,6 +63,14 @@
       "gamecreated": "1/4/2026",
       "gamemaker": "blox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/newmaptest.bxm"
+    },
+    {
+      "gamename": "Big Fighting Place",
+      "gameimage": "https://static.wikia.nocookie.net/roblox/images/5/59/Roblox_-_Classic_-_Glass_Houses.jpg/revision/latest?cb=20180624204442",
+      "gamedesc": "ITS FIGHT TO THE DEATH IN HERE IDK!",
+      "gamecreated": "1/5/2026",
+      "gamemaker": "blox",
+      "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/bigmap.bxm"
     }
   ]
 }
