@@ -1,6 +1,6 @@
 -- AUTO-GENERATED MAP SCRIPT
 
-game.Players.LocalPlayer:LoadCharcter()
+game.Players.LocalPlayer:LoadCharacter()
 
 local p_1 = Instance.new("RocketLauncher")
 p_1.Position = Vector3.new(-1, 8.4, 22)
