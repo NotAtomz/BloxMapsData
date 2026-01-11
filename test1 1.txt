@@ -1,0 +1,127 @@
+-- AUTO-GENERATED MAP SCRIPT
+
+game.Players.LocalPlayer:LoadCharacter()
+
+local p_1 = Instance.new("RocketLauncher")
+p_1.Position = Vector3.new(2, 9, -23)
+p_1.Orientation = Vector3.new(0, 0, 0)
+
+
+local p_3 = Instance.new("Part")
+p_3.Name = "Baseplate"
+p_3.Size = Vector3.new(100, 10, 100)
+p_3.Position = Vector3.new(0, 0, 0)
+p_3.Orientation = Vector3.new(0, -90, 0)
+p_3.Color = Color3.fromRGB(215, 197, 154)
+p_3.Locked = true
+
+local p_4 = Instance.new("Part")
+p_4.Name = "Part"
+p_4.Size = Vector3.new(5, 5, 5)
+p_4.Position = Vector3.new(0, 7.5, 33)
+p_4.Orientation = Vector3.new(0, -90, 0)
+p_4.Color = Color3.fromRGB(159, 161, 172)
+p_4.Anchored = false
+
+local p_5 = Instance.new("Fire")
+p_5.Position = Vector3.new(0, 7.5, 33)
+p_5.Orientation = Vector3.new(0, -90, 0)
+
+local p_6 = Instance.new("Part")
+p_6.Name = "Part"
+p_6.Size = Vector3.new(5, 5, 5)
+p_6.Position = Vector3.new(8, 7.5, 33)
+p_6.Orientation = Vector3.new(0, -90, 0)
+p_6.Color = Color3.fromRGB(159, 161, 172)
+p_6.Anchored = false
+
+local p_7 = Instance.new("Smoke")
+p_7.Position = Vector3.new(8, 7.5, 33)
+p_7.Orientation = Vector3.new(0, -90, 0)
+
+local p_8 = Instance.new("Part")
+p_8.Name = "Part"
+p_8.Size = Vector3.new(5, 5, 5)
+p_8.Position = Vector3.new(-9, 7.5, 33)
+p_8.Orientation = Vector3.new(0, -90, 0)
+p_8.Color = Color3.fromRGB(159, 161, 172)
+p_8.Anchored = false
+
+local p_9 = Instance.new("Part")
+p_9.Name = "Part"
+p_9.Size = Vector3.new(10, 5, 15)
+p_9.Position = Vector3.new(-37, 7.5, 30.5)
+p_9.Orientation = Vector3.new(0, -90, 0)
+p_9.Color = Color3.fromRGB(159, 161, 172)
+
+local p_10 = Instance.new("Part")
+p_10.Name = "Part"
+p_10.Size = Vector3.new(10, 5, 15)
+p_10.Position = Vector3.new(-37, 7.5, 13.5)
+p_10.Orientation = Vector3.new(0, -90, 0)
+p_10.Color = Color3.fromRGB(159, 161, 172)
+
+local p_11 = Instance.new("Part")
+p_11.Name = "Part"
+p_11.Size = Vector3.new(3, 1, 3)
+p_11.Position = Vector3.new(-43, 5.5, 22)
+p_11.Orientation = Vector3.new(0, -90, 0)
+p_11.Color = Color3.fromRGB(159, 161, 172)
+p_11.Transparency = 1
+p_11.CanCollide = false
+
+local p_12 = Instance.new("Fire")
+p_12.Position = Vector3.new(-43, 5.5, 22)
+p_12.Orientation = Vector3.new(0, -90, 0)
+
+local p_13 = Instance.new("Part")
+p_13.Name = "Part"
+p_13.Size = Vector3.new(3, 1, 3)
+p_13.Position = Vector3.new(-31, 5.5, 22)
+p_13.Orientation = Vector3.new(0, -90, 0)
+p_13.Color = Color3.fromRGB(159, 161, 172)
+p_13.Transparency = 1
+p_13.CanCollide = false
+
+local p_14 = Instance.new("Fire")
+p_14.Position = Vector3.new(-31, 5.5, 22)
+p_14.Orientation = Vector3.new(0, -90, 0)
+
+local p_15 = Instance.new("Part")
+p_15.Name = "Part"
+p_15.Size = Vector3.new(3, 1, 3)
+p_15.Position = Vector3.new(-37, 5.5, 22)
+p_15.Orientation = Vector3.new(0, -90, 0)
+p_15.Color = Color3.fromRGB(159, 161, 172)
+p_15.Transparency = 1
+p_15.CanCollide = false
+
+local p_16 = Instance.new("Fire")
+p_16.Position = Vector3.new(-37, 5.5, 22)
+p_16.Orientation = Vector3.new(0, -90, 0)
+
+local p_17 = Instance.new("Part")
+p_17.Name = "Part"
+p_17.Size = Vector3.new(3, 1, 3)
+p_17.Position = Vector3.new(-34, 5.5, 22)
+p_17.Orientation = Vector3.new(0, -90, 0)
+p_17.Color = Color3.fromRGB(159, 161, 172)
+p_17.Transparency = 1
+p_17.CanCollide = false
+
+local p_18 = Instance.new("Fire")
+p_18.Position = Vector3.new(-34, 5.5, 22)
+p_18.Orientation = Vector3.new(0, -90, 0)
+
+local p_19 = Instance.new("Part")
+p_19.Name = "Part"
+p_19.Size = Vector3.new(3, 1, 3)
+p_19.Position = Vector3.new(-40, 5.5, 22)
+p_19.Orientation = Vector3.new(0, -90, 0)
+p_19.Color = Color3.fromRGB(159, 161, 172)
+p_19.Transparency = 1
+p_19.CanCollide = false
+
+local p_20 = Instance.new("Fire")
+p_20.Position = Vector3.new(-40, 5.5, 22)
+p_20.Orientation = Vector3.new(0, -90, 0)

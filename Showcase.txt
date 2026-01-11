@@ -1,0 +1,98 @@
+game.Players.LocalPlayer:LoadCharacter()
+
+local p_1 = Instance.new("Part")
+p_1.Name = "Baseplate"
+p_1.Size = Vector3.new(100, 10, 100)
+p_1.Position = Vector3.new(0, 0, 0)
+p_1.Orientation = Vector3.new(0, -90, 0)
+p_1.Color = Color3.fromRGB(215, 197, 154)
+
+local p_2 = Instance.new("Part")
+p_2.Name = "Part"
+p_2.Size = Vector3.new(1, 12, 16)
+p_2.Position = Vector3.new(21.5, 11, 25)
+p_2.Orientation = Vector3.new(0, -90, 0)
+p_2.Color = Color3.fromRGB(231, 231, 236)
+
+local p_3 = Instance.new("Part")
+p_3.Name = "Part"
+p_3.Size = Vector3.new(1, 12, 16)
+p_3.Position = Vector3.new(1.5, 11, 36)
+p_3.Orientation = Vector3.new(0, -90, 0)
+p_3.Color = Color3.fromRGB(231, 231, 236)
+
+local p_4 = Instance.new("Part")
+p_4.Name = "Part"
+p_4.Size = Vector3.new(1, 12, 16)
+p_4.Position = Vector3.new(1.5, 11, 16)
+p_4.Orientation = Vector3.new(0, -90, 0)
+p_4.Color = Color3.fromRGB(231, 231, 236)
+
+local p_5 = Instance.new("Part")
+p_5.Name = "Part"
+p_5.Size = Vector3.new(1, 12, 16)
+p_5.Position = Vector3.new(35.725, 11, 4.787)
+p_5.Orientation = Vector3.new(0, -135, 0)
+p_5.Color = Color3.fromRGB(231, 231, 236)
+
+local p_6 = Instance.new("Part")
+p_6.Name = "Part"
+p_6.Size = Vector3.new(1, 12, 16)
+p_6.Position = Vector3.new(-26.5, 11, 26)
+p_6.Orientation = Vector3.new(0, -135, 0)
+p_6.Color = Color3.fromRGB(231, 231, 236)
+
+local p_7 = Instance.new("Part")
+p_7.Name = "Part"
+p_7.Size = Vector3.new(1, 12, 16)
+p_7.Position = Vector3.new(-8.822, 11, 40.849)
+p_7.Orientation = Vector3.new(0, -135, 0)
+p_7.Color = Color3.fromRGB(231, 231, 236)
+
+local p_8 = Instance.new("Part")
+p_8.Name = "Part"
+p_8.Size = Vector3.new(5, 5, 5)
+p_8.Position = Vector3.new(-26, 8, 5)
+p_8.Orientation = Vector3.new(0, -90, 0)
+p_8.Color = Color3.fromRGB(255, 0, 0)
+p_8.Anchored = false
+
+local p_9 = Instance.new("Part")
+p_9.Name = "Part"
+p_9.Size = Vector3.new(5, 5, 5)
+p_9.Position = Vector3.new(-26, 8, -1)
+p_9.Orientation = Vector3.new(0, -90, 0)
+p_9.Color = Color3.fromRGB(0, 255, 0)
+p_9.Anchored = false
+
+local p_10 = Instance.new("Part")
+p_10.Name = "Part"
+p_10.Size = Vector3.new(5, 5, 5)
+p_10.Position = Vector3.new(-26, 8, -7)
+p_10.Orientation = Vector3.new(0, -90, 0)
+p_10.Color = Color3.fromRGB(13, 105, 172)
+p_10.Anchored = false
+
+local p_11 = Instance.new("Sphere")
+p_11.Name = "Part"
+p_11.Size = Vector3.new(5, 5, 5)
+p_11.Position = Vector3.new(-20, 8, -7)
+p_11.Orientation = Vector3.new(0, -90, 0)
+p_11.Color = Color3.fromRGB(13, 105, 172)
+p_11.Anchored = false
+
+local p_12 = Instance.new("Sphere")
+p_12.Name = "Part"
+p_12.Size = Vector3.new(5, 5, 5)
+p_12.Position = Vector3.new(-20, 8, -1)
+p_12.Orientation = Vector3.new(0, -90, 0)
+p_12.Color = Color3.fromRGB(0, 255, 0)
+p_12.Anchored = false
+
+local p_13 = Instance.new("Sphere")
+p_13.Name = "Part"
+p_13.Size = Vector3.new(5, 5, 5)
+p_13.Position = Vector3.new(-20, 8, 5)
+p_13.Orientation = Vector3.new(0, -90, 0)
+p_13.Color = Color3.fromRGB(255, 0, 0)
+p_13.Anchored = false

@@ -1,0 +1,1362 @@
+-- AUTO-GENERATED MAP SCRIPT
+
+game.Players.LocalPlayer:LoadCharacter()
+
+local p_1 = Instance.new("Part")
+p_1.Name = "Baseplate"
+p_1.Size = Vector3.new(100, 10, 100)
+p_1.Position = Vector3.new(0, 0, 0)
+p_1.Orientation = Vector3.new(0, -90, 0)
+p_1.Color = Color3.fromRGB(215, 197, 154)
+
+local p_2 = Instance.new("Part")
+p_2.Name = "Part"
+p_2.Size = Vector3.new(3, 1, 4)
+p_2.Position = Vector3.new(13, 5.5, 30)
+p_2.Orientation = Vector3.new(0, -90, 0)
+p_2.Color = Color3.fromRGB(159, 161, 172)
+p_2.Anchored = false
+
+local p_3 = Instance.new("Part")
+p_3.Name = "Part"
+p_3.Size = Vector3.new(3, 1, 4)
+p_3.Position = Vector3.new(9, 5.5, 30)
+p_3.Orientation = Vector3.new(0, -90, 0)
+p_3.Color = Color3.fromRGB(159, 161, 172)
+p_3.Anchored = false
+
+local p_4 = Instance.new("Part")
+p_4.Name = "Part"
+p_4.Size = Vector3.new(3, 1, 4)
+p_4.Position = Vector3.new(1, 5.5, 30)
+p_4.Orientation = Vector3.new(0, -90, 0)
+p_4.Color = Color3.fromRGB(159, 161, 172)
+p_4.Anchored = false
+
+local p_5 = Instance.new("Part")
+p_5.Name = "Part"
+p_5.Size = Vector3.new(3, 1, 4)
+p_5.Position = Vector3.new(5, 5.5, 30)
+p_5.Orientation = Vector3.new(0, -90, 0)
+p_5.Color = Color3.fromRGB(159, 161, 172)
+p_5.Anchored = false
+
+local p_6 = Instance.new("Part")
+p_6.Name = "Part"
+p_6.Size = Vector3.new(3, 1, 4)
+p_6.Position = Vector3.new(-7, 5.5, 30)
+p_6.Orientation = Vector3.new(0, -90, 0)
+p_6.Color = Color3.fromRGB(159, 161, 172)
+p_6.Anchored = false
+
+local p_7 = Instance.new("Part")
+p_7.Name = "Part"
+p_7.Size = Vector3.new(3, 1, 4)
+p_7.Position = Vector3.new(-3, 5.5, 30)
+p_7.Orientation = Vector3.new(0, -90, 0)
+p_7.Color = Color3.fromRGB(159, 161, 172)
+p_7.Anchored = false
+
+local p_8 = Instance.new("Part")
+p_8.Name = "Part"
+p_8.Size = Vector3.new(3, 1, 4)
+p_8.Position = Vector3.new(-5, 6.5, 30)
+p_8.Orientation = Vector3.new(0, -90, 0)
+p_8.Color = Color3.fromRGB(159, 161, 172)
+p_8.Anchored = false
+
+local p_9 = Instance.new("Part")
+p_9.Name = "Part"
+p_9.Size = Vector3.new(3, 1, 4)
+p_9.Position = Vector3.new(-1, 6.5, 30)
+p_9.Orientation = Vector3.new(0, -90, 0)
+p_9.Color = Color3.fromRGB(159, 161, 172)
+p_9.Anchored = false
+
+local p_10 = Instance.new("Part")
+p_10.Name = "Part"
+p_10.Size = Vector3.new(3, 1, 4)
+p_10.Position = Vector3.new(3, 6.5, 30)
+p_10.Orientation = Vector3.new(0, -90, 0)
+p_10.Color = Color3.fromRGB(159, 161, 172)
+p_10.Anchored = false
+
+local p_11 = Instance.new("Part")
+p_11.Name = "Part"
+p_11.Size = Vector3.new(3, 1, 4)
+p_11.Position = Vector3.new(7, 6.5, 30)
+p_11.Orientation = Vector3.new(0, -90, 0)
+p_11.Color = Color3.fromRGB(159, 161, 172)
+p_11.Anchored = false
+
+local p_12 = Instance.new("Part")
+p_12.Name = "Part"
+p_12.Size = Vector3.new(3, 1, 4)
+p_12.Position = Vector3.new(11, 6.5, 30)
+p_12.Orientation = Vector3.new(0, -90, 0)
+p_12.Color = Color3.fromRGB(159, 161, 172)
+p_12.Anchored = false
+
+local p_13 = Instance.new("Part")
+p_13.Name = "Part"
+p_13.Size = Vector3.new(3, 1, 4)
+p_13.Position = Vector3.new(15, 6.5, 30)
+p_13.Orientation = Vector3.new(0, -90, 0)
+p_13.Color = Color3.fromRGB(159, 161, 172)
+p_13.Anchored = false
+
+local p_14 = Instance.new("Part")
+p_14.Name = "Part"
+p_14.Size = Vector3.new(3, 1, 4)
+p_14.Position = Vector3.new(-7, 7.5, 30)
+p_14.Orientation = Vector3.new(0, -90, 0)
+p_14.Color = Color3.fromRGB(159, 161, 172)
+p_14.Anchored = false
+
+local p_15 = Instance.new("Part")
+p_15.Name = "Part"
+p_15.Size = Vector3.new(3, 1, 4)
+p_15.Position = Vector3.new(-3, 7.5, 30)
+p_15.Orientation = Vector3.new(0, -90, 0)
+p_15.Color = Color3.fromRGB(159, 161, 172)
+p_15.Anchored = false
+
+local p_16 = Instance.new("Part")
+p_16.Name = "Part"
+p_16.Size = Vector3.new(3, 1, 4)
+p_16.Position = Vector3.new(1, 7.5, 30)
+p_16.Orientation = Vector3.new(0, -90, 0)
+p_16.Color = Color3.fromRGB(159, 161, 172)
+p_16.Anchored = false
+
+local p_17 = Instance.new("Part")
+p_17.Name = "Part"
+p_17.Size = Vector3.new(3, 1, 4)
+p_17.Position = Vector3.new(5, 7.5, 30)
+p_17.Orientation = Vector3.new(0, -90, 0)
+p_17.Color = Color3.fromRGB(159, 161, 172)
+p_17.Anchored = false
+
+local p_18 = Instance.new("Part")
+p_18.Name = "Part"
+p_18.Size = Vector3.new(3, 1, 4)
+p_18.Position = Vector3.new(9, 7.5, 30)
+p_18.Orientation = Vector3.new(0, -90, 0)
+p_18.Color = Color3.fromRGB(159, 161, 172)
+p_18.Anchored = false
+
+local p_19 = Instance.new("Part")
+p_19.Name = "Part"
+p_19.Size = Vector3.new(3, 1, 4)
+p_19.Position = Vector3.new(13, 7.5, 30)
+p_19.Orientation = Vector3.new(0, -90, 0)
+p_19.Color = Color3.fromRGB(159, 161, 172)
+p_19.Anchored = false
+
+local p_20 = Instance.new("Part")
+p_20.Name = "Part"
+p_20.Size = Vector3.new(3, 1, 4)
+p_20.Position = Vector3.new(-5, 8.5, 30)
+p_20.Orientation = Vector3.new(0, -90, 0)
+p_20.Color = Color3.fromRGB(159, 161, 172)
+p_20.Anchored = false
+
+local p_21 = Instance.new("Part")
+p_21.Name = "Part"
+p_21.Size = Vector3.new(3, 1, 4)
+p_21.Position = Vector3.new(-1, 8.5, 30)
+p_21.Orientation = Vector3.new(0, -90, 0)
+p_21.Color = Color3.fromRGB(159, 161, 172)
+p_21.Anchored = false
+
+local p_22 = Instance.new("Part")
+p_22.Name = "Part"
+p_22.Size = Vector3.new(3, 1, 4)
+p_22.Position = Vector3.new(3, 8.5, 30)
+p_22.Orientation = Vector3.new(0, -90, 0)
+p_22.Color = Color3.fromRGB(159, 161, 172)
+p_22.Anchored = false
+
+local p_23 = Instance.new("Part")
+p_23.Name = "Part"
+p_23.Size = Vector3.new(3, 1, 4)
+p_23.Position = Vector3.new(7, 8.5, 30)
+p_23.Orientation = Vector3.new(0, -90, 0)
+p_23.Color = Color3.fromRGB(159, 161, 172)
+p_23.Anchored = false
+
+local p_24 = Instance.new("Part")
+p_24.Name = "Part"
+p_24.Size = Vector3.new(3, 1, 4)
+p_24.Position = Vector3.new(11, 8.5, 30)
+p_24.Orientation = Vector3.new(0, -90, 0)
+p_24.Color = Color3.fromRGB(159, 161, 172)
+p_24.Anchored = false
+
+local p_25 = Instance.new("Part")
+p_25.Name = "Part"
+p_25.Size = Vector3.new(3, 1, 4)
+p_25.Position = Vector3.new(15, 8.5, 30)
+p_25.Orientation = Vector3.new(0, -90, 0)
+p_25.Color = Color3.fromRGB(159, 161, 172)
+p_25.Anchored = false
+
+local p_26 = Instance.new("Part")
+p_26.Name = "Part"
+p_26.Size = Vector3.new(3, 1, 2)
+p_26.Position = Vector3.new(16, 7.5, 30)
+p_26.Orientation = Vector3.new(0, -90, 0)
+p_26.Color = Color3.fromRGB(159, 161, 172)
+p_26.Anchored = false
+
+local p_27 = Instance.new("Part")
+p_27.Name = "Part"
+p_27.Size = Vector3.new(3, 1, 2)
+p_27.Position = Vector3.new(16, 5.5, 30)
+p_27.Orientation = Vector3.new(0, -90, 0)
+p_27.Color = Color3.fromRGB(159, 161, 172)
+p_27.Anchored = false
+
+local p_28 = Instance.new("Part")
+p_28.Name = "Part"
+p_28.Size = Vector3.new(3, 1, 2)
+p_28.Position = Vector3.new(-8, 6.5, 30)
+p_28.Orientation = Vector3.new(0, -90, 0)
+p_28.Color = Color3.fromRGB(159, 161, 172)
+p_28.Anchored = false
+
+local p_29 = Instance.new("Part")
+p_29.Name = "Part"
+p_29.Size = Vector3.new(3, 1, 2)
+p_29.Position = Vector3.new(-8, 8.5, 30)
+p_29.Orientation = Vector3.new(0, -90, 0)
+p_29.Color = Color3.fromRGB(159, 161, 172)
+p_29.Anchored = false
+
+local p_30 = Instance.new("Part")
+p_30.Name = "Part"
+p_30.Size = Vector3.new(3, 1, 4)
+p_30.Position = Vector3.new(5, 9.5, 30)
+p_30.Orientation = Vector3.new(0, -90, 0)
+p_30.Color = Color3.fromRGB(159, 161, 172)
+p_30.Anchored = false
+
+local p_31 = Instance.new("Part")
+p_31.Name = "Part"
+p_31.Size = Vector3.new(3, 1, 4)
+p_31.Position = Vector3.new(9, 9.5, 30)
+p_31.Orientation = Vector3.new(0, -90, 0)
+p_31.Color = Color3.fromRGB(159, 161, 172)
+p_31.Anchored = false
+
+local p_32 = Instance.new("Part")
+p_32.Name = "Part"
+p_32.Size = Vector3.new(3, 1, 2)
+p_32.Position = Vector3.new(16, 9.5, 30)
+p_32.Orientation = Vector3.new(0, -90, 0)
+p_32.Color = Color3.fromRGB(159, 161, 172)
+p_32.Anchored = false
+
+local p_33 = Instance.new("Part")
+p_33.Name = "Part"
+p_33.Size = Vector3.new(3, 1, 4)
+p_33.Position = Vector3.new(13, 9.5, 30)
+p_33.Orientation = Vector3.new(0, -90, 0)
+p_33.Color = Color3.fromRGB(159, 161, 172)
+p_33.Anchored = false
+
+local p_34 = Instance.new("Part")
+p_34.Name = "Part"
+p_34.Size = Vector3.new(3, 1, 4)
+p_34.Position = Vector3.new(1, 9.5, 30)
+p_34.Orientation = Vector3.new(0, -90, 0)
+p_34.Color = Color3.fromRGB(159, 161, 172)
+p_34.Anchored = false
+
+local p_35 = Instance.new("Part")
+p_35.Name = "Part"
+p_35.Size = Vector3.new(3, 1, 4)
+p_35.Position = Vector3.new(-3, 9.5, 30)
+p_35.Orientation = Vector3.new(0, -90, 0)
+p_35.Color = Color3.fromRGB(159, 161, 172)
+p_35.Anchored = false
+
+local p_36 = Instance.new("Part")
+p_36.Name = "Part"
+p_36.Size = Vector3.new(3, 1, 4)
+p_36.Position = Vector3.new(-7, 9.5, 30)
+p_36.Orientation = Vector3.new(0, -90, 0)
+p_36.Color = Color3.fromRGB(159, 161, 172)
+p_36.Anchored = false
+
+local p_37 = Instance.new("Part")
+p_37.Name = "Part"
+p_37.Size = Vector3.new(3, 1, 4)
+p_37.Position = Vector3.new(-10.5, 9.5, 27.5)
+p_37.Orientation = Vector3.new(0, 180, 0)
+p_37.Color = Color3.fromRGB(159, 161, 172)
+p_37.Anchored = false
+
+local p_38 = Instance.new("Part")
+p_38.Name = "Part"
+p_38.Size = Vector3.new(3, 1, 4)
+p_38.Position = Vector3.new(-10.5, 9.5, 23.5)
+p_38.Orientation = Vector3.new(0, 180, 0)
+p_38.Color = Color3.fromRGB(159, 161, 172)
+p_38.Anchored = false
+
+local p_39 = Instance.new("Part")
+p_39.Name = "Part"
+p_39.Size = Vector3.new(3, 1, 4)
+p_39.Position = Vector3.new(-10.5, 9.5, 15.5)
+p_39.Orientation = Vector3.new(0, 180, 0)
+p_39.Color = Color3.fromRGB(159, 161, 172)
+p_39.Anchored = false
+
+local p_40 = Instance.new("Part")
+p_40.Name = "Part"
+p_40.Size = Vector3.new(3, 1, 4)
+p_40.Position = Vector3.new(-10.5, 9.5, 19.5)
+p_40.Orientation = Vector3.new(0, 180, 0)
+p_40.Color = Color3.fromRGB(159, 161, 172)
+p_40.Anchored = false
+
+local p_41 = Instance.new("Part")
+p_41.Name = "Part"
+p_41.Size = Vector3.new(3, 1, 4)
+p_41.Position = Vector3.new(-10.5, 9.5, 7.5)
+p_41.Orientation = Vector3.new(0, 180, 0)
+p_41.Color = Color3.fromRGB(159, 161, 172)
+p_41.Anchored = false
+
+local p_42 = Instance.new("Part")
+p_42.Name = "Part"
+p_42.Size = Vector3.new(3, 1, 4)
+p_42.Position = Vector3.new(-10.5, 9.5, 11.5)
+p_42.Orientation = Vector3.new(0, 180, 0)
+p_42.Color = Color3.fromRGB(159, 161, 172)
+p_42.Anchored = false
+
+local p_43 = Instance.new("Part")
+p_43.Name = "Part"
+p_43.Size = Vector3.new(3, 1, 2)
+p_43.Position = Vector3.new(-10.5, 9.5, 30.5)
+p_43.Orientation = Vector3.new(0, 180, 0)
+p_43.Color = Color3.fromRGB(159, 161, 172)
+p_43.Anchored = false
+
+local p_44 = Instance.new("Part")
+p_44.Name = "Part"
+p_44.Size = Vector3.new(3, 1, 2)
+p_44.Position = Vector3.new(-10.5, 8.5, 6.5)
+p_44.Orientation = Vector3.new(0, 180, 0)
+p_44.Color = Color3.fromRGB(159, 161, 172)
+p_44.Anchored = false
+
+local p_45 = Instance.new("Part")
+p_45.Name = "Part"
+p_45.Size = Vector3.new(3, 1, 2)
+p_45.Position = Vector3.new(-10.5, 6.5, 6.5)
+p_45.Orientation = Vector3.new(0, 180, 0)
+p_45.Color = Color3.fromRGB(159, 161, 172)
+p_45.Anchored = false
+
+local p_46 = Instance.new("Part")
+p_46.Name = "Part"
+p_46.Size = Vector3.new(3, 1, 2)
+p_46.Position = Vector3.new(-10.5, 5.5, 30.5)
+p_46.Orientation = Vector3.new(0, 180, 0)
+p_46.Color = Color3.fromRGB(159, 161, 172)
+p_46.Anchored = false
+
+local p_47 = Instance.new("Part")
+p_47.Name = "Part"
+p_47.Size = Vector3.new(3, 1, 2)
+p_47.Position = Vector3.new(-10.5, 7.5, 30.5)
+p_47.Orientation = Vector3.new(0, 180, 0)
+p_47.Color = Color3.fromRGB(159, 161, 172)
+p_47.Anchored = false
+
+local p_48 = Instance.new("Part")
+p_48.Name = "Part"
+p_48.Size = Vector3.new(3, 1, 4)
+p_48.Position = Vector3.new(-10.5, 8.5, 29.5)
+p_48.Orientation = Vector3.new(0, 180, 0)
+p_48.Color = Color3.fromRGB(159, 161, 172)
+p_48.Anchored = false
+
+local p_49 = Instance.new("Part")
+p_49.Name = "Part"
+p_49.Size = Vector3.new(3, 1, 4)
+p_49.Position = Vector3.new(-10.5, 8.5, 25.5)
+p_49.Orientation = Vector3.new(0, 180, 0)
+p_49.Color = Color3.fromRGB(159, 161, 172)
+p_49.Anchored = false
+
+local p_50 = Instance.new("Part")
+p_50.Name = "Part"
+p_50.Size = Vector3.new(3, 1, 4)
+p_50.Position = Vector3.new(-10.5, 8.5, 21.5)
+p_50.Orientation = Vector3.new(0, 180, 0)
+p_50.Color = Color3.fromRGB(159, 161, 172)
+p_50.Anchored = false
+
+local p_51 = Instance.new("Part")
+p_51.Name = "Part"
+p_51.Size = Vector3.new(3, 1, 4)
+p_51.Position = Vector3.new(-10.5, 8.5, 17.5)
+p_51.Orientation = Vector3.new(0, 180, 0)
+p_51.Color = Color3.fromRGB(159, 161, 172)
+p_51.Anchored = false
+
+local p_52 = Instance.new("Part")
+p_52.Name = "Part"
+p_52.Size = Vector3.new(3, 1, 4)
+p_52.Position = Vector3.new(-10.5, 8.5, 13.5)
+p_52.Orientation = Vector3.new(0, 180, 0)
+p_52.Color = Color3.fromRGB(159, 161, 172)
+p_52.Anchored = false
+
+local p_53 = Instance.new("Part")
+p_53.Name = "Part"
+p_53.Size = Vector3.new(3, 1, 4)
+p_53.Position = Vector3.new(-10.5, 8.5, 9.5)
+p_53.Orientation = Vector3.new(0, 180, 0)
+p_53.Color = Color3.fromRGB(159, 161, 172)
+p_53.Anchored = false
+
+local p_54 = Instance.new("Part")
+p_54.Name = "Part"
+p_54.Size = Vector3.new(3, 1, 4)
+p_54.Position = Vector3.new(-10.5, 7.5, 27.5)
+p_54.Orientation = Vector3.new(0, 180, 0)
+p_54.Color = Color3.fromRGB(159, 161, 172)
+p_54.Anchored = false
+
+local p_55 = Instance.new("Part")
+p_55.Name = "Part"
+p_55.Size = Vector3.new(3, 1, 4)
+p_55.Position = Vector3.new(-10.5, 7.5, 23.5)
+p_55.Orientation = Vector3.new(0, 180, 0)
+p_55.Color = Color3.fromRGB(159, 161, 172)
+p_55.Anchored = false
+
+local p_56 = Instance.new("Part")
+p_56.Name = "Part"
+p_56.Size = Vector3.new(3, 1, 4)
+p_56.Position = Vector3.new(-10.5, 7.5, 19.5)
+p_56.Orientation = Vector3.new(0, 180, 0)
+p_56.Color = Color3.fromRGB(159, 161, 172)
+p_56.Anchored = false
+
+local p_57 = Instance.new("Part")
+p_57.Name = "Part"
+p_57.Size = Vector3.new(3, 1, 4)
+p_57.Position = Vector3.new(-10.5, 7.5, 15.5)
+p_57.Orientation = Vector3.new(0, 180, 0)
+p_57.Color = Color3.fromRGB(159, 161, 172)
+p_57.Anchored = false
+
+local p_58 = Instance.new("Part")
+p_58.Name = "Part"
+p_58.Size = Vector3.new(3, 1, 4)
+p_58.Position = Vector3.new(-10.5, 7.5, 11.5)
+p_58.Orientation = Vector3.new(0, 180, 0)
+p_58.Color = Color3.fromRGB(159, 161, 172)
+p_58.Anchored = false
+
+local p_59 = Instance.new("Part")
+p_59.Name = "Part"
+p_59.Size = Vector3.new(3, 1, 4)
+p_59.Position = Vector3.new(-10.5, 7.5, 7.5)
+p_59.Orientation = Vector3.new(0, 180, 0)
+p_59.Color = Color3.fromRGB(159, 161, 172)
+p_59.Anchored = false
+
+local p_60 = Instance.new("Part")
+p_60.Name = "Part"
+p_60.Size = Vector3.new(3, 1, 4)
+p_60.Position = Vector3.new(-10.5, 6.5, 29.5)
+p_60.Orientation = Vector3.new(0, 180, 0)
+p_60.Color = Color3.fromRGB(159, 161, 172)
+p_60.Anchored = false
+
+local p_61 = Instance.new("Part")
+p_61.Name = "Part"
+p_61.Size = Vector3.new(3, 1, 4)
+p_61.Position = Vector3.new(-10.5, 6.5, 25.5)
+p_61.Orientation = Vector3.new(0, 180, 0)
+p_61.Color = Color3.fromRGB(159, 161, 172)
+p_61.Anchored = false
+
+local p_62 = Instance.new("Part")
+p_62.Name = "Part"
+p_62.Size = Vector3.new(3, 1, 4)
+p_62.Position = Vector3.new(-10.5, 6.5, 21.5)
+p_62.Orientation = Vector3.new(0, 180, 0)
+p_62.Color = Color3.fromRGB(159, 161, 172)
+p_62.Anchored = false
+
+local p_63 = Instance.new("Part")
+p_63.Name = "Part"
+p_63.Size = Vector3.new(3, 1, 4)
+p_63.Position = Vector3.new(-10.5, 6.5, 17.5)
+p_63.Orientation = Vector3.new(0, 180, 0)
+p_63.Color = Color3.fromRGB(159, 161, 172)
+p_63.Anchored = false
+
+local p_64 = Instance.new("Part")
+p_64.Name = "Part"
+p_64.Size = Vector3.new(3, 1, 4)
+p_64.Position = Vector3.new(-10.5, 6.5, 13.5)
+p_64.Orientation = Vector3.new(0, 180, 0)
+p_64.Color = Color3.fromRGB(159, 161, 172)
+p_64.Anchored = false
+
+local p_65 = Instance.new("Part")
+p_65.Name = "Part"
+p_65.Size = Vector3.new(3, 1, 4)
+p_65.Position = Vector3.new(-10.5, 6.5, 9.5)
+p_65.Orientation = Vector3.new(0, 180, 0)
+p_65.Color = Color3.fromRGB(159, 161, 172)
+p_65.Anchored = false
+
+local p_66 = Instance.new("Part")
+p_66.Name = "Part"
+p_66.Size = Vector3.new(3, 1, 4)
+p_66.Position = Vector3.new(-10.5, 5.5, 11.5)
+p_66.Orientation = Vector3.new(0, 180, 0)
+p_66.Color = Color3.fromRGB(159, 161, 172)
+p_66.Anchored = false
+
+local p_67 = Instance.new("Part")
+p_67.Name = "Part"
+p_67.Size = Vector3.new(3, 1, 4)
+p_67.Position = Vector3.new(-10.5, 5.5, 7.5)
+p_67.Orientation = Vector3.new(0, 180, 0)
+p_67.Color = Color3.fromRGB(159, 161, 172)
+p_67.Anchored = false
+
+local p_68 = Instance.new("Part")
+p_68.Name = "Part"
+p_68.Size = Vector3.new(3, 1, 4)
+p_68.Position = Vector3.new(-10.5, 5.5, 19.5)
+p_68.Orientation = Vector3.new(0, 180, 0)
+p_68.Color = Color3.fromRGB(159, 161, 172)
+p_68.Anchored = false
+
+local p_69 = Instance.new("Part")
+p_69.Name = "Part"
+p_69.Size = Vector3.new(3, 1, 4)
+p_69.Position = Vector3.new(-10.5, 5.5, 15.5)
+p_69.Orientation = Vector3.new(0, 180, 0)
+p_69.Color = Color3.fromRGB(159, 161, 172)
+p_69.Anchored = false
+
+local p_70 = Instance.new("Part")
+p_70.Name = "Part"
+p_70.Size = Vector3.new(3, 1, 4)
+p_70.Position = Vector3.new(-10.5, 5.5, 23.5)
+p_70.Orientation = Vector3.new(0, 180, 0)
+p_70.Color = Color3.fromRGB(159, 161, 172)
+p_70.Anchored = false
+
+local p_71 = Instance.new("Part")
+p_71.Name = "Part"
+p_71.Size = Vector3.new(3, 1, 4)
+p_71.Position = Vector3.new(-10.5, 5.5, 27.5)
+p_71.Orientation = Vector3.new(0, 180, 0)
+p_71.Color = Color3.fromRGB(159, 161, 172)
+p_71.Anchored = false
+
+local p_72 = Instance.new("Part")
+p_72.Name = "Part"
+p_72.Size = Vector3.new(3, 1, 4)
+p_72.Position = Vector3.new(18.5, 9.5, 27.5)
+p_72.Orientation = Vector3.new(0, 180, 0)
+p_72.Color = Color3.fromRGB(159, 161, 172)
+p_72.Anchored = false
+
+local p_73 = Instance.new("Part")
+p_73.Name = "Part"
+p_73.Size = Vector3.new(3, 1, 4)
+p_73.Position = Vector3.new(18.5, 9.5, 23.5)
+p_73.Orientation = Vector3.new(0, 180, 0)
+p_73.Color = Color3.fromRGB(159, 161, 172)
+p_73.Anchored = false
+
+local p_74 = Instance.new("Part")
+p_74.Name = "Part"
+p_74.Size = Vector3.new(3, 1, 4)
+p_74.Position = Vector3.new(18.5, 9.5, 15.5)
+p_74.Orientation = Vector3.new(0, 180, 0)
+p_74.Color = Color3.fromRGB(159, 161, 172)
+p_74.Anchored = false
+
+local p_75 = Instance.new("Part")
+p_75.Name = "Part"
+p_75.Size = Vector3.new(3, 1, 4)
+p_75.Position = Vector3.new(18.5, 9.5, 19.5)
+p_75.Orientation = Vector3.new(0, 180, 0)
+p_75.Color = Color3.fromRGB(159, 161, 172)
+p_75.Anchored = false
+
+local p_76 = Instance.new("Part")
+p_76.Name = "Part"
+p_76.Size = Vector3.new(3, 1, 4)
+p_76.Position = Vector3.new(18.5, 9.5, 7.5)
+p_76.Orientation = Vector3.new(0, 180, 0)
+p_76.Color = Color3.fromRGB(159, 161, 172)
+p_76.Anchored = false
+
+local p_77 = Instance.new("Part")
+p_77.Name = "Part"
+p_77.Size = Vector3.new(3, 1, 4)
+p_77.Position = Vector3.new(18.5, 9.5, 11.5)
+p_77.Orientation = Vector3.new(0, 180, 0)
+p_77.Color = Color3.fromRGB(159, 161, 172)
+p_77.Anchored = false
+
+local p_78 = Instance.new("Part")
+p_78.Name = "Part"
+p_78.Size = Vector3.new(3, 1, 2)
+p_78.Position = Vector3.new(18.5, 9.5, 30.5)
+p_78.Orientation = Vector3.new(0, 180, 0)
+p_78.Color = Color3.fromRGB(159, 161, 172)
+p_78.Anchored = false
+
+local p_79 = Instance.new("Part")
+p_79.Name = "Part"
+p_79.Size = Vector3.new(3, 1, 2)
+p_79.Position = Vector3.new(18.5, 8.5, 6.5)
+p_79.Orientation = Vector3.new(0, 180, 0)
+p_79.Color = Color3.fromRGB(159, 161, 172)
+p_79.Anchored = false
+
+local p_80 = Instance.new("Part")
+p_80.Name = "Part"
+p_80.Size = Vector3.new(3, 1, 2)
+p_80.Position = Vector3.new(18.5, 6.5, 6.5)
+p_80.Orientation = Vector3.new(0, 180, 0)
+p_80.Color = Color3.fromRGB(159, 161, 172)
+p_80.Anchored = false
+
+local p_81 = Instance.new("Part")
+p_81.Name = "Part"
+p_81.Size = Vector3.new(3, 1, 2)
+p_81.Position = Vector3.new(18.5, 5.5, 30.5)
+p_81.Orientation = Vector3.new(0, 180, 0)
+p_81.Color = Color3.fromRGB(159, 161, 172)
+p_81.Anchored = false
+
+local p_82 = Instance.new("Part")
+p_82.Name = "Part"
+p_82.Size = Vector3.new(3, 1, 2)
+p_82.Position = Vector3.new(18.5, 7.5, 30.5)
+p_82.Orientation = Vector3.new(0, 180, 0)
+p_82.Color = Color3.fromRGB(159, 161, 172)
+p_82.Anchored = false
+
+local p_83 = Instance.new("Part")
+p_83.Name = "Part"
+p_83.Size = Vector3.new(3, 1, 4)
+p_83.Position = Vector3.new(18.5, 8.5, 29.5)
+p_83.Orientation = Vector3.new(0, 180, 0)
+p_83.Color = Color3.fromRGB(159, 161, 172)
+p_83.Anchored = false
+
+local p_84 = Instance.new("Part")
+p_84.Name = "Part"
+p_84.Size = Vector3.new(3, 1, 4)
+p_84.Position = Vector3.new(18.5, 8.5, 25.5)
+p_84.Orientation = Vector3.new(0, 180, 0)
+p_84.Color = Color3.fromRGB(159, 161, 172)
+p_84.Anchored = false
+
+local p_85 = Instance.new("Part")
+p_85.Name = "Part"
+p_85.Size = Vector3.new(3, 1, 4)
+p_85.Position = Vector3.new(18.5, 8.5, 21.5)
+p_85.Orientation = Vector3.new(0, 180, 0)
+p_85.Color = Color3.fromRGB(159, 161, 172)
+p_85.Anchored = false
+
+local p_86 = Instance.new("Part")
+p_86.Name = "Part"
+p_86.Size = Vector3.new(3, 1, 4)
+p_86.Position = Vector3.new(18.5, 8.5, 17.5)
+p_86.Orientation = Vector3.new(0, 180, 0)
+p_86.Color = Color3.fromRGB(159, 161, 172)
+p_86.Anchored = false
+
+local p_87 = Instance.new("Part")
+p_87.Name = "Part"
+p_87.Size = Vector3.new(3, 1, 4)
+p_87.Position = Vector3.new(18.5, 8.5, 13.5)
+p_87.Orientation = Vector3.new(0, 180, 0)
+p_87.Color = Color3.fromRGB(159, 161, 172)
+p_87.Anchored = false
+
+local p_88 = Instance.new("Part")
+p_88.Name = "Part"
+p_88.Size = Vector3.new(3, 1, 4)
+p_88.Position = Vector3.new(18.5, 8.5, 9.5)
+p_88.Orientation = Vector3.new(0, 180, 0)
+p_88.Color = Color3.fromRGB(159, 161, 172)
+p_88.Anchored = false
+
+local p_89 = Instance.new("Part")
+p_89.Name = "Part"
+p_89.Size = Vector3.new(3, 1, 4)
+p_89.Position = Vector3.new(18.5, 7.5, 27.5)
+p_89.Orientation = Vector3.new(0, 180, 0)
+p_89.Color = Color3.fromRGB(159, 161, 172)
+p_89.Anchored = false
+
+local p_90 = Instance.new("Part")
+p_90.Name = "Part"
+p_90.Size = Vector3.new(3, 1, 4)
+p_90.Position = Vector3.new(18.5, 7.5, 23.5)
+p_90.Orientation = Vector3.new(0, 180, 0)
+p_90.Color = Color3.fromRGB(159, 161, 172)
+p_90.Anchored = false
+
+local p_91 = Instance.new("Part")
+p_91.Name = "Part"
+p_91.Size = Vector3.new(3, 1, 4)
+p_91.Position = Vector3.new(18.5, 7.5, 19.5)
+p_91.Orientation = Vector3.new(0, 180, 0)
+p_91.Color = Color3.fromRGB(159, 161, 172)
+p_91.Anchored = false
+
+local p_92 = Instance.new("Part")
+p_92.Name = "Part"
+p_92.Size = Vector3.new(3, 1, 4)
+p_92.Position = Vector3.new(18.5, 7.5, 15.5)
+p_92.Orientation = Vector3.new(0, 180, 0)
+p_92.Color = Color3.fromRGB(159, 161, 172)
+p_92.Anchored = false
+
+local p_93 = Instance.new("Part")
+p_93.Name = "Part"
+p_93.Size = Vector3.new(3, 1, 4)
+p_93.Position = Vector3.new(18.5, 7.5, 11.5)
+p_93.Orientation = Vector3.new(0, 180, 0)
+p_93.Color = Color3.fromRGB(159, 161, 172)
+p_93.Anchored = false
+
+local p_94 = Instance.new("Part")
+p_94.Name = "Part"
+p_94.Size = Vector3.new(3, 1, 4)
+p_94.Position = Vector3.new(18.5, 7.5, 7.5)
+p_94.Orientation = Vector3.new(0, 180, 0)
+p_94.Color = Color3.fromRGB(159, 161, 172)
+p_94.Anchored = false
+
+local p_95 = Instance.new("Part")
+p_95.Name = "Part"
+p_95.Size = Vector3.new(3, 1, 4)
+p_95.Position = Vector3.new(18.5, 6.5, 29.5)
+p_95.Orientation = Vector3.new(0, 180, 0)
+p_95.Color = Color3.fromRGB(159, 161, 172)
+p_95.Anchored = false
+
+local p_96 = Instance.new("Part")
+p_96.Name = "Part"
+p_96.Size = Vector3.new(3, 1, 4)
+p_96.Position = Vector3.new(18.5, 6.5, 25.5)
+p_96.Orientation = Vector3.new(0, 180, 0)
+p_96.Color = Color3.fromRGB(159, 161, 172)
+p_96.Anchored = false
+
+local p_97 = Instance.new("Part")
+p_97.Name = "Part"
+p_97.Size = Vector3.new(3, 1, 4)
+p_97.Position = Vector3.new(18.5, 6.5, 21.5)
+p_97.Orientation = Vector3.new(0, 180, 0)
+p_97.Color = Color3.fromRGB(159, 161, 172)
+p_97.Anchored = false
+
+local p_98 = Instance.new("Part")
+p_98.Name = "Part"
+p_98.Size = Vector3.new(3, 1, 4)
+p_98.Position = Vector3.new(18.5, 6.5, 17.5)
+p_98.Orientation = Vector3.new(0, 180, 0)
+p_98.Color = Color3.fromRGB(159, 161, 172)
+p_98.Anchored = false
+
+local p_99 = Instance.new("Part")
+p_99.Name = "Part"
+p_99.Size = Vector3.new(3, 1, 4)
+p_99.Position = Vector3.new(18.5, 6.5, 13.5)
+p_99.Orientation = Vector3.new(0, 180, 0)
+p_99.Color = Color3.fromRGB(159, 161, 172)
+p_99.Anchored = false
+
+local p_100 = Instance.new("Part")
+p_100.Name = "Part"
+p_100.Size = Vector3.new(3, 1, 4)
+p_100.Position = Vector3.new(18.5, 6.5, 9.5)
+p_100.Orientation = Vector3.new(0, 180, 0)
+p_100.Color = Color3.fromRGB(159, 161, 172)
+p_100.Anchored = false
+
+local p_101 = Instance.new("Part")
+p_101.Name = "Part"
+p_101.Size = Vector3.new(3, 1, 4)
+p_101.Position = Vector3.new(18.5, 5.5, 11.5)
+p_101.Orientation = Vector3.new(0, 180, 0)
+p_101.Color = Color3.fromRGB(159, 161, 172)
+p_101.Anchored = false
+
+local p_102 = Instance.new("Part")
+p_102.Name = "Part"
+p_102.Size = Vector3.new(3, 1, 4)
+p_102.Position = Vector3.new(18.5, 5.5, 7.5)
+p_102.Orientation = Vector3.new(0, 180, 0)
+p_102.Color = Color3.fromRGB(159, 161, 172)
+p_102.Anchored = false
+
+local p_103 = Instance.new("Part")
+p_103.Name = "Part"
+p_103.Size = Vector3.new(3, 1, 4)
+p_103.Position = Vector3.new(18.5, 5.5, 19.5)
+p_103.Orientation = Vector3.new(0, 180, 0)
+p_103.Color = Color3.fromRGB(159, 161, 172)
+p_103.Anchored = false
+
+local p_104 = Instance.new("Part")
+p_104.Name = "Part"
+p_104.Size = Vector3.new(3, 1, 4)
+p_104.Position = Vector3.new(18.5, 5.5, 15.5)
+p_104.Orientation = Vector3.new(0, 180, 0)
+p_104.Color = Color3.fromRGB(159, 161, 172)
+p_104.Anchored = false
+
+local p_105 = Instance.new("Part")
+p_105.Name = "Part"
+p_105.Size = Vector3.new(3, 1, 4)
+p_105.Position = Vector3.new(18.5, 5.5, 23.5)
+p_105.Orientation = Vector3.new(0, 180, 0)
+p_105.Color = Color3.fromRGB(159, 161, 172)
+p_105.Anchored = false
+
+local p_106 = Instance.new("Part")
+p_106.Name = "Part"
+p_106.Size = Vector3.new(3, 1, 4)
+p_106.Position = Vector3.new(18.5, 5.5, 27.5)
+p_106.Orientation = Vector3.new(0, 180, 0)
+p_106.Color = Color3.fromRGB(159, 161, 172)
+p_106.Anchored = false
+
+local p_107 = Instance.new("Part")
+p_107.Name = "Part"
+p_107.Size = Vector3.new(23, 1, 26)
+p_107.Position = Vector3.new(4, 5.5, 17)
+p_107.Orientation = Vector3.new(0, -90, 0)
+p_107.Color = Color3.fromRGB(159, 161, 172)
+p_107.Anchored = false
+
+local p_108 = Instance.new("Part")
+p_108.Name = "Part"
+p_108.Size = Vector3.new(3, 1, 4)
+p_108.Position = Vector3.new(18.5, 10.5, 27.5)
+p_108.Orientation = Vector3.new(0, 180, 0)
+p_108.Color = Color3.fromRGB(159, 161, 172)
+p_108.Anchored = false
+
+local p_109 = Instance.new("Part")
+p_109.Name = "Part"
+p_109.Size = Vector3.new(3, 1, 4)
+p_109.Position = Vector3.new(18.5, 10.5, 23.5)
+p_109.Orientation = Vector3.new(0, 180, 0)
+p_109.Color = Color3.fromRGB(159, 161, 172)
+p_109.Anchored = false
+
+local p_110 = Instance.new("Part")
+p_110.Name = "Part"
+p_110.Size = Vector3.new(3, 1, 4)
+p_110.Position = Vector3.new(18.5, 10.5, 15.5)
+p_110.Orientation = Vector3.new(0, 180, 0)
+p_110.Color = Color3.fromRGB(159, 161, 172)
+p_110.Anchored = false
+
+local p_111 = Instance.new("Part")
+p_111.Name = "Part"
+p_111.Size = Vector3.new(3, 1, 4)
+p_111.Position = Vector3.new(18.5, 10.5, 19.5)
+p_111.Orientation = Vector3.new(0, 180, 0)
+p_111.Color = Color3.fromRGB(159, 161, 172)
+p_111.Anchored = false
+
+local p_112 = Instance.new("Part")
+p_112.Name = "Part"
+p_112.Size = Vector3.new(3, 1, 4)
+p_112.Position = Vector3.new(18.5, 10.5, 7.5)
+p_112.Orientation = Vector3.new(0, 180, 0)
+p_112.Color = Color3.fromRGB(159, 161, 172)
+p_112.Anchored = false
+
+local p_113 = Instance.new("Part")
+p_113.Name = "Part"
+p_113.Size = Vector3.new(3, 1, 4)
+p_113.Position = Vector3.new(18.5, 10.5, 11.5)
+p_113.Orientation = Vector3.new(0, 180, 0)
+p_113.Color = Color3.fromRGB(159, 161, 172)
+p_113.Anchored = false
+
+local p_114 = Instance.new("Part")
+p_114.Name = "Part"
+p_114.Size = Vector3.new(3, 1, 4)
+p_114.Position = Vector3.new(18.5, 11.5, 9.5)
+p_114.Orientation = Vector3.new(0, 180, 0)
+p_114.Color = Color3.fromRGB(159, 161, 172)
+p_114.Anchored = false
+
+local p_115 = Instance.new("Part")
+p_115.Name = "Part"
+p_115.Size = Vector3.new(3, 1, 4)
+p_115.Position = Vector3.new(18.5, 11.5, 13.5)
+p_115.Orientation = Vector3.new(0, 180, 0)
+p_115.Color = Color3.fromRGB(159, 161, 172)
+p_115.Anchored = false
+
+local p_116 = Instance.new("Part")
+p_116.Name = "Part"
+p_116.Size = Vector3.new(3, 1, 4)
+p_116.Position = Vector3.new(18.5, 11.5, 17.5)
+p_116.Orientation = Vector3.new(0, 180, 0)
+p_116.Color = Color3.fromRGB(159, 161, 172)
+p_116.Anchored = false
+
+local p_117 = Instance.new("Part")
+p_117.Name = "Part"
+p_117.Size = Vector3.new(3, 1, 4)
+p_117.Position = Vector3.new(18.5, 11.5, 21.5)
+p_117.Orientation = Vector3.new(0, 180, 0)
+p_117.Color = Color3.fromRGB(159, 161, 172)
+p_117.Anchored = false
+
+local p_118 = Instance.new("Part")
+p_118.Name = "Part"
+p_118.Size = Vector3.new(3, 1, 4)
+p_118.Position = Vector3.new(18.5, 11.5, 25.5)
+p_118.Orientation = Vector3.new(0, 180, 0)
+p_118.Color = Color3.fromRGB(159, 161, 172)
+p_118.Anchored = false
+
+local p_119 = Instance.new("Part")
+p_119.Name = "Part"
+p_119.Size = Vector3.new(3, 1, 4)
+p_119.Position = Vector3.new(18.5, 11.5, 29.5)
+p_119.Orientation = Vector3.new(0, 180, 0)
+p_119.Color = Color3.fromRGB(159, 161, 172)
+p_119.Anchored = false
+
+local p_120 = Instance.new("Part")
+p_120.Name = "Part"
+p_120.Size = Vector3.new(3, 1, 4)
+p_120.Position = Vector3.new(18.5, 12.5, 7.5)
+p_120.Orientation = Vector3.new(0, 180, 0)
+p_120.Color = Color3.fromRGB(159, 161, 172)
+p_120.Anchored = false
+
+local p_121 = Instance.new("Part")
+p_121.Name = "Part"
+p_121.Size = Vector3.new(3, 1, 4)
+p_121.Position = Vector3.new(18.5, 12.5, 11.5)
+p_121.Orientation = Vector3.new(0, 180, 0)
+p_121.Color = Color3.fromRGB(159, 161, 172)
+p_121.Anchored = false
+
+local p_122 = Instance.new("Part")
+p_122.Name = "Part"
+p_122.Size = Vector3.new(3, 1, 4)
+p_122.Position = Vector3.new(18.5, 12.5, 15.5)
+p_122.Orientation = Vector3.new(0, 180, 0)
+p_122.Color = Color3.fromRGB(159, 161, 172)
+p_122.Anchored = false
+
+local p_123 = Instance.new("Part")
+p_123.Name = "Part"
+p_123.Size = Vector3.new(3, 1, 4)
+p_123.Position = Vector3.new(18.5, 12.5, 19.5)
+p_123.Orientation = Vector3.new(0, 180, 0)
+p_123.Color = Color3.fromRGB(159, 161, 172)
+p_123.Anchored = false
+
+local p_124 = Instance.new("Part")
+p_124.Name = "Part"
+p_124.Size = Vector3.new(3, 1, 4)
+p_124.Position = Vector3.new(18.5, 12.5, 23.5)
+p_124.Orientation = Vector3.new(0, 180, 0)
+p_124.Color = Color3.fromRGB(159, 161, 172)
+p_124.Anchored = false
+
+local p_125 = Instance.new("Part")
+p_125.Name = "Part"
+p_125.Size = Vector3.new(3, 1, 4)
+p_125.Position = Vector3.new(18.5, 12.5, 27.5)
+p_125.Orientation = Vector3.new(0, 180, 0)
+p_125.Color = Color3.fromRGB(159, 161, 172)
+p_125.Anchored = false
+
+local p_126 = Instance.new("Part")
+p_126.Name = "Part"
+p_126.Size = Vector3.new(3, 1, 4)
+p_126.Position = Vector3.new(-7, 10.5, 30)
+p_126.Orientation = Vector3.new(0, -90, 0)
+p_126.Color = Color3.fromRGB(159, 161, 172)
+p_126.Anchored = false
+
+local p_127 = Instance.new("Part")
+p_127.Name = "Part"
+p_127.Size = Vector3.new(3, 1, 4)
+p_127.Position = Vector3.new(1, 12.5, 30)
+p_127.Orientation = Vector3.new(0, -90, 0)
+p_127.Color = Color3.fromRGB(159, 161, 172)
+p_127.Anchored = false
+
+local p_128 = Instance.new("Part")
+p_128.Name = "Part"
+p_128.Size = Vector3.new(3, 1, 4)
+p_128.Position = Vector3.new(-5, 11.5, 30)
+p_128.Orientation = Vector3.new(0, -90, 0)
+p_128.Color = Color3.fromRGB(159, 161, 172)
+p_128.Anchored = false
+
+local p_129 = Instance.new("Part")
+p_129.Name = "Part"
+p_129.Size = Vector3.new(3, 1, 4)
+p_129.Position = Vector3.new(13, 12.5, 30)
+p_129.Orientation = Vector3.new(0, -90, 0)
+p_129.Color = Color3.fromRGB(159, 161, 172)
+p_129.Anchored = false
+
+local p_130 = Instance.new("Part")
+p_130.Name = "Part"
+p_130.Size = Vector3.new(3, 1, 2)
+p_130.Position = Vector3.new(16, 10.5, 30)
+p_130.Orientation = Vector3.new(0, -90, 0)
+p_130.Color = Color3.fromRGB(159, 161, 172)
+p_130.Anchored = false
+
+local p_131 = Instance.new("Part")
+p_131.Name = "Part"
+p_131.Size = Vector3.new(3, 1, 4)
+p_131.Position = Vector3.new(-3, 12.5, 30)
+p_131.Orientation = Vector3.new(0, -90, 0)
+p_131.Color = Color3.fromRGB(159, 161, 172)
+p_131.Anchored = false
+
+local p_132 = Instance.new("Part")
+p_132.Name = "Part"
+p_132.Size = Vector3.new(3, 1, 2)
+p_132.Position = Vector3.new(18.5, 12.5, 30.5)
+p_132.Orientation = Vector3.new(0, 180, 0)
+p_132.Color = Color3.fromRGB(159, 161, 172)
+p_132.Anchored = false
+
+local p_133 = Instance.new("Part")
+p_133.Name = "Part"
+p_133.Size = Vector3.new(3, 1, 2)
+p_133.Position = Vector3.new(18.5, 10.5, 30.5)
+p_133.Orientation = Vector3.new(0, 180, 0)
+p_133.Color = Color3.fromRGB(159, 161, 172)
+p_133.Anchored = false
+
+local p_134 = Instance.new("Part")
+p_134.Name = "Part"
+p_134.Size = Vector3.new(3, 1, 2)
+p_134.Position = Vector3.new(18.5, 11.5, 6.5)
+p_134.Orientation = Vector3.new(0, 180, 0)
+p_134.Color = Color3.fromRGB(159, 161, 172)
+p_134.Anchored = false
+
+local p_135 = Instance.new("Part")
+p_135.Name = "Part"
+p_135.Size = Vector3.new(3, 1, 4)
+p_135.Position = Vector3.new(1, 10.5, 30)
+p_135.Orientation = Vector3.new(0, -90, 0)
+p_135.Color = Color3.fromRGB(159, 161, 172)
+p_135.Anchored = false
+
+local p_136 = Instance.new("Part")
+p_136.Name = "Part"
+p_136.Size = Vector3.new(3, 1, 4)
+p_136.Position = Vector3.new(-1, 11.5, 30)
+p_136.Orientation = Vector3.new(0, -90, 0)
+p_136.Color = Color3.fromRGB(159, 161, 172)
+p_136.Anchored = false
+
+local p_137 = Instance.new("Part")
+p_137.Name = "Part"
+p_137.Size = Vector3.new(3, 1, 4)
+p_137.Position = Vector3.new(9, 10.5, 30)
+p_137.Orientation = Vector3.new(0, -90, 0)
+p_137.Color = Color3.fromRGB(159, 161, 172)
+p_137.Anchored = false
+
+local p_138 = Instance.new("Part")
+p_138.Name = "Part"
+p_138.Size = Vector3.new(3, 1, 4)
+p_138.Position = Vector3.new(13, 10.5, 30)
+p_138.Orientation = Vector3.new(0, -90, 0)
+p_138.Color = Color3.fromRGB(159, 161, 172)
+p_138.Anchored = false
+
+local p_139 = Instance.new("Part")
+p_139.Name = "Part"
+p_139.Size = Vector3.new(3, 1, 4)
+p_139.Position = Vector3.new(-3, 10.5, 30)
+p_139.Orientation = Vector3.new(0, -90, 0)
+p_139.Color = Color3.fromRGB(159, 161, 172)
+p_139.Anchored = false
+
+local p_140 = Instance.new("Part")
+p_140.Name = "Part"
+p_140.Size = Vector3.new(3, 1, 4)
+p_140.Position = Vector3.new(5, 10.5, 30)
+p_140.Orientation = Vector3.new(0, -90, 0)
+p_140.Color = Color3.fromRGB(159, 161, 172)
+p_140.Anchored = false
+
+local p_141 = Instance.new("Part")
+p_141.Name = "Part"
+p_141.Size = Vector3.new(3, 1, 4)
+p_141.Position = Vector3.new(-7, 12.5, 30)
+p_141.Orientation = Vector3.new(0, -90, 0)
+p_141.Color = Color3.fromRGB(159, 161, 172)
+p_141.Anchored = false
+
+local p_142 = Instance.new("Part")
+p_142.Name = "Part"
+p_142.Size = Vector3.new(3, 1, 4)
+p_142.Position = Vector3.new(9, 12.5, 30)
+p_142.Orientation = Vector3.new(0, -90, 0)
+p_142.Color = Color3.fromRGB(159, 161, 172)
+p_142.Anchored = false
+
+local p_143 = Instance.new("Part")
+p_143.Name = "Part"
+p_143.Size = Vector3.new(3, 1, 4)
+p_143.Position = Vector3.new(-10.5, 10.5, 27.5)
+p_143.Orientation = Vector3.new(0, 180, 0)
+p_143.Color = Color3.fromRGB(159, 161, 172)
+p_143.Anchored = false
+
+local p_144 = Instance.new("Part")
+p_144.Name = "Part"
+p_144.Size = Vector3.new(3, 1, 4)
+p_144.Position = Vector3.new(-10.5, 10.5, 23.5)
+p_144.Orientation = Vector3.new(0, 180, 0)
+p_144.Color = Color3.fromRGB(159, 161, 172)
+p_144.Anchored = false
+
+local p_145 = Instance.new("Part")
+p_145.Name = "Part"
+p_145.Size = Vector3.new(3, 1, 4)
+p_145.Position = Vector3.new(-10.5, 10.5, 15.5)
+p_145.Orientation = Vector3.new(0, 180, 0)
+p_145.Color = Color3.fromRGB(159, 161, 172)
+p_145.Anchored = false
+
+local p_146 = Instance.new("Part")
+p_146.Name = "Part"
+p_146.Size = Vector3.new(3, 1, 4)
+p_146.Position = Vector3.new(-10.5, 10.5, 19.5)
+p_146.Orientation = Vector3.new(0, 180, 0)
+p_146.Color = Color3.fromRGB(159, 161, 172)
+p_146.Anchored = false
+
+local p_147 = Instance.new("Part")
+p_147.Name = "Part"
+p_147.Size = Vector3.new(3, 1, 4)
+p_147.Position = Vector3.new(-10.5, 10.5, 7.5)
+p_147.Orientation = Vector3.new(0, 180, 0)
+p_147.Color = Color3.fromRGB(159, 161, 172)
+p_147.Anchored = false
+
+local p_148 = Instance.new("Part")
+p_148.Name = "Part"
+p_148.Size = Vector3.new(3, 1, 4)
+p_148.Position = Vector3.new(-10.5, 10.5, 11.5)
+p_148.Orientation = Vector3.new(0, 180, 0)
+p_148.Color = Color3.fromRGB(159, 161, 172)
+p_148.Anchored = false
+
+local p_149 = Instance.new("Part")
+p_149.Name = "Part"
+p_149.Size = Vector3.new(3, 1, 4)
+p_149.Position = Vector3.new(-10.5, 11.5, 9.5)
+p_149.Orientation = Vector3.new(0, 180, 0)
+p_149.Color = Color3.fromRGB(159, 161, 172)
+p_149.Anchored = false
+
+local p_150 = Instance.new("Part")
+p_150.Name = "Part"
+p_150.Size = Vector3.new(3, 1, 4)
+p_150.Position = Vector3.new(-10.5, 11.5, 13.5)
+p_150.Orientation = Vector3.new(0, 180, 0)
+p_150.Color = Color3.fromRGB(159, 161, 172)
+p_150.Anchored = false
+
+local p_151 = Instance.new("Part")
+p_151.Name = "Part"
+p_151.Size = Vector3.new(3, 1, 4)
+p_151.Position = Vector3.new(-10.5, 11.5, 17.5)
+p_151.Orientation = Vector3.new(0, 180, 0)
+p_151.Color = Color3.fromRGB(159, 161, 172)
+p_151.Anchored = false
+
+local p_152 = Instance.new("Part")
+p_152.Name = "Part"
+p_152.Size = Vector3.new(3, 1, 4)
+p_152.Position = Vector3.new(-10.5, 11.5, 21.5)
+p_152.Orientation = Vector3.new(0, 180, 0)
+p_152.Color = Color3.fromRGB(159, 161, 172)
+p_152.Anchored = false
+
+local p_153 = Instance.new("Part")
+p_153.Name = "Part"
+p_153.Size = Vector3.new(3, 1, 4)
+p_153.Position = Vector3.new(-10.5, 11.5, 25.5)
+p_153.Orientation = Vector3.new(0, 180, 0)
+p_153.Color = Color3.fromRGB(159, 161, 172)
+p_153.Anchored = false
+
+local p_154 = Instance.new("Part")
+p_154.Name = "Part"
+p_154.Size = Vector3.new(3, 1, 4)
+p_154.Position = Vector3.new(-10.5, 11.5, 29.5)
+p_154.Orientation = Vector3.new(0, 180, 0)
+p_154.Color = Color3.fromRGB(159, 161, 172)
+p_154.Anchored = false
+
+local p_155 = Instance.new("Part")
+p_155.Name = "Part"
+p_155.Size = Vector3.new(3, 1, 4)
+p_155.Position = Vector3.new(-10.5, 12.5, 7.5)
+p_155.Orientation = Vector3.new(0, 180, 0)
+p_155.Color = Color3.fromRGB(159, 161, 172)
+p_155.Anchored = false
+
+local p_156 = Instance.new("Part")
+p_156.Name = "Part"
+p_156.Size = Vector3.new(3, 1, 4)
+p_156.Position = Vector3.new(-10.5, 12.5, 11.5)
+p_156.Orientation = Vector3.new(0, 180, 0)
+p_156.Color = Color3.fromRGB(159, 161, 172)
+p_156.Anchored = false
+
+local p_157 = Instance.new("Part")
+p_157.Name = "Part"
+p_157.Size = Vector3.new(3, 1, 4)
+p_157.Position = Vector3.new(-10.5, 12.5, 15.5)
+p_157.Orientation = Vector3.new(0, 180, 0)
+p_157.Color = Color3.fromRGB(159, 161, 172)
+p_157.Anchored = false
+
+local p_158 = Instance.new("Part")
+p_158.Name = "Part"
+p_158.Size = Vector3.new(3, 1, 4)
+p_158.Position = Vector3.new(-10.5, 12.5, 19.5)
+p_158.Orientation = Vector3.new(0, 180, 0)
+p_158.Color = Color3.fromRGB(159, 161, 172)
+p_158.Anchored = false
+
+local p_159 = Instance.new("Part")
+p_159.Name = "Part"
+p_159.Size = Vector3.new(3, 1, 4)
+p_159.Position = Vector3.new(-10.5, 12.5, 23.5)
+p_159.Orientation = Vector3.new(0, 180, 0)
+p_159.Color = Color3.fromRGB(159, 161, 172)
+p_159.Anchored = false
+
+local p_160 = Instance.new("Part")
+p_160.Name = "Part"
+p_160.Size = Vector3.new(3, 1, 4)
+p_160.Position = Vector3.new(-10.5, 12.5, 27.5)
+p_160.Orientation = Vector3.new(0, 180, 0)
+p_160.Color = Color3.fromRGB(159, 161, 172)
+p_160.Anchored = false
+
+local p_161 = Instance.new("Part")
+p_161.Name = "Part"
+p_161.Size = Vector3.new(3, 1, 4)
+p_161.Position = Vector3.new(7, 11.5, 30)
+p_161.Orientation = Vector3.new(0, -90, 0)
+p_161.Color = Color3.fromRGB(159, 161, 172)
+p_161.Anchored = false
+
+local p_162 = Instance.new("Part")
+p_162.Name = "Part"
+p_162.Size = Vector3.new(3, 1, 4)
+p_162.Position = Vector3.new(5, 12.5, 30)
+p_162.Orientation = Vector3.new(0, -90, 0)
+p_162.Color = Color3.fromRGB(159, 161, 172)
+p_162.Anchored = false
+
+local p_163 = Instance.new("Part")
+p_163.Name = "Part"
+p_163.Size = Vector3.new(3, 1, 4)
+p_163.Position = Vector3.new(11, 11.5, 30)
+p_163.Orientation = Vector3.new(0, -90, 0)
+p_163.Color = Color3.fromRGB(159, 161, 172)
+p_163.Anchored = false
+
+local p_164 = Instance.new("Part")
+p_164.Name = "Part"
+p_164.Size = Vector3.new(3, 1, 2)
+p_164.Position = Vector3.new(-8, 11.5, 30)
+p_164.Orientation = Vector3.new(0, -90, 0)
+p_164.Color = Color3.fromRGB(159, 161, 172)
+p_164.Anchored = false
+
+local p_165 = Instance.new("Part")
+p_165.Name = "Part"
+p_165.Size = Vector3.new(3, 1, 2)
+p_165.Position = Vector3.new(16, 12.5, 30)
+p_165.Orientation = Vector3.new(0, -90, 0)
+p_165.Color = Color3.fromRGB(159, 161, 172)
+p_165.Anchored = false
+
+local p_166 = Instance.new("Part")
+p_166.Name = "Part"
+p_166.Size = Vector3.new(3, 1, 4)
+p_166.Position = Vector3.new(3, 11.5, 30)
+p_166.Orientation = Vector3.new(0, -90, 0)
+p_166.Color = Color3.fromRGB(159, 161, 172)
+p_166.Anchored = false
+
+local p_167 = Instance.new("Part")
+p_167.Name = "Part"
+p_167.Size = Vector3.new(3, 1, 2)
+p_167.Position = Vector3.new(-10.5, 12.5, 30.5)
+p_167.Orientation = Vector3.new(0, 180, 0)
+p_167.Color = Color3.fromRGB(159, 161, 172)
+p_167.Anchored = false
+
+local p_168 = Instance.new("Part")
+p_168.Name = "Part"
+p_168.Size = Vector3.new(3, 1, 2)
+p_168.Position = Vector3.new(-10.5, 10.5, 30.5)
+p_168.Orientation = Vector3.new(0, 180, 0)
+p_168.Color = Color3.fromRGB(159, 161, 172)
+p_168.Anchored = false
+
+local p_169 = Instance.new("Part")
+p_169.Name = "Part"
+p_169.Size = Vector3.new(3, 1, 2)
+p_169.Position = Vector3.new(-10.5, 11.5, 6.5)
+p_169.Orientation = Vector3.new(0, 180, 0)
+p_169.Color = Color3.fromRGB(159, 161, 172)
+p_169.Anchored = false
+
+local p_170 = Instance.new("Part")
+p_170.Name = "Part"
+p_170.Size = Vector3.new(3, 1, 4)
+p_170.Position = Vector3.new(15, 11.5, 30)
+p_170.Orientation = Vector3.new(0, -90, 0)
+p_170.Color = Color3.fromRGB(159, 161, 172)
+p_170.Anchored = false
