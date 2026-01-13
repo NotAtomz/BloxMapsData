@@ -6,6 +6,9 @@ local p_1 = Instance.new("RocketLauncher")
 p_1.Position = Vector3.new(-1, 8.4, 22)
 p_1.Orientation = Vector3.new(0, 0, 0)
 
+local boms = Instance.new("BombTool")
+boms.Position = Vector3.new(1, 8.4, 22)
+boms.Orientation = Vector3.new(0, 0, 0)
 
 local p_3 = Instance.new("Part")
 p_3.Name = "Smooth Block Model"
@@ -58080,3 +58083,4 @@ p_8104.Size = Vector3.new(1, 3.6, 1)
 p_8104.Position = Vector3.new(25.5, 8, 116.7)
 p_8104.Orientation = Vector3.new(0, 180, 0)
 p_8104.Color = Color3.fromRGB(27, 42, 53)
+
