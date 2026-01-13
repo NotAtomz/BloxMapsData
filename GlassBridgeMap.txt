@@ -6,6 +6,9 @@ local p_1 = Instance.new("RocketLauncher")
 p_1.Position = Vector3.new(-1, 8.4, 22)
 p_1.Orientation = Vector3.new(0, 0, 0)
 
+local boms = Instance.new("BombTool")
+boms.Position = Vector3.new(1, 8.4, 22)
+boms.Orientation = Vector3.new(0, 0, 0)
 
 local p_3 = Instance.new("Part")
 p_3.Name = "Left Wall"
@@ -18114,3 +18117,4 @@ p_2492.Position = Vector3.new(109.5, 38.6, 135.5)
 p_2492.Orientation = Vector3.new(0, 180, 0)
 p_2492.Color = Color3.fromRGB(196, 40, 28)
 p_2492.Transparency = 0.3
+
