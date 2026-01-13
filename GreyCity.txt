@@ -43695,9 +43695,8 @@ p_6210.Position = Vector3.new(4, 26, -17.452)
 p_6210.Orientation = Vector3.new(0, 0, 0)
 
 
-local p_6212 = Instance.new("Part")
+local p_6212 = Instance.new("SpawnLocation")
 p_6212.Name = "SpawnLocation"
-p_6212.Size = Vector3.new(3, 1, 3)
 p_6212.Position = Vector3.new(0, 24.7, -7.5)
 p_6212.Orientation = Vector3.new(0, 0, 0)
-p_6212.Color = Color3.fromRGB(163, 162, 165)
+
