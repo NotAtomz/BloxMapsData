@@ -79,6 +79,14 @@
       "gamecreated": "1/11/2026",
       "gamemaker": "blox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/IDKwhatthisis.txt"
+    },
+    {
+      "gamename": "Target Practice",
+      "gameimage": "",
+      "gamedesc": "Shoot All The Targets For Nothing.",
+      "gamecreated": "1/12/2026",
+      "gamemaker": "blox",
+      "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/TargetPractice.txt"
     }
   ]
 }
