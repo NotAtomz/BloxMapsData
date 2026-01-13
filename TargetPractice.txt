@@ -1,0 +1,138 @@
+-- AUTO-GENERATED MAP SCRIPT
+
+local p_1 = Instance.new("RocketLauncher")
+p_1.Position = Vector3.new(-4, 9, -6.452)
+p_1.Orientation = Vector3.new(0, 0, 0)
+
+
+local p_3 = Instance.new("Part")
+p_3.Name = "SpawnLocation"
+p_3.Size = Vector3.new(3, 1, 3)
+p_3.Position = Vector3.new(0, 5.5, 6)
+p_3.Orientation = Vector3.new(0, 0, 0)
+p_3.Color = Color3.fromRGB(163, 162, 165)
+
+local p_4 = Instance.new("BombTool")
+p_4.Position = Vector3.new(4, 9, -6.452)
+p_4.Orientation = Vector3.new(0, 0, 0)
+
+
+local p_6 = Instance.new("Part")
+p_6.Name = "Baseplate"
+p_6.Size = Vector3.new(150, 10, 100)
+p_6.Position = Vector3.new(0, 0, -25)
+p_6.Orientation = Vector3.new(0, -90, 0)
+p_6.Color = Color3.fromRGB(215, 197, 154)
+p_6.Locked = true
+
+local p_7 = Instance.new("Part")
+p_7.Name = "Part"
+p_7.Size = Vector3.new(2, 4, 50)
+p_7.Position = Vector3.new(2.5, 7, -16.5)
+p_7.Orientation = Vector3.new(0, -90, 0)
+p_7.Color = Color3.fromRGB(105, 64, 40)
+
+local p_8 = Instance.new("Part")
+p_8.Name = "Part"
+p_8.Size = Vector3.new(2, 4, 50)
+p_8.Position = Vector3.new(2.5, 16, -16.5)
+p_8.Orientation = Vector3.new(0, -90, 0)
+p_8.Color = Color3.fromRGB(105, 64, 40)
+
+local p_9 = Instance.new("Part")
+p_9.Name = "Part"
+p_9.Size = Vector3.new(2, 13, 4)
+p_9.Position = Vector3.new(29.5, 11.5, -16.5)
+p_9.Orientation = Vector3.new(0, -90, 0)
+p_9.Color = Color3.fromRGB(105, 64, 40)
+
+local p_10 = Instance.new("Part")
+p_10.Name = "Part"
+p_10.Size = Vector3.new(2, 13, 4)
+p_10.Position = Vector3.new(-24.5, 11.5, -16.5)
+p_10.Orientation = Vector3.new(0, -90, 0)
+p_10.Color = Color3.fromRGB(105, 64, 40)
+
+local p_11 = Instance.new("Part")
+p_11.Name = "Part"
+p_11.Size = Vector3.new(2, 13, 4)
+p_11.Position = Vector3.new(-11.5, 11.5, -36.5)
+p_11.Orientation = Vector3.new(0, -90, 0)
+p_11.Color = Color3.fromRGB(159, 161, 172)
+
+local p_12 = Instance.new("Part")
+p_12.Name = "Part"
+p_12.Size = Vector3.new(2, 13, 4)
+p_12.Position = Vector3.new(-20.5, 11.5, -48.5)
+p_12.Orientation = Vector3.new(0, -90, 0)
+p_12.Color = Color3.fromRGB(159, 161, 172)
+
+local p_13 = Instance.new("Part")
+p_13.Name = "Part"
+p_13.Size = Vector3.new(2, 13, 4)
+p_13.Position = Vector3.new(-2.5, 11.5, -62.5)
+p_13.Orientation = Vector3.new(0, -90, 0)
+p_13.Color = Color3.fromRGB(159, 161, 172)
+
+local p_14 = Instance.new("Part")
+p_14.Name = "Part"
+p_14.Size = Vector3.new(2, 13, 4)
+p_14.Position = Vector3.new(6.5, 11.5, -50.5)
+p_14.Orientation = Vector3.new(0, -90, 0)
+p_14.Color = Color3.fromRGB(159, 161, 172)
+
+local p_15 = Instance.new("Part")
+p_15.Name = "Part"
+p_15.Size = Vector3.new(2, 13, 4)
+p_15.Position = Vector3.new(20.5, 11.5, -54.5)
+p_15.Orientation = Vector3.new(0, -90, 0)
+p_15.Color = Color3.fromRGB(159, 161, 172)
+
+local p_16 = Instance.new("Part")
+p_16.Name = "Part"
+p_16.Size = Vector3.new(2, 13, 4)
+p_16.Position = Vector3.new(29.5, 11.5, -42.5)
+p_16.Orientation = Vector3.new(0, -90, 0)
+p_16.Color = Color3.fromRGB(159, 161, 172)
+
+local p_17 = Instance.new("Part")
+p_17.Name = "Part"
+p_17.Size = Vector3.new(2, 13, 4)
+p_17.Position = Vector3.new(20.5, 11.5, -78.5)
+p_17.Orientation = Vector3.new(0, -90, 0)
+p_17.Color = Color3.fromRGB(159, 161, 172)
+
+local p_18 = Instance.new("Part")
+p_18.Name = "Part"
+p_18.Size = Vector3.new(2, 13, 4)
+p_18.Position = Vector3.new(29.5, 11.5, -66.5)
+p_18.Orientation = Vector3.new(0, -90, 0)
+p_18.Color = Color3.fromRGB(159, 161, 172)
+
+local p_19 = Instance.new("Part")
+p_19.Name = "Part"
+p_19.Size = Vector3.new(2, 13, 4)
+p_19.Position = Vector3.new(6.5, 11.5, -74.5)
+p_19.Orientation = Vector3.new(0, -90, 0)
+p_19.Color = Color3.fromRGB(159, 161, 172)
+
+local p_20 = Instance.new("Part")
+p_20.Name = "Part"
+p_20.Size = Vector3.new(2, 13, 4)
+p_20.Position = Vector3.new(-2.5, 11.5, -86.5)
+p_20.Orientation = Vector3.new(0, -90, 0)
+p_20.Color = Color3.fromRGB(159, 161, 172)
+
+local p_21 = Instance.new("Part")
+p_21.Name = "Part"
+p_21.Size = Vector3.new(2, 13, 4)
+p_21.Position = Vector3.new(-20.5, 11.5, -72.5)
+p_21.Orientation = Vector3.new(0, -90, 0)
+p_21.Color = Color3.fromRGB(159, 161, 172)
+
+local p_22 = Instance.new("Part")
+p_22.Name = "Part"
+p_22.Size = Vector3.new(2, 13, 4)
+p_22.Position = Vector3.new(-11.5, 11.5, -60.5)
+p_22.Orientation = Vector3.new(0, -90, 0)
+p_22.Color = Color3.fromRGB(159, 161, 172)
