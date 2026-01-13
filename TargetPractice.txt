@@ -1,5 +1,7 @@
 -- AUTO-GENERATED MAP SCRIPT
 
+game.Players.LocalPlayer:LoadCharacter()
+
 local p_1 = Instance.new("RocketLauncher")
 p_1.Position = Vector3.new(-4, 9, -6.452)
 p_1.Orientation = Vector3.new(0, 0, 0)
