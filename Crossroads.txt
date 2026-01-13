@@ -1,7 +1,5 @@
 -- AUTO-GENERATED MAP SCRIPT
-
 game.Players.LocalPlayer:LoadCharacter()
-
 local p_1 = Instance.new("Part")
 p_1.Name = "Pillar"
 p_1.Size = Vector3.new(2, 2, 2)
@@ -51,12 +49,9 @@ p_7.Position = Vector3.new(176.3, 18.2, -143.1)
 p_7.Orientation = Vector3.new(0, 180, 0)
 p_7.Color = Color3.fromRGB(245, 205, 48)
 
-local p_8 = Instance.new("Part")
-p_8.Name = "SpawnLocation"
-p_8.Size = Vector3.new(6, 1.2, 6)
+local p_8 = Instance.new("SpawnLocation")
 p_8.Position = Vector3.new(-48.2, -20.2, -45.1)
 p_8.Orientation = Vector3.new(0, 0, 0)
-p_8.Color = Color3.fromRGB(163, 162, 165)
 
 local p_9 = Instance.new("Part")
 p_9.Name = "Smooth Block Model"
@@ -79,54 +74,33 @@ p_11.Position = Vector3.new(159.3, 17.4, 175.4)
 p_11.Orientation = Vector3.new(0, 180, 0)
 p_11.Color = Color3.fromRGB(110, 153, 202)
 
-local p_12 = Instance.new("Part")
-p_12.Name = "SpawnLocation"
-p_12.Size = Vector3.new(6, 1.2, 6)
+local p_12 = Instance.new("SpawnLocation")
 p_12.Position = Vector3.new(-179.2, -3.2, -176.1)
 p_12.Orientation = Vector3.new(0, -90, 0)
-p_12.Color = Color3.fromRGB(163, 162, 165)
 
-local p_13 = Instance.new("Part")
-p_13.Name = "SpawnLocation"
-p_13.Size = Vector3.new(6, 1.2, 6)
+local p_13 = Instance.new("SpawnLocation")
 p_13.Position = Vector3.new(-167.2, -7, 182.9)
 p_13.Orientation = Vector3.new(0, 0, 0)
-p_13.Color = Color3.fromRGB(163, 162, 165)
 
-local p_14 = Instance.new("Part")
-p_14.Name = "SpawnLocation"
-p_14.Size = Vector3.new(6, 1.2, 6)
+local p_14 = Instance.new("SpawnLocation")
 p_14.Position = Vector3.new(-62.2, 27.8, 163.9)
 p_14.Orientation = Vector3.new(0, 0, 0)
-p_14.Color = Color3.fromRGB(163, 162, 165)
 
-local p_15 = Instance.new("Part")
-p_15.Name = "SpawnLocation"
-p_15.Size = Vector3.new(6, 1.2, 6)
+local p_15 = Instance.new("SpawnLocation")
 p_15.Position = Vector3.new(148.8, -7, -23.1)
 p_15.Orientation = Vector3.new(0, 0, 0)
-p_15.Color = Color3.fromRGB(163, 162, 165)
 
-local p_16 = Instance.new("Part")
-p_16.Name = "SpawnLocation"
-p_16.Size = Vector3.new(6, 1.2, 6)
+local p_16 = Instance.new("SpawnLocation")
 p_16.Position = Vector3.new(151.8, 15.8, 120.4)
 p_16.Orientation = Vector3.new(0, 0, 0)
-p_16.Color = Color3.fromRGB(163, 162, 165)
 
-local p_17 = Instance.new("Part")
-p_17.Name = "SpawnLocation"
-p_17.Size = Vector3.new(6, 1.2, 6)
+local p_17 = Instance.new("SpawnLocation")
 p_17.Position = Vector3.new(39.8, -8.2, 71.4)
 p_17.Orientation = Vector3.new(0, 0, 0)
-p_17.Color = Color3.fromRGB(163, 162, 165)
 
-local p_18 = Instance.new("Part")
-p_18.Name = "SpawnLocation"
-p_18.Size = Vector3.new(6, 1.2, 6)
+local p_18 = Instance.new("SpawnLocation")
 p_18.Position = Vector3.new(27.8, -3.4, -158.1)
 p_18.Orientation = Vector3.new(0, 0, 0)
-p_18.Color = Color3.fromRGB(163, 162, 165)
 
 local p_19 = Instance.new("Part")
 p_19.Name = "Smooth Block Model"
@@ -198,6 +172,7 @@ p_28.Size = Vector3.new(20, 24, 29)
 p_28.Position = Vector3.new(39.8, -8.8, 135.9)
 p_28.Orientation = Vector3.new(0, 180, 0)
 p_28.Color = Color3.fromRGB(99, 95, 98)
+p_28.Locked = true
 
 local p_29 = Instance.new("Part")
 p_29.Name = "Smooth Block Model"
@@ -219,6 +194,7 @@ p_31.Size = Vector3.new(51, 8.4, 24)
 p_31.Position = Vector3.new(86.3, -13, 185.4)
 p_31.Orientation = Vector3.new(0, 180, 0)
 p_31.Color = Color3.fromRGB(27, 42, 53)
+p_31.Locked = true
 
 local p_32 = Instance.new("Part")
 p_32.Name = "Smooth Block Model"
@@ -268,6 +244,7 @@ p_38.Size = Vector3.new(62, 3.6, 89)
 p_38.Position = Vector3.new(80.8, -19, 163.9)
 p_38.Orientation = Vector3.new(0, 180, 0)
 p_38.Color = Color3.fromRGB(124, 92, 70)
+p_38.Locked = true
 
 local p_39 = Instance.new("Part")
 p_39.Name = "Smooth Block Model"
@@ -387,6 +364,7 @@ p_55.Size = Vector3.new(26, 16.8, 71)
 p_55.Position = Vector3.new(159.3, -6.4, 195.4)
 p_55.Orientation = Vector3.new(0, -90, 0)
 p_55.Color = Color3.fromRGB(124, 92, 70)
+p_55.Locked = true
 
 local p_56 = Instance.new("Part")
 p_56.Name = "Smooth Block Model"
@@ -394,6 +372,7 @@ p_56.Size = Vector3.new(92, 6, 144)
 p_56.Position = Vector3.new(157.8, -17.8, 136.4)
 p_56.Orientation = Vector3.new(0, 180, 0)
 p_56.Color = Color3.fromRGB(124, 92, 70)
+p_56.Locked = true
 
 local p_57 = Instance.new("Part")
 p_57.Name = "Smooth Block Model"
@@ -2194,7 +2173,7 @@ p_312.Transparency = 0.5
 local p_313 = Instance.new("Part")
 p_313.Name = "Top"
 p_313.Size = Vector3.new(2, 2, 2)
-p_313.Position = Vector3.new(155.8, 12.103, 137.189)
+p_313.Position = Vector3.new(155.8, 12.103, 137.188)
 p_313.Orientation = Vector3.new(-13.7, 0, 0)
 p_313.Color = Color3.fromRGB(35, 71, 139)
 
@@ -2319,6 +2298,7 @@ p_329.Size = Vector3.new(213, 17.2, 20)
 p_329.Position = Vector3.new(-85.7, -12.4, -177.1)
 p_329.Orientation = Vector3.new(0, 180, 0)
 p_329.Color = Color3.fromRGB(163, 162, 165)
+p_329.Locked = true
 
 local p_330 = Instance.new("Part")
 p_330.Name = "Tower Platform"
@@ -2866,6 +2846,7 @@ p_407.Size = Vector3.new(27, 16.8, 36)
 p_407.Position = Vector3.new(34.3, -12.4, -169.1)
 p_407.Orientation = Vector3.new(0, 180, 0)
 p_407.Color = Color3.fromRGB(215, 197, 154)
+p_407.Locked = true
 
 local p_408 = Instance.new("Part")
 p_408.Name = "Smooth Block Model"
@@ -2992,6 +2973,7 @@ p_425.Size = Vector3.new(25, 16.8, 36)
 p_425.Position = Vector3.new(92.3, -12.4, -169.1)
 p_425.Orientation = Vector3.new(0, 180, 0)
 p_425.Color = Color3.fromRGB(215, 197, 154)
+p_425.Locked = true
 
 local p_426 = Instance.new("Part")
 p_426.Name = "Smooth Block Model"
@@ -2999,6 +2981,7 @@ p_426.Size = Vector3.new(13, 19.2, 18)
 p_426.Position = Vector3.new(98.3, -11.2, -142.1)
 p_426.Orientation = Vector3.new(0, 180, 0)
 p_426.Color = Color3.fromRGB(215, 197, 154)
+p_426.Locked = true
 
 local p_427 = Instance.new("Part")
 p_427.Name = "Smooth Block Model"
@@ -3006,6 +2989,7 @@ p_427.Size = Vector3.new(24, 21.6, 22)
 p_427.Position = Vector3.new(92.8, -10, -122.1)
 p_427.Orientation = Vector3.new(0, 180, 0)
 p_427.Color = Color3.fromRGB(215, 197, 154)
+p_427.Locked = true
 
 local p_428 = Instance.new("Part")
 p_428.Name = "Smooth Block Model"
@@ -3027,6 +3011,7 @@ p_430.Size = Vector3.new(43, 13.2, 45)
 p_430.Position = Vector3.new(83.3, -14.2, -80.6)
 p_430.Orientation = Vector3.new(0, 180, 0)
 p_430.Color = Color3.fromRGB(215, 197, 154)
+p_430.Locked = true
 
 local p_431 = Instance.new("Part")
 p_431.Name = "Smooth Block Model"
@@ -3076,6 +3061,7 @@ p_437.Size = Vector3.new(99, 20.4, 45)
 p_437.Position = Vector3.new(154.3, -10.6, -64.1)
 p_437.Orientation = Vector3.new(0, 180, 0)
 p_437.Color = Color3.fromRGB(215, 197, 154)
+p_437.Locked = true
 
 local p_438 = Instance.new("Part")
 p_438.Name = "Smooth Block Model"
@@ -3083,6 +3069,7 @@ p_438.Size = Vector3.new(58, 13.2, 24)
 p_438.Position = Vector3.new(171.8, -14.2, -29.1)
 p_438.Orientation = Vector3.new(0, 180, 0)
 p_438.Color = Color3.fromRGB(149, 121, 119)
+p_438.Locked = true
 
 local p_439 = Instance.new("Part")
 p_439.Name = "Smooth Block Model"
@@ -3118,6 +3105,7 @@ p_443.Size = Vector3.new(122, 13.2, 47)
 p_443.Position = Vector3.new(-82.2, -14.2, 68.4)
 p_443.Orientation = Vector3.new(0, 180, 0)
 p_443.Color = Color3.fromRGB(27, 42, 53)
+p_443.Locked = true
 
 local p_444 = Instance.new("Part")
 p_444.Name = "Smooth Block Model"
@@ -3216,6 +3204,7 @@ p_457.Size = Vector3.new(33, 10.8, 56)
 p_457.Position = Vector3.new(-123.7, -2.2, 79.9)
 p_457.Orientation = Vector3.new(0, 180, 0)
 p_457.Color = Color3.fromRGB(27, 42, 53)
+p_457.Locked = true
 
 local p_458 = Instance.new("Part")
 p_458.Name = "Smooth Block Model"
@@ -3223,6 +3212,7 @@ p_458.Size = Vector3.new(26, 4.8, 8)
 p_458.Position = Vector3.new(-120.2, 5.6, 57.9)
 p_458.Orientation = Vector3.new(0, 180, 0)
 p_458.Color = Color3.fromRGB(27, 42, 53)
+p_458.Locked = true
 
 local p_459 = Instance.new("Part")
 p_459.Name = "Smooth Block Model"
@@ -3230,6 +3220,7 @@ p_459.Size = Vector3.new(7, 4.8, 33)
 p_459.Position = Vector3.new(-133.7, 5.6, 78.4)
 p_459.Orientation = Vector3.new(0, 180, 0)
 p_459.Color = Color3.fromRGB(27, 42, 53)
+p_459.Locked = true
 
 local p_460 = Instance.new("Part")
 p_460.Name = "Smooth Block Model"
@@ -3237,6 +3228,7 @@ p_460.Size = Vector3.new(7, 7.2, 35)
 p_460.Position = Vector3.new(-134.7, -4, 125.4)
 p_460.Orientation = Vector3.new(0, 180, 0)
 p_460.Color = Color3.fromRGB(27, 42, 53)
+p_460.Locked = true
 
 local p_461 = Instance.new("Part")
 p_461.Name = "Smooth Block Model"
@@ -3251,6 +3243,7 @@ p_462.Size = Vector3.new(10, 7.2, 12)
 p_462.Position = Vector3.new(-126.2, -1.6, 113.9)
 p_462.Orientation = Vector3.new(0, 180, 0)
 p_462.Color = Color3.fromRGB(27, 42, 53)
+p_462.Locked = true
 
 local p_463 = Instance.new("Part")
 p_463.Name = "Smooth Block Model"
@@ -3265,6 +3258,7 @@ p_464.Size = Vector3.new(49, 13.2, 62)
 p_464.Position = Vector3.new(-167.7, -14.2, 177.9)
 p_464.Orientation = Vector3.new(0, 180, 0)
 p_464.Color = Color3.fromRGB(27, 42, 53)
+p_464.Locked = true
 
 local p_465 = Instance.new("Part")
 p_465.Name = "Smooth Block Model"
@@ -3279,6 +3273,7 @@ p_466.Size = Vector3.new(52, 13.2, 117)
 p_466.Position = Vector3.new(-117.2, -14.2, 150.4)
 p_466.Orientation = Vector3.new(0, 180, 0)
 p_466.Color = Color3.fromRGB(27, 42, 53)
+p_466.Locked = true
 
 local p_467 = Instance.new("Part")
 p_467.Name = "Smooth Block Model"
@@ -3300,6 +3295,7 @@ p_469.Size = Vector3.new(55, 10.8, 72)
 p_469.Position = Vector3.new(-62.7, -2.2, 172.9)
 p_469.Orientation = Vector3.new(0, 180, 0)
 p_469.Color = Color3.fromRGB(27, 42, 53)
+p_469.Locked = true
 
 local p_470 = Instance.new("Part")
 p_470.Name = "Smooth Block Model"
@@ -3307,6 +3303,7 @@ p_470.Size = Vector3.new(38, 24, 43)
 p_470.Position = Vector3.new(-60.2, 15.2, 165.4)
 p_470.Orientation = Vector3.new(0, 180, 0)
 p_470.Color = Color3.fromRGB(27, 42, 53)
+p_470.Locked = true
 
 local p_471 = Instance.new("Part")
 p_471.Name = "Smooth Block Model"
@@ -3314,6 +3311,7 @@ p_471.Size = Vector3.new(50, 7.2, 28)
 p_471.Position = Vector3.new(16.8, -5.2, 173.9)
 p_471.Orientation = Vector3.new(0, 180, 0)
 p_471.Color = Color3.fromRGB(27, 42, 53)
+p_471.Locked = true
 
 local p_472 = Instance.new("Part")
 p_472.Name = "Smooth Block Model"
@@ -3321,6 +3319,7 @@ p_472.Size = Vector3.new(57, 12, 25)
 p_472.Position = Vector3.new(21.3, -14.8, 163.4)
 p_472.Orientation = Vector3.new(0, 180, 0)
 p_472.Color = Color3.fromRGB(27, 42, 53)
+p_472.Locked = true
 
 local p_473 = Instance.new("Part")
 p_473.Name = "Smooth Block Model"
@@ -3335,6 +3334,7 @@ p_474.Size = Vector3.new(72, 12, 84)
 p_474.Position = Vector3.new(-43.2, -14.8, 133.9)
 p_474.Orientation = Vector3.new(0, 180, 0)
 p_474.Color = Color3.fromRGB(27, 42, 53)
+p_474.Locked = true
 
 local p_475 = Instance.new("Part")
 p_475.Name = "Smooth Block Model"
@@ -3342,6 +3342,7 @@ p_475.Size = Vector3.new(40, 13.2, 30)
 p_475.Position = Vector3.new(72.8, -14.2, 54.4)
 p_475.Orientation = Vector3.new(0, 180, 0)
 p_475.Color = Color3.fromRGB(27, 42, 53)
+p_475.Locked = true
 
 local p_476 = Instance.new("Part")
 p_476.Name = "Smooth Block Model"
@@ -3349,6 +3350,7 @@ p_476.Size = Vector3.new(24, 12, 28)
 p_476.Position = Vector3.new(40.8, -14.8, 71.4)
 p_476.Orientation = Vector3.new(0, 180, 0)
 p_476.Color = Color3.fromRGB(99, 95, 98)
+p_476.Locked = true
 
 local p_477 = Instance.new("Part")
 p_477.Name = "Smooth Block Model"
@@ -7252,7 +7254,7 @@ p_1033.Color = Color3.fromRGB(109, 110, 108)
 local p_1034 = Instance.new("Part")
 p_1034.Name = "Smooth Block Model"
 p_1034.Size = Vector3.new(2, 1.2, 2)
-p_1034.Position = Vector3.new(159.789, 44.96, 170.897)
+p_1034.Position = Vector3.new(159.789, 44.96, 170.896)
 p_1034.Orientation = Vector3.new(-0.018, 0.014, 0.042)
 p_1034.Color = Color3.fromRGB(196, 40, 28)
 
@@ -7553,7 +7555,7 @@ p_1076.Color = Color3.fromRGB(105, 64, 40)
 local p_1077 = Instance.new("Part")
 p_1077.Name = "Smooth Block Model"
 p_1077.Size = Vector3.new(9, 1.2, 9)
-p_1077.Position = Vector3.new(155.301, 35.373, 166.399)
+p_1077.Position = Vector3.new(155.3, 35.373, 166.399)
 p_1077.Orientation = Vector3.new(-0.019, -0.003, 0.053)
 p_1077.Color = Color3.fromRGB(196, 40, 28)
 
@@ -7651,7 +7653,7 @@ p_1090.Color = Color3.fromRGB(109, 110, 108)
 local p_1091 = Instance.new("Part")
 p_1091.Name = "Smooth Block Model"
 p_1091.Size = Vector3.new(9, 1.2, 9)
-p_1091.Position = Vector3.new(164.301, 35.381, 166.399)
+p_1091.Position = Vector3.new(164.3, 35.381, 166.399)
 p_1091.Orientation = Vector3.new(-0.019, -0.003, 0.053)
 p_1091.Color = Color3.fromRGB(196, 40, 28)
 
@@ -11772,6 +11774,11 @@ p_1679.Orientation = Vector3.new(0, 0, 0)
 p_1679.Color = Color3.fromRGB(75, 151, 75)
 
 local p_1680 = Instance.new("RocketLauncher")
-p_1680.Position = Vector3.new(8.8, -16.8, -45.1)
+p_1680.Position = Vector3.new(-4, -19, -6.452)
 p_1680.Orientation = Vector3.new(0, 0, 0)
+
+
+local p_1682 = Instance.new("BombTool")
+p_1682.Position = Vector3.new(4, -19, -6.452)
+p_1682.Orientation = Vector3.new(0, 0, 0)
 
