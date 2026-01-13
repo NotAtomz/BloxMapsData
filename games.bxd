@@ -87,6 +87,14 @@
       "gamecreated": "1/12/2026",
       "gamemaker": "blox",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/TargetPractice.txt"
+    },
+    {
+      "gamename": "Beat Obby For Distruction",
+      "gameimage": "",
+      "gamedesc": "Beat the obby and get access to the vip room with rocket launcher and bomb!!!",
+      "gamecreated": "1/12/2026",
+      "gamemaker": "blox",
+      "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/obby.txt"
     }
   ]
 }
