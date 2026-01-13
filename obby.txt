@@ -1,0 +1,2316 @@
+-- AUTO-GENERATED MAP SCRIPT
+game.Players.LocalPlayer:LoadCharacter()
+local p_1 = Instance.new("Part")
+p_1.Name = "Part"
+p_1.Size = Vector3.new(34, 1, 11)
+p_1.Position = Vector3.new(4.5, 38, -6.452)
+p_1.Orientation = Vector3.new(0, 0, 0)
+p_1.Color = Color3.fromRGB(163, 162, 165)
+
+local p_2 = Instance.new("Part")
+p_2.Name = "Part"
+p_2.Size = Vector3.new(11, 1, 11)
+p_2.Position = Vector3.new(-7, -13, 4.548)
+p_2.Orientation = Vector3.new(0, 0, 0)
+p_2.Color = Color3.fromRGB(99, 95, 98)
+
+local p_3 = Instance.new("Part")
+p_3.Name = "Part"
+p_3.Size = Vector3.new(10, 1, 11)
+p_3.Position = Vector3.new(3.5, -9, -6.452)
+p_3.Orientation = Vector3.new(0, 0, 0)
+p_3.Color = Color3.fromRGB(99, 95, 98)
+
+local p_4 = Instance.new("Part")
+p_4.Name = "Part"
+p_4.Size = Vector3.new(11, 1, 11)
+p_4.Position = Vector3.new(-7, 23, 4.548)
+p_4.Orientation = Vector3.new(0, 0, 0)
+p_4.Color = Color3.fromRGB(99, 95, 98)
+
+local p_5 = Instance.new("Part")
+p_5.Name = "Part"
+p_5.Size = Vector3.new(11, 1, 11)
+p_5.Position = Vector3.new(-18, 18, -6.452)
+p_5.Orientation = Vector3.new(0, 0, 0)
+p_5.Color = Color3.fromRGB(99, 95, 98)
+
+local p_6 = Instance.new("Part")
+p_6.Name = "Part"
+p_6.Size = Vector3.new(11, 1, 11)
+p_6.Position = Vector3.new(-7, 32, -17.452)
+p_6.Orientation = Vector3.new(0, 0, 0)
+p_6.Color = Color3.fromRGB(99, 95, 98)
+
+local p_7 = Instance.new("Part")
+p_7.Name = "Part"
+p_7.Size = Vector3.new(11, 1, 11)
+p_7.Position = Vector3.new(4, 8, -6.452)
+p_7.Orientation = Vector3.new(0, 0, 0)
+p_7.Color = Color3.fromRGB(99, 95, 98)
+
+local p_8 = Instance.new("Part")
+p_8.Name = "Part"
+p_8.Size = Vector3.new(11, 1, 11)
+p_8.Position = Vector3.new(-7, 13, -17.452)
+p_8.Orientation = Vector3.new(0, 0, 0)
+p_8.Color = Color3.fromRGB(99, 95, 98)
+
+local p_9 = Instance.new("Part")
+p_9.Name = "Part"
+p_9.Size = Vector3.new(11, 1, 11)
+p_9.Position = Vector3.new(-18, 36, -6.452)
+p_9.Orientation = Vector3.new(0, 0, 0)
+p_9.Color = Color3.fromRGB(99, 95, 98)
+
+local p_10 = Instance.new("Part")
+p_10.Name = "Part"
+p_10.Size = Vector3.new(11, 1, 11)
+p_10.Position = Vector3.new(-7, -5, -17.452)
+p_10.Orientation = Vector3.new(0, 0, 0)
+p_10.Color = Color3.fromRGB(99, 95, 98)
+
+local p_11 = Instance.new("Part")
+p_11.Name = "Part"
+p_11.Size = Vector3.new(74, 8, 48)
+p_11.Position = Vector3.new(1.5, -23.5, -7.952)
+p_11.Orientation = Vector3.new(0, 0, 0)
+p_11.Color = Color3.fromRGB(17, 17, 17)
+p_11.Locked = true
+
+local p_12 = Instance.new("Part")
+p_12.Name = "Part"
+p_12.Size = Vector3.new(11, 1, 11)
+p_12.Position = Vector3.new(-7, 3, 4.548)
+p_12.Orientation = Vector3.new(0, 0, 0)
+p_12.Color = Color3.fromRGB(99, 95, 98)
+
+local p_13 = Instance.new("Part")
+p_13.Name = "Part"
+p_13.Size = Vector3.new(11, 57, 11)
+p_13.Position = Vector3.new(-7, 9, -6.452)
+p_13.Orientation = Vector3.new(0, 0, 0)
+p_13.Color = Color3.fromRGB(196, 40, 28)
+
+local p_14 = Instance.new("Part")
+p_14.Name = "Part"
+p_14.Size = Vector3.new(11, 1, 11)
+p_14.Position = Vector3.new(-18, -1, -6.452)
+p_14.Orientation = Vector3.new(0, 0, 0)
+p_14.Color = Color3.fromRGB(99, 95, 98)
+
+local p_15 = Instance.new("Part")
+p_15.Name = "Part"
+p_15.Size = Vector3.new(11, 1, 11)
+p_15.Position = Vector3.new(4, 28, -6.452)
+p_15.Orientation = Vector3.new(0, 0, 0)
+p_15.Color = Color3.fromRGB(99, 95, 98)
+
+local p_16 = Instance.new("Part")
+p_16.Name = "Part"
+p_16.Size = Vector3.new(10, 1, 11)
+p_16.Position = Vector3.new(-17.5, -17, -6.452)
+p_16.Orientation = Vector3.new(0, 0, 0)
+p_16.Color = Color3.fromRGB(99, 95, 98)
+
+local p_17 = Instance.new("SpawnLocation")
+p_17.Position = Vector3.new(24.5, -19, -5.952)
+p_17.Orientation = Vector3.new(0, 0, 0)
+
+local p_18 = Instance.new("SpawnLocation")
+p_18.Position = Vector3.new(24.5, -19, 3.048)
+p_18.Orientation = Vector3.new(0, 0, 0)
+
+local p_19 = Instance.new("SpawnLocation")
+p_19.Position = Vector3.new(26.5, -19, -13.952)
+p_19.Orientation = Vector3.new(0, 0, 0)
+
+local p_20 = Instance.new("Part")
+p_20.Name = "Part"
+p_20.Size = Vector3.new(8.49, 0.942, 30.279)
+p_20.Position = Vector3.new(65.875, 37.971, 6.423)
+p_20.Orientation = Vector3.new(0, -90, 0)
+p_20.Color = Color3.fromRGB(255, 0, 0)
+p_20.CanCollide = false
+
+local p_21 = Instance.new("Part")
+p_21.Name = "Part"
+p_21.Size = Vector3.new(8.49, 0.942, 30.279)
+p_21.Position = Vector3.new(120.604, 37.971, 6.423)
+p_21.Orientation = Vector3.new(0, -90, 0)
+p_21.Color = Color3.fromRGB(255, 0, 0)
+
+local p_22 = Instance.new("Part")
+p_22.Name = "Part"
+p_22.Size = Vector3.new(37.35, 1, 6.069)
+p_22.Position = Vector3.new(24.535, 38, -4.952)
+p_22.Orientation = Vector3.new(0, -90, 0)
+p_22.Color = Color3.fromRGB(163, 162, 165)
+
+local p_23 = Instance.new("Part")
+p_23.Name = "Part"
+p_23.Size = Vector3.new(37.35, 1, 6.069)
+p_23.Position = Vector3.new(52.49, 38, -4.952)
+p_23.Orientation = Vector3.new(0, -90, 0)
+p_23.Color = Color3.fromRGB(163, 162, 165)
+
+local p_24 = Instance.new("Part")
+p_24.Name = "Part"
+p_24.Size = Vector3.new(8.49, 0.942, 30.279)
+p_24.Position = Vector3.new(36.639, 37.971, -5.529)
+p_24.Orientation = Vector3.new(0, -90, 0)
+p_24.Color = Color3.fromRGB(0, 255, 0)
+
+local p_25 = Instance.new("Part")
+p_25.Name = "Part"
+p_25.Size = Vector3.new(8.49, 0.942, 30.279)
+p_25.Position = Vector3.new(36.639, 37.971, -17.538)
+p_25.Orientation = Vector3.new(0, -90, 0)
+p_25.Color = Color3.fromRGB(0, 16, 176)
+p_25.CanCollide = false
+
+local p_26 = Instance.new("Part")
+p_26.Name = "Part"
+p_26.Size = Vector3.new(8.49, 0.942, 30.279)
+p_26.Position = Vector3.new(120.604, 37.971, -5.529)
+p_26.Orientation = Vector3.new(0, -90, 0)
+p_26.Color = Color3.fromRGB(0, 255, 0)
+p_26.CanCollide = false
+
+local p_27 = Instance.new("Part")
+p_27.Name = "Part"
+p_27.Size = Vector3.new(8.49, 0.942, 30.279)
+p_27.Position = Vector3.new(36.639, 37.971, 6.423)
+p_27.Orientation = Vector3.new(0, -90, 0)
+p_27.Color = Color3.fromRGB(255, 0, 0)
+p_27.CanCollide = false
+
+local p_28 = Instance.new("Part")
+p_28.Name = "Part"
+p_28.Size = Vector3.new(8.49, 0.942, 30.279)
+p_28.Position = Vector3.new(65.875, 37.971, -17.538)
+p_28.Orientation = Vector3.new(0, -90, 0)
+p_28.Color = Color3.fromRGB(0, 16, 176)
+
+local p_29 = Instance.new("Part")
+p_29.Name = "Part"
+p_29.Size = Vector3.new(8.49, 0.942, 30.279)
+p_29.Position = Vector3.new(65.875, 37.971, -5.529)
+p_29.Orientation = Vector3.new(0, -90, 0)
+p_29.Color = Color3.fromRGB(0, 255, 0)
+p_29.CanCollide = false
+
+local p_30 = Instance.new("Part")
+p_30.Name = "Part"
+p_30.Size = Vector3.new(37.35, 1, 6.069)
+p_30.Position = Vector3.new(79.264, 38, -4.952)
+p_30.Orientation = Vector3.new(0, -90, 0)
+p_30.Color = Color3.fromRGB(163, 162, 165)
+
+local p_31 = Instance.new("Part")
+p_31.Name = "Part"
+p_31.Size = Vector3.new(37.35, 1, 6.069)
+p_31.Position = Vector3.new(107.219, 38, -4.952)
+p_31.Orientation = Vector3.new(0, -90, 0)
+p_31.Color = Color3.fromRGB(163, 162, 165)
+
+local p_32 = Instance.new("Part")
+p_32.Name = "Part"
+p_32.Size = Vector3.new(8.49, 0.942, 30.279)
+p_32.Position = Vector3.new(91.369, 37.971, -5.529)
+p_32.Orientation = Vector3.new(0, -90, 0)
+p_32.Color = Color3.fromRGB(0, 255, 0)
+p_32.CanCollide = false
+
+local p_33 = Instance.new("Part")
+p_33.Name = "Part"
+p_33.Size = Vector3.new(8.49, 0.942, 30.279)
+p_33.Position = Vector3.new(91.369, 37.971, -17.538)
+p_33.Orientation = Vector3.new(0, -90, 0)
+p_33.Color = Color3.fromRGB(0, 16, 176)
+p_33.CanCollide = false
+
+local p_34 = Instance.new("Part")
+p_34.Name = "Part"
+p_34.Size = Vector3.new(37.35, 1, 6.069)
+p_34.Position = Vector3.new(133.993, 38, -4.952)
+p_34.Orientation = Vector3.new(0, -90, 0)
+p_34.Color = Color3.fromRGB(163, 162, 165)
+
+local p_35 = Instance.new("Part")
+p_35.Name = "Part"
+p_35.Size = Vector3.new(8.49, 0.942, 30.279)
+p_35.Position = Vector3.new(91.369, 37.971, 6.423)
+p_35.Orientation = Vector3.new(0, -90, 0)
+p_35.Color = Color3.fromRGB(255, 0, 0)
+
+local p_36 = Instance.new("Part")
+p_36.Name = "Part"
+p_36.Size = Vector3.new(8.49, 0.942, 30.279)
+p_36.Position = Vector3.new(120.604, 37.971, -17.538)
+p_36.Orientation = Vector3.new(0, -90, 0)
+p_36.Color = Color3.fromRGB(0, 16, 176)
+p_36.CanCollide = false
+
+local p_37 = Instance.new("Cylinder")
+p_37.Name = "Part"
+p_37.Size = Vector3.new(1, 4, 4)
+p_37.Position = Vector3.new(144.028, 39, -6.277)
+p_37.Orientation = Vector3.new(0, 180, 90)
+p_37.Color = Color3.fromRGB(159, 161, 172)
+
+local p_38 = Instance.new("Cylinder")
+p_38.Name = "Part"
+p_38.Size = Vector3.new(1, 4, 4)
+p_38.Position = Vector3.new(180.026, 39, -6.277)
+p_38.Orientation = Vector3.new(0, 180, 90)
+p_38.Color = Color3.fromRGB(159, 161, 172)
+
+local p_39 = Instance.new("Cylinder")
+p_39.Name = "Part"
+p_39.Size = Vector3.new(1, 4, 4)
+p_39.Position = Vector3.new(204.026, 39, 2.723)
+p_39.Orientation = Vector3.new(0, 180, 90)
+p_39.Color = Color3.fromRGB(159, 161, 172)
+
+local p_40 = Instance.new("Cylinder")
+p_40.Name = "Part"
+p_40.Size = Vector3.new(1, 4, 4)
+p_40.Position = Vector3.new(198.026, 39, -3.277)
+p_40.Orientation = Vector3.new(0, 180, 90)
+p_40.Color = Color3.fromRGB(159, 161, 172)
+
+local p_41 = Instance.new("Cylinder")
+p_41.Name = "Part"
+p_41.Size = Vector3.new(1, 4, 4)
+p_41.Position = Vector3.new(207.026, 39, -5.277)
+p_41.Orientation = Vector3.new(0, 180, 90)
+p_41.Color = Color3.fromRGB(159, 161, 172)
+
+local p_42 = Instance.new("Part")
+p_42.Name = "Part"
+p_42.Size = Vector3.new(16, 1, 36)
+p_42.Position = Vector3.new(191.026, 38, -3.277)
+p_42.Orientation = Vector3.new(0, 90, 0)
+p_42.Color = Color3.fromRGB(255, 0, 0)
+p_42.CanCollide = false
+
+local p_43 = Instance.new("Cylinder")
+p_43.Name = "Part"
+p_43.Size = Vector3.new(1, 4, 4)
+p_43.Position = Vector3.new(193.026, 39, 1.723)
+p_43.Orientation = Vector3.new(0, 180, 90)
+p_43.Color = Color3.fromRGB(159, 161, 172)
+
+local p_44 = Instance.new("Cylinder")
+p_44.Name = "Part"
+p_44.Size = Vector3.new(1, 4, 4)
+p_44.Position = Vector3.new(190.026, 39, -7.277)
+p_44.Orientation = Vector3.new(0, 180, 90)
+p_44.Color = Color3.fromRGB(159, 161, 172)
+
+local p_45 = Instance.new("Cylinder")
+p_45.Name = "Part"
+p_45.Size = Vector3.new(1, 4, 4)
+p_45.Position = Vector3.new(184.026, 39, -0.277)
+p_45.Orientation = Vector3.new(0, 180, 90)
+p_45.Color = Color3.fromRGB(159, 161, 172)
+
+local p_46 = Instance.new("Cylinder")
+p_46.Name = "Part"
+p_46.Size = Vector3.new(1, 4, 4)
+p_46.Position = Vector3.new(175.026, 39, -1.277)
+p_46.Orientation = Vector3.new(0, 180, 90)
+p_46.Color = Color3.fromRGB(159, 161, 172)
+
+local p_47 = Instance.new("Cylinder")
+p_47.Name = "Part"
+p_47.Size = Vector3.new(1, 4, 4)
+p_47.Position = Vector3.new(168.028, 39, 2.723)
+p_47.Orientation = Vector3.new(0, 180, 90)
+p_47.Color = Color3.fromRGB(159, 161, 172)
+
+local p_48 = Instance.new("Cylinder")
+p_48.Name = "Part"
+p_48.Size = Vector3.new(1, 4, 4)
+p_48.Position = Vector3.new(162.028, 39, -3.277)
+p_48.Orientation = Vector3.new(0, 180, 90)
+p_48.Color = Color3.fromRGB(159, 161, 172)
+
+local p_49 = Instance.new("Cylinder")
+p_49.Name = "Part"
+p_49.Size = Vector3.new(1, 4, 4)
+p_49.Position = Vector3.new(171.028, 39, -5.277)
+p_49.Orientation = Vector3.new(0, 180, 90)
+p_49.Color = Color3.fromRGB(159, 161, 172)
+
+local p_50 = Instance.new("Part")
+p_50.Name = "Part"
+p_50.Size = Vector3.new(16, 1, 36)
+p_50.Position = Vector3.new(155.028, 38, -3.277)
+p_50.Orientation = Vector3.new(0, 90, 0)
+p_50.Color = Color3.fromRGB(255, 0, 0)
+p_50.CanCollide = false
+
+local p_51 = Instance.new("Cylinder")
+p_51.Name = "Part"
+p_51.Size = Vector3.new(1, 4, 4)
+p_51.Position = Vector3.new(157.028, 39, 1.723)
+p_51.Orientation = Vector3.new(0, 180, 90)
+p_51.Color = Color3.fromRGB(159, 161, 172)
+
+local p_52 = Instance.new("Cylinder")
+p_52.Name = "Part"
+p_52.Size = Vector3.new(1, 4, 4)
+p_52.Position = Vector3.new(154.028, 39, -7.277)
+p_52.Orientation = Vector3.new(0, 180, 90)
+p_52.Color = Color3.fromRGB(159, 161, 172)
+
+local p_53 = Instance.new("Cylinder")
+p_53.Name = "Part"
+p_53.Size = Vector3.new(1, 4, 4)
+p_53.Position = Vector3.new(148.028, 39, -0.277)
+p_53.Orientation = Vector3.new(0, 180, 90)
+p_53.Color = Color3.fromRGB(159, 161, 172)
+
+local p_54 = Instance.new("Cylinder")
+p_54.Name = "Part"
+p_54.Size = Vector3.new(1, 4, 4)
+p_54.Position = Vector3.new(139.028, 39, -1.277)
+p_54.Orientation = Vector3.new(0, 180, 90)
+p_54.Color = Color3.fromRGB(159, 161, 172)
+
+local p_55 = Instance.new("Part")
+p_55.Name = "Part"
+p_55.Size = Vector3.new(0.77, 9.84, 5.1)
+p_55.Position = Vector3.new(400.121, 44.346, 22.23)
+p_55.Orientation = Vector3.new(0, 90, 0)
+p_55.Color = Color3.fromRGB(239, 184, 56)
+
+local p_56 = Instance.new("Part")
+p_56.Name = "Part"
+p_56.Size = Vector3.new(4.268, 0.959, 12.752)
+p_56.Position = Vector3.new(293.37, 38.979, -3.407)
+p_56.Orientation = Vector3.new(0, -90, 0)
+p_56.Color = Color3.fromRGB(170, 0, 170)
+
+local p_57 = Instance.new("Part")
+p_57.Name = "Part"
+p_57.Size = Vector3.new(15.5, 1, 4)
+p_57.Position = Vector3.new(301.746, 47.25, 5.478)
+p_57.Orientation = Vector3.new(0, -90, 90)
+p_57.Color = Color3.fromRGB(255, 0, 0)
+
+local p_58 = Instance.new("Part")
+p_58.Name = "Part"
+p_58.Size = Vector3.new(0.77, 9.84, 2)
+p_58.Position = Vector3.new(353.818, 44.236, -30.554)
+p_58.Orientation = Vector3.new(0, 0, 0)
+p_58.Color = Color3.fromRGB(239, 184, 56)
+
+local p_59 = Instance.new("Cylinder")
+p_59.Name = "Part"
+p_59.Size = Vector3.new(2.135, 1.605, 0.674)
+p_59.Position = Vector3.new(392.666, 42.377, -18.041)
+p_59.Orientation = Vector3.new(0, -44.806, -90)
+p_59.Color = Color3.fromRGB(17, 17, 17)
+
+local p_60 = Instance.new("Part")
+p_60.Name = "Part"
+p_60.Size = Vector3.new(0.77, 9.84, 2)
+p_60.Position = Vector3.new(353.818, 44.236, -12.628)
+p_60.Orientation = Vector3.new(0, 0, 0)
+p_60.Color = Color3.fromRGB(239, 184, 56)
+
+local p_61 = Instance.new("Part")
+p_61.Name = "Part"
+p_61.Size = Vector3.new(0.77, 9.84, 2)
+p_61.Position = Vector3.new(353.818, 44.236, -0.565)
+p_61.Orientation = Vector3.new(0, 0, 0)
+p_61.Color = Color3.fromRGB(239, 184, 56)
+
+local p_62 = Instance.new("Part")
+p_62.Name = "Part"
+p_62.Size = Vector3.new(0.77, 14.03, 2)
+p_62.Position = Vector3.new(353.818, 48.171, -6.631)
+p_62.Orientation = Vector3.new(89.848, 180, 180)
+p_62.Color = Color3.fromRGB(239, 184, 56)
+
+local p_63 = Instance.new("Part")
+p_63.Name = "Part"
+p_63.Size = Vector3.new(13.84, 1.93, 34.64)
+p_63.Position = Vector3.new(394.592, 40.281, -21.165)
+p_63.Orientation = Vector3.new(0, 0, 0)
+p_63.Color = Color3.fromRGB(248, 248, 248)
+
+local p_64 = Instance.new("Part")
+p_64.Name = "Part"
+p_64.Size = Vector3.new(49.33, 15.2, 62.34)
+p_64.Position = Vector3.new(378.147, 31.716, -8.335)
+p_64.Orientation = Vector3.new(0, 0, 0)
+p_64.Color = Color3.fromRGB(255, 255, 204)
+p_64.Locked = true
+
+local p_65 = Instance.new("Part")
+p_65.Name = "Part"
+p_65.Size = Vector3.new(0.34, 1, 2.43)
+p_65.Position = Vector3.new(354.281, 42.086, 13.608)
+p_65.Orientation = Vector3.new(0, 0, 0)
+p_65.Color = Color3.fromRGB(105, 64, 40)
+
+local p_66 = Instance.new("Cylinder")
+p_66.Name = "Part"
+p_66.Size = Vector3.new(47.26, 0.93, 1)
+p_66.Position = Vector3.new(377.831, 42.121, 14.582)
+p_66.Orientation = Vector3.new(0, 0, 0)
+p_66.Color = Color3.fromRGB(239, 184, 56)
+
+local p_67 = Instance.new("Part")
+p_67.Name = "Part"
+p_67.Size = Vector3.new(0.41, 9.84, 23.22)
+p_67.Position = Vector3.new(353.828, 44.236, -25.03)
+p_67.Orientation = Vector3.new(0, 0, 0)
+p_67.Color = Color3.fromRGB(33, 84, 185)
+p_67.Transparency = 0.85
+
+local p_68 = Instance.new("Cylinder")
+p_68.Name = "Part"
+p_68.Size = Vector3.new(0.67, 0.38, 1)
+p_68.Position = Vector3.new(393.544, 53.77, -7.416)
+p_68.Orientation = Vector3.new(0, 0, -90)
+p_68.Color = Color3.fromRGB(239, 184, 56)
+
+local p_69 = Instance.new("Part")
+p_69.Name = "Part"
+p_69.Size = Vector3.new(0.34, 1, 2.43)
+p_69.Position = Vector3.new(401.328, 42.086, 13.608)
+p_69.Orientation = Vector3.new(0, 0, 0)
+p_69.Color = Color3.fromRGB(105, 64, 40)
+
+local p_70 = Instance.new("Cylinder")
+p_70.Name = "Part"
+p_70.Size = Vector3.new(2.72, 1, 0.51)
+p_70.Position = Vector3.new(389.473, 57.687, -24.512)
+p_70.Orientation = Vector3.new(0, 90, -90)
+p_70.Color = Color3.fromRGB(239, 184, 56)
+
+local p_71 = Instance.new("Cylinder")
+p_71.Name = "Part"
+p_71.Size = Vector3.new(2.72, 1, 0.51)
+p_71.Position = Vector3.new(389.473, 57.687, -7.155)
+p_71.Orientation = Vector3.new(0, 90, -90)
+p_71.Color = Color3.fromRGB(239, 184, 56)
+
+local p_72 = Instance.new("Cylinder")
+p_72.Name = "Part"
+p_72.Size = Vector3.new(2.72, 1, 0.51)
+p_72.Position = Vector3.new(389.473, 57.687, 12.195)
+p_72.Orientation = Vector3.new(0, 90, -90)
+p_72.Color = Color3.fromRGB(239, 184, 56)
+
+local p_73 = Instance.new("Cylinder")
+p_73.Name = "Part"
+p_73.Size = Vector3.new(2.72, 1, 0.51)
+p_73.Position = Vector3.new(373.083, 57.687, 12.195)
+p_73.Orientation = Vector3.new(0, 90, -90)
+p_73.Color = Color3.fromRGB(239, 184, 56)
+
+local p_74 = Instance.new("Cylinder")
+p_74.Name = "Part"
+p_74.Size = Vector3.new(2.72, 1, 0.51)
+p_74.Position = Vector3.new(373.083, 57.687, -25.287)
+p_74.Orientation = Vector3.new(0, 90, -90)
+p_74.Color = Color3.fromRGB(239, 184, 56)
+
+local p_75 = Instance.new("Cylinder")
+p_75.Name = "Part"
+p_75.Size = Vector3.new(2.72, 1, 0.51)
+p_75.Position = Vector3.new(373.083, 57.687, -6.773)
+p_75.Orientation = Vector3.new(0, 90, -90)
+p_75.Color = Color3.fromRGB(239, 184, 56)
+
+local p_76 = Instance.new("Cylinder")
+p_76.Name = "Part"
+p_76.Size = Vector3.new(46.91, 0.93, 1)
+p_76.Position = Vector3.new(377.866, 42.121, 12.688)
+p_76.Orientation = Vector3.new(0, 0, 0)
+p_76.Color = Color3.fromRGB(239, 184, 56)
+
+local p_77 = Instance.new("Part")
+p_77.Name = "Part"
+p_77.Size = Vector3.new(46.64, 1, 2)
+p_77.Position = Vector3.new(377.801, 42.086, 13.733)
+p_77.Orientation = Vector3.new(0, 0, 0)
+p_77.Color = Color3.fromRGB(105, 64, 40)
+
+local p_78 = Instance.new("Cylinder")
+p_78.Name = "Part"
+p_78.Size = Vector3.new(0.67, 0.38, 1)
+p_78.Position = Vector3.new(393.544, 53.77, -24.773)
+p_78.Orientation = Vector3.new(0, 0, -90)
+p_78.Color = Color3.fromRGB(239, 184, 56)
+
+local p_79 = Instance.new("Part")
+p_79.Name = "Part"
+p_79.Size = Vector3.new(0.77, 9.84, 2)
+p_79.Position = Vector3.new(386.528, 53.929, -39.096)
+p_79.Orientation = Vector3.new(0, 90, 0)
+p_79.Color = Color3.fromRGB(239, 184, 56)
+
+local p_80 = Instance.new("Part")
+p_80.Name = "Part"
+p_80.Size = Vector3.new(0.77, 9.84, 2)
+p_80.Position = Vector3.new(353.762, 53.992, 16.359)
+p_80.Orientation = Vector3.new(0, 0, 0)
+p_80.Color = Color3.fromRGB(239, 184, 56)
+
+local p_81 = Instance.new("Part")
+p_81.Name = "Part"
+p_81.Size = Vector3.new(49.33, 0.2, 62.34)
+p_81.Position = Vector3.new(378.147, 59.008, -8.335)
+p_81.Orientation = Vector3.new(0, 0, 0)
+p_81.Color = Color3.fromRGB(255, 255, 204)
+
+local p_82 = Instance.new("Part")
+p_82.Name = "Part"
+p_82.Size = Vector3.new(0.77, 9.84, 2)
+p_82.Position = Vector3.new(365.651, 53.929, -39.096)
+p_82.Orientation = Vector3.new(0, 90, 0)
+p_82.Color = Color3.fromRGB(239, 184, 56)
+
+local p_83 = Instance.new("Part")
+p_83.Name = "Part"
+p_83.Size = Vector3.new(0.77, 9.84, 2)
+p_83.Position = Vector3.new(353.762, 53.992, 21.481)
+p_83.Orientation = Vector3.new(0, 0, 0)
+p_83.Color = Color3.fromRGB(239, 184, 56)
+
+local p_84 = Instance.new("Part")
+p_84.Name = "Part"
+p_84.Size = Vector3.new(0.41, 9.84, 23.22)
+p_84.Position = Vector3.new(388.034, 54.117, 22.194)
+p_84.Orientation = Vector3.new(0, 89.996, 0)
+p_84.Color = Color3.fromRGB(33, 84, 185)
+p_84.Transparency = 0.85
+
+local p_85 = Instance.new("Part")
+p_85.Name = "Part"
+p_85.Size = Vector3.new(0.77, 9.84, 2)
+p_85.Position = Vector3.new(376.52, 54.227, 22.23)
+p_85.Orientation = Vector3.new(0, 90, 0)
+p_85.Color = Color3.fromRGB(239, 184, 56)
+
+local p_86 = Instance.new("Part")
+p_86.Name = "Part"
+p_86.Size = Vector3.new(0.41, 9.84, 23.22)
+p_86.Position = Vector3.new(365.114, 54.117, 22.193)
+p_86.Orientation = Vector3.new(0, 89.996, 0)
+p_86.Color = Color3.fromRGB(33, 84, 185)
+p_86.Transparency = 0.85
+
+local p_87 = Instance.new("Part")
+p_87.Name = "Part"
+p_87.Size = Vector3.new(0.77, 9.84, 2)
+p_87.Position = Vector3.new(365.651, 54.227, 22.23)
+p_87.Orientation = Vector3.new(0, 90, 0)
+p_87.Color = Color3.fromRGB(239, 184, 56)
+
+local p_88 = Instance.new("Part")
+p_88.Name = "Part"
+p_88.Size = Vector3.new(0.77, 9.84, 5.1)
+p_88.Position = Vector3.new(400.121, 53.929, -39.096)
+p_88.Orientation = Vector3.new(0, 90, 0)
+p_88.Color = Color3.fromRGB(239, 184, 56)
+
+local p_89 = Instance.new("Part")
+p_89.Name = "Part"
+p_89.Size = Vector3.new(0.77, 9.84, 2)
+p_89.Position = Vector3.new(353.762, 53.992, -22.059)
+p_89.Orientation = Vector3.new(0, 0, 0)
+p_89.Color = Color3.fromRGB(239, 184, 56)
+
+local p_90 = Instance.new("Part")
+p_90.Name = "Part"
+p_90.Size = Vector3.new(0.77, 9.84, 3.23)
+p_90.Position = Vector3.new(353.818, 53.819, -37.958)
+p_90.Orientation = Vector3.new(0, 0, 0)
+p_90.Color = Color3.fromRGB(239, 184, 56)
+
+local p_91 = Instance.new("Part")
+p_91.Name = "Part"
+p_91.Size = Vector3.new(0.41, 9.84, 23.22)
+p_91.Position = Vector3.new(388.034, 53.819, -39.132)
+p_91.Orientation = Vector3.new(0, 89.996, 0)
+p_91.Color = Color3.fromRGB(33, 84, 185)
+p_91.Transparency = 0.85
+
+local p_92 = Instance.new("Part")
+p_92.Name = "Part"
+p_92.Size = Vector3.new(0.77, 9.84, 2)
+p_92.Position = Vector3.new(353.762, 53.992, -30.603)
+p_92.Orientation = Vector3.new(0, 0, 0)
+p_92.Color = Color3.fromRGB(239, 184, 56)
+
+local p_93 = Instance.new("Part")
+p_93.Name = "Part"
+p_93.Size = Vector3.new(0.77, 9.84, 2)
+p_93.Position = Vector3.new(353.762, 53.992, -12.67)
+p_93.Orientation = Vector3.new(0, 0, 0)
+p_93.Color = Color3.fromRGB(239, 184, 56)
+
+local p_94 = Instance.new("Part")
+p_94.Name = "Part"
+p_94.Size = Vector3.new(0.77, 9.84, 2)
+p_94.Position = Vector3.new(354.992, 54.227, 22.23)
+p_94.Orientation = Vector3.new(0, 90, 0)
+p_94.Color = Color3.fromRGB(239, 184, 56)
+
+local p_95 = Instance.new("Part")
+p_95.Name = "Part"
+p_95.Size = Vector3.new(0.77, 9.84, 2)
+p_95.Position = Vector3.new(376.52, 53.929, -39.096)
+p_95.Orientation = Vector3.new(0, 90, 0)
+p_95.Color = Color3.fromRGB(239, 184, 56)
+
+local p_96 = Instance.new("Part")
+p_96.Name = "Part"
+p_96.Size = Vector3.new(0.77, 9.84, 2)
+p_96.Position = Vector3.new(354.992, 53.929, -39.096)
+p_96.Orientation = Vector3.new(0, 90, 0)
+p_96.Color = Color3.fromRGB(239, 184, 56)
+
+local p_97 = Instance.new("Part")
+p_97.Name = "Part"
+p_97.Size = Vector3.new(0.77, 9.84, 2)
+p_97.Position = Vector3.new(353.762, 53.992, -37.495)
+p_97.Orientation = Vector3.new(0, 0, 0)
+p_97.Color = Color3.fromRGB(239, 184, 56)
+
+local p_98 = Instance.new("Part")
+p_98.Name = "Part"
+p_98.Size = Vector3.new(0.77, 9.84, 2)
+p_98.Position = Vector3.new(386.528, 54.227, 22.23)
+p_98.Orientation = Vector3.new(0, 90, 0)
+p_98.Color = Color3.fromRGB(239, 184, 56)
+
+local p_99 = Instance.new("Part")
+p_99.Name = "Part"
+p_99.Size = Vector3.new(47.46, 2.27, 2)
+p_99.Position = Vector3.new(377.723, 40.451, 13.535)
+p_99.Orientation = Vector3.new(0, 0, 0)
+p_99.Color = Color3.fromRGB(105, 64, 40)
+
+local p_100 = Instance.new("Part")
+p_100.Name = "Part"
+p_100.Size = Vector3.new(0.41, 9.84, 23.22)
+p_100.Position = Vector3.new(365.114, 54.005, -39.134)
+p_100.Orientation = Vector3.new(0, 89.996, 0)
+p_100.Color = Color3.fromRGB(33, 84, 185)
+p_100.Transparency = 0.85
+
+local p_101 = Instance.new("Part")
+p_101.Name = "Part"
+p_101.Size = Vector3.new(0.77, 9.84, 5.1)
+p_101.Position = Vector3.new(400.121, 54.227, 22.23)
+p_101.Orientation = Vector3.new(0, 90, 0)
+p_101.Color = Color3.fromRGB(239, 184, 56)
+
+local p_102 = Instance.new("Part")
+p_102.Name = "Part"
+p_102.Size = Vector3.new(0.41, 9.84, 23.22)
+p_102.Position = Vector3.new(388.034, 44.236, 22.194)
+p_102.Orientation = Vector3.new(0, 89.996, 0)
+p_102.Color = Color3.fromRGB(33, 84, 185)
+p_102.Transparency = 0.85
+
+local p_103 = Instance.new("Part")
+p_103.Name = "Part"
+p_103.Size = Vector3.new(0.77, 9.84, 2)
+p_103.Position = Vector3.new(365.651, 44.346, 22.23)
+p_103.Orientation = Vector3.new(0, 90, 0)
+p_103.Color = Color3.fromRGB(239, 184, 56)
+
+local p_104 = Instance.new("Part")
+p_104.Name = "Part"
+p_104.Size = Vector3.new(0.77, 9.84, 12.13)
+p_104.Position = Vector3.new(353.762, 53.992, -5.63)
+p_104.Orientation = Vector3.new(0, 0, 0)
+p_104.Color = Color3.fromRGB(239, 184, 56)
+
+local p_105 = Instance.new("Part")
+p_105.Name = "Part"
+p_105.Size = Vector3.new(0.77, 9.84, 2)
+p_105.Position = Vector3.new(354.992, 44.346, 22.23)
+p_105.Orientation = Vector3.new(0, 90, 0)
+p_105.Color = Color3.fromRGB(239, 184, 56)
+
+local p_106 = Instance.new("Part")
+p_106.Name = "Part"
+p_106.Size = Vector3.new(0.41, 9.84, 23.22)
+p_106.Position = Vector3.new(365.114, 44.236, 22.193)
+p_106.Orientation = Vector3.new(0, 89.996, 0)
+p_106.Color = Color3.fromRGB(33, 84, 185)
+p_106.Transparency = 0.85
+
+local p_107 = Instance.new("Part")
+p_107.Name = "Part"
+p_107.Size = Vector3.new(0.77, 9.84, 2)
+p_107.Position = Vector3.new(401.89, 44.346, -18.933)
+p_107.Orientation = Vector3.new(0, 0, 0)
+p_107.Color = Color3.fromRGB(239, 184, 56)
+
+local p_108 = Instance.new("Part")
+p_108.Name = "Part"
+p_108.Size = Vector3.new(0.77, 9.84, 2)
+p_108.Position = Vector3.new(353.762, 53.992, 8.688)
+p_108.Orientation = Vector3.new(0, 0, 0)
+p_108.Color = Color3.fromRGB(239, 184, 56)
+
+local p_109 = Instance.new("Part")
+p_109.Name = "Part"
+p_109.Size = Vector3.new(0.77, 9.84, 2)
+p_109.Position = Vector3.new(401.89, 53.992, 2.529)
+p_109.Orientation = Vector3.new(0, 0, 0)
+p_109.Color = Color3.fromRGB(239, 184, 56)
+
+local p_110 = Instance.new("Part")
+p_110.Name = "Part"
+p_110.Size = Vector3.new(0.77, 9.84, 2)
+p_110.Position = Vector3.new(401.89, 44.346, -29.867)
+p_110.Orientation = Vector3.new(0, 0, 0)
+p_110.Color = Color3.fromRGB(239, 184, 56)
+
+local p_111 = Instance.new("Part")
+p_111.Name = "Part"
+p_111.Size = Vector3.new(0.77, 9.84, 2)
+p_111.Position = Vector3.new(401.89, 53.992, -29.867)
+p_111.Orientation = Vector3.new(0, 0, 0)
+p_111.Color = Color3.fromRGB(239, 184, 56)
+
+local p_112 = Instance.new("Part")
+p_112.Name = "Part"
+p_112.Size = Vector3.new(0.77, 9.84, 2)
+p_112.Position = Vector3.new(401.89, 44.346, -7.776)
+p_112.Orientation = Vector3.new(0, 0, 0)
+p_112.Color = Color3.fromRGB(239, 184, 56)
+
+local p_113 = Instance.new("Part")
+p_113.Name = "Part"
+p_113.Size = Vector3.new(0.77, 9.84, 2)
+p_113.Position = Vector3.new(401.89, 53.992, 12.661)
+p_113.Orientation = Vector3.new(0, 0, 0)
+p_113.Color = Color3.fromRGB(239, 184, 56)
+
+local p_114 = Instance.new("Part")
+p_114.Name = "Part"
+p_114.Size = Vector3.new(0.77, 9.84, 2)
+p_114.Position = Vector3.new(401.89, 44.346, 12.661)
+p_114.Orientation = Vector3.new(0, 0, 0)
+p_114.Color = Color3.fromRGB(239, 184, 56)
+
+local p_115 = Instance.new("Part")
+p_115.Name = "Part"
+p_115.Size = Vector3.new(0.41, 9.84, 60.88)
+p_115.Position = Vector3.new(402.044, 44.236, -8.566)
+p_115.Orientation = Vector3.new(0, 0, 0)
+p_115.Color = Color3.fromRGB(33, 84, 185)
+p_115.Transparency = 0.85
+
+local p_116 = Instance.new("Part")
+p_116.Name = "Part"
+p_116.Size = Vector3.new(0.77, 9.84, 2)
+p_116.Position = Vector3.new(386.528, 44.346, 22.23)
+p_116.Orientation = Vector3.new(0, 90, 0)
+p_116.Color = Color3.fromRGB(239, 184, 56)
+
+local p_117 = Instance.new("Part")
+p_117.Name = "Part"
+p_117.Size = Vector3.new(0.77, 9.84, 2)
+p_117.Position = Vector3.new(376.52, 44.346, 22.23)
+p_117.Orientation = Vector3.new(0, 90, 0)
+p_117.Color = Color3.fromRGB(239, 184, 56)
+
+local p_118 = Instance.new("Part")
+p_118.Name = "Part"
+p_118.Size = Vector3.new(0.77, 9.84, 2)
+p_118.Position = Vector3.new(401.89, 53.992, -18.933)
+p_118.Orientation = Vector3.new(0, 0, 0)
+p_118.Color = Color3.fromRGB(239, 184, 56)
+
+local p_119 = Instance.new("Part")
+p_119.Name = "Part"
+p_119.Size = Vector3.new(0.41, 9.84, 23.22)
+p_119.Position = Vector3.new(353.828, 44.236, 10.264)
+p_119.Orientation = Vector3.new(0, 0, 0)
+p_119.Color = Color3.fromRGB(33, 84, 185)
+p_119.Transparency = 0.85
+
+local p_120 = Instance.new("Part")
+p_120.Name = "Part"
+p_120.Size = Vector3.new(0.77, 9.84, 2)
+p_120.Position = Vector3.new(353.818, 44.236, 8.708)
+p_120.Orientation = Vector3.new(0, 0, 0)
+p_120.Color = Color3.fromRGB(239, 184, 56)
+
+local p_121 = Instance.new("Part")
+p_121.Name = "Part"
+p_121.Size = Vector3.new(0.77, 9.84, 2)
+p_121.Position = Vector3.new(401.89, 44.346, 2.529)
+p_121.Orientation = Vector3.new(0, 0, 0)
+p_121.Color = Color3.fromRGB(239, 184, 56)
+
+local p_122 = Instance.new("Part")
+p_122.Name = "Part"
+p_122.Size = Vector3.new(0.77, 9.84, 2)
+p_122.Position = Vector3.new(365.651, 44.346, -39.096)
+p_122.Orientation = Vector3.new(0, 90, 0)
+p_122.Color = Color3.fromRGB(239, 184, 56)
+
+local p_123 = Instance.new("Part")
+p_123.Name = "Part"
+p_123.Size = Vector3.new(0.77, 9.84, 2)
+p_123.Position = Vector3.new(386.528, 44.346, -39.096)
+p_123.Orientation = Vector3.new(0, 90, 0)
+p_123.Color = Color3.fromRGB(239, 184, 56)
+
+local p_124 = Instance.new("Part")
+p_124.Name = "Part"
+p_124.Size = Vector3.new(0.41, 9.84, 23.22)
+p_124.Position = Vector3.new(388.034, 44.236, -39.132)
+p_124.Orientation = Vector3.new(0, 89.996, 0)
+p_124.Color = Color3.fromRGB(33, 84, 185)
+p_124.Transparency = 0.85
+
+local p_125 = Instance.new("Part")
+p_125.Name = "Part"
+p_125.Size = Vector3.new(0.77, 9.84, 2)
+p_125.Position = Vector3.new(353.818, 44.236, -22.087)
+p_125.Orientation = Vector3.new(0, 0, 0)
+p_125.Color = Color3.fromRGB(239, 184, 56)
+
+local p_126 = Instance.new("Part")
+p_126.Name = "Part"
+p_126.Size = Vector3.new(0.77, 9.84, 3.23)
+p_126.Position = Vector3.new(353.818, 44.236, -37.958)
+p_126.Orientation = Vector3.new(0, 0, 0)
+p_126.Color = Color3.fromRGB(239, 184, 56)
+
+local p_127 = Instance.new("Part")
+p_127.Name = "Part"
+p_127.Size = Vector3.new(0.77, 9.84, 2)
+p_127.Position = Vector3.new(353.818, 44.236, 16.426)
+p_127.Orientation = Vector3.new(0, 0, 0)
+p_127.Color = Color3.fromRGB(239, 184, 56)
+
+local p_128 = Instance.new("Part")
+p_128.Name = "Part"
+p_128.Size = Vector3.new(0.41, 9.84, 23.22)
+p_128.Position = Vector3.new(365.114, 44.236, -39.134)
+p_128.Orientation = Vector3.new(0, 89.996, 0)
+p_128.Color = Color3.fromRGB(33, 84, 185)
+p_128.Transparency = 0.85
+
+local p_129 = Instance.new("Part")
+p_129.Name = "Part"
+p_129.Size = Vector3.new(0.77, 9.84, 2)
+p_129.Position = Vector3.new(354.992, 44.346, -39.096)
+p_129.Orientation = Vector3.new(0, 90, 0)
+p_129.Color = Color3.fromRGB(239, 184, 56)
+
+local p_130 = Instance.new("Part")
+p_130.Name = "Part"
+p_130.Size = Vector3.new(0.77, 9.84, 2)
+p_130.Position = Vector3.new(353.818, 44.236, 21.674)
+p_130.Orientation = Vector3.new(0, 0, 0)
+p_130.Color = Color3.fromRGB(239, 184, 56)
+
+local p_131 = Instance.new("Part")
+p_131.Name = "Part"
+p_131.Size = Vector3.new(0.77, 9.84, 2)
+p_131.Position = Vector3.new(376.52, 44.346, -39.096)
+p_131.Orientation = Vector3.new(0, 90, 0)
+p_131.Color = Color3.fromRGB(239, 184, 56)
+
+local p_132 = Instance.new("Part")
+p_132.Name = "Part"
+p_132.Size = Vector3.new(31.25, 0.22, 11.25)
+p_132.Position = Vector3.new(369.107, 39.226, -6.96)
+p_132.Orientation = Vector3.new(0, 0, 0)
+p_132.Color = Color3.fromRGB(255, 0, 0)
+
+local p_133 = Instance.new("Part")
+p_133.Name = "Part"
+p_133.Size = Vector3.new(0.77, 9.84, 5.1)
+p_133.Position = Vector3.new(400.121, 44.346, -39.096)
+p_133.Orientation = Vector3.new(0, 90, 0)
+p_133.Color = Color3.fromRGB(239, 184, 56)
+
+local p_134 = Instance.new("Part")
+p_134.Name = "Part"
+p_134.Size = Vector3.new(0.41, 9.84, 60.88)
+p_134.Position = Vector3.new(353.916, 53.882, -8.566)
+p_134.Orientation = Vector3.new(0, 0, 0)
+p_134.Color = Color3.fromRGB(33, 84, 185)
+p_134.Transparency = 0.85
+
+local p_135 = Instance.new("Part")
+p_135.Name = "Part"
+p_135.Size = Vector3.new(0.77, 9.84, 2)
+p_135.Position = Vector3.new(401.89, 53.992, -7.776)
+p_135.Orientation = Vector3.new(0, 0, 0)
+p_135.Color = Color3.fromRGB(239, 184, 56)
+
+local p_136 = Instance.new("Part")
+p_136.Name = "Part"
+p_136.Size = Vector3.new(0.41, 9.84, 60.88)
+p_136.Position = Vector3.new(402.044, 53.882, -8.566)
+p_136.Orientation = Vector3.new(0, 0, 0)
+p_136.Color = Color3.fromRGB(33, 84, 185)
+p_136.Transparency = 0.85
+
+local p_137 = Instance.new("Part")
+p_137.Name = "Part"
+p_137.Size = Vector3.new(4.268, 0.959, 12.752)
+p_137.Position = Vector3.new(215.401, 38.979, -3.407)
+p_137.Orientation = Vector3.new(0, -90, 0)
+p_137.Color = Color3.fromRGB(255, 0, 0)
+
+local p_138 = Instance.new("Part")
+p_138.Name = "Part"
+p_138.Size = Vector3.new(14.01, 0.959, 4.25)
+p_138.Position = Vector3.new(223.902, 38.979, -8.277)
+p_138.Orientation = Vector3.new(0, -90, 0)
+p_138.Color = Color3.fromRGB(255, 176, 0)
+
+local p_139 = Instance.new("Part")
+p_139.Name = "Part"
+p_139.Size = Vector3.new(4.392, 0.959, 15.67)
+p_139.Position = Vector3.new(233.868, 38.979, -13.086)
+p_139.Orientation = Vector3.new(0, -90, 0)
+p_139.Color = Color3.fromRGB(245, 205, 48)
+
+local p_140 = Instance.new("Part")
+p_140.Name = "Part"
+p_140.Size = Vector3.new(14.01, 0.959, 4.25)
+p_140.Position = Vector3.new(243.827, 38.979, -8.277)
+p_140.Orientation = Vector3.new(0, -90, 0)
+p_140.Color = Color3.fromRGB(0, 198, 0)
+
+local p_141 = Instance.new("Part")
+p_141.Name = "Part"
+p_141.Size = Vector3.new(4.129, 0.959, 16.873)
+p_141.Position = Vector3.new(254.389, 38.979, -3.337)
+p_141.Orientation = Vector3.new(0, -90, 0)
+p_141.Color = Color3.fromRGB(52, 142, 64)
+
+local p_142 = Instance.new("Part")
+p_142.Name = "Part"
+p_142.Size = Vector3.new(14.01, 0.959, 4.25)
+p_142.Position = Vector3.new(264.95, 38.979, -8.277)
+p_142.Orientation = Vector3.new(0, -90, 0)
+p_142.Color = Color3.fromRGB(0, 143, 156)
+
+local p_143 = Instance.new("Part")
+p_143.Name = "Part"
+p_143.Size = Vector3.new(4.392, 0.959, 15.67)
+p_143.Position = Vector3.new(274.91, 38.979, -13.086)
+p_143.Orientation = Vector3.new(0, -90, 0)
+p_143.Color = Color3.fromRGB(33, 84, 185)
+
+local p_144 = Instance.new("Part")
+p_144.Name = "Part"
+p_144.Size = Vector3.new(14.01, 0.959, 4.25)
+p_144.Position = Vector3.new(284.869, 38.979, -8.277)
+p_144.Orientation = Vector3.new(0, -90, 0)
+p_144.Color = Color3.fromRGB(167, 94, 155)
+
+local p_145 = Instance.new("Part")
+p_145.Name = "Part"
+p_145.Size = Vector3.new(15.5, 1, 4)
+p_145.Position = Vector3.new(351.746, 47.25, 5.478)
+p_145.Orientation = Vector3.new(0, -90, 90)
+p_145.Color = Color3.fromRGB(170, 0, 170)
+
+local p_146 = Instance.new("Part")
+p_146.Name = "Part"
+p_146.Size = Vector3.new(15.5, 1, 4)
+p_146.Position = Vector3.new(301.746, 47.25, -16.022)
+p_146.Orientation = Vector3.new(0, -90, 90)
+p_146.Color = Color3.fromRGB(255, 0, 0)
+
+local p_147 = Instance.new("Part")
+p_147.Name = "Part"
+p_147.Size = Vector3.new(15.5, 1, 4)
+p_147.Position = Vector3.new(341.746, 47.25, 5.478)
+p_147.Orientation = Vector3.new(0, -90, 90)
+p_147.Color = Color3.fromRGB(0, 0, 255)
+
+local p_148 = Instance.new("Part")
+p_148.Name = "Part"
+p_148.Size = Vector3.new(15.5, 1, 4)
+p_148.Position = Vector3.new(331.746, 47.25, 5.478)
+p_148.Orientation = Vector3.new(0, -90, 90)
+p_148.Color = Color3.fromRGB(0, 255, 255)
+
+local p_149 = Instance.new("Part")
+p_149.Name = "Part"
+p_149.Size = Vector3.new(22.5, 1, 4)
+p_149.Position = Vector3.new(351.746, 39, -5.272)
+p_149.Orientation = Vector3.new(0, -90, 0)
+p_149.Color = Color3.fromRGB(170, 0, 170)
+
+local p_150 = Instance.new("Part")
+p_150.Name = "Part"
+p_150.Size = Vector3.new(22.5, 1, 4)
+p_150.Position = Vector3.new(341.746, 39, -5.272)
+p_150.Orientation = Vector3.new(0, -90, 0)
+p_150.Color = Color3.fromRGB(0, 0, 255)
+
+local p_151 = Instance.new("Part")
+p_151.Name = "Part"
+p_151.Size = Vector3.new(22.5, 1, 4)
+p_151.Position = Vector3.new(331.746, 39, -5.272)
+p_151.Orientation = Vector3.new(0, -90, 0)
+p_151.Color = Color3.fromRGB(0, 255, 255)
+
+local p_152 = Instance.new("Part")
+p_152.Name = "Part"
+p_152.Size = Vector3.new(15.5, 1, 4)
+p_152.Position = Vector3.new(321.746, 47.25, 5.478)
+p_152.Orientation = Vector3.new(0, -90, 90)
+p_152.Color = Color3.fromRGB(0, 255, 0)
+
+local p_153 = Instance.new("Part")
+p_153.Name = "Part"
+p_153.Size = Vector3.new(22.5, 1, 4)
+p_153.Position = Vector3.new(321.746, 39, -5.272)
+p_153.Orientation = Vector3.new(0, -90, 0)
+p_153.Color = Color3.fromRGB(0, 255, 0)
+
+local p_154 = Instance.new("Part")
+p_154.Name = "Part"
+p_154.Size = Vector3.new(15.5, 1, 4)
+p_154.Position = Vector3.new(315.246, 47.25, 5.478)
+p_154.Orientation = Vector3.new(0, -90, 90)
+p_154.Color = Color3.fromRGB(255, 255, 0)
+
+local p_155 = Instance.new("Part")
+p_155.Name = "Part"
+p_155.Size = Vector3.new(22.5, 1, 4)
+p_155.Position = Vector3.new(315.246, 39, -5.272)
+p_155.Orientation = Vector3.new(0, -90, 0)
+p_155.Color = Color3.fromRGB(255, 255, 0)
+
+local p_156 = Instance.new("Part")
+p_156.Name = "Part"
+p_156.Size = Vector3.new(15.5, 1, 4)
+p_156.Position = Vector3.new(331.746, 47.25, -16.022)
+p_156.Orientation = Vector3.new(0, -90, 90)
+p_156.Color = Color3.fromRGB(0, 255, 255)
+
+local p_157 = Instance.new("Part")
+p_157.Name = "Part"
+p_157.Size = Vector3.new(15.5, 1, 4)
+p_157.Position = Vector3.new(321.746, 47.25, -16.022)
+p_157.Orientation = Vector3.new(0, -90, 90)
+p_157.Color = Color3.fromRGB(0, 255, 0)
+
+local p_158 = Instance.new("Part")
+p_158.Name = "Part"
+p_158.Size = Vector3.new(15.5, 1, 4)
+p_158.Position = Vector3.new(315.246, 47.25, -16.022)
+p_158.Orientation = Vector3.new(0, -90, 90)
+p_158.Color = Color3.fromRGB(255, 255, 0)
+
+local p_159 = Instance.new("Part")
+p_159.Name = "Part"
+p_159.Size = Vector3.new(22.5, 1, 4)
+p_159.Position = Vector3.new(308.746, 39, -5.272)
+p_159.Orientation = Vector3.new(0, -90, 0)
+p_159.Color = Color3.fromRGB(255, 176, 0)
+
+local p_160 = Instance.new("Part")
+p_160.Name = "Part"
+p_160.Size = Vector3.new(15.5, 1, 4)
+p_160.Position = Vector3.new(351.746, 47.25, -16.022)
+p_160.Orientation = Vector3.new(0, -90, 90)
+p_160.Color = Color3.fromRGB(170, 0, 170)
+
+local p_161 = Instance.new("Part")
+p_161.Name = "Part"
+p_161.Size = Vector3.new(15.5, 1, 4)
+p_161.Position = Vector3.new(341.746, 47.25, -16.022)
+p_161.Orientation = Vector3.new(0, -90, 90)
+p_161.Color = Color3.fromRGB(0, 0, 255)
+
+local p_162 = Instance.new("Part")
+p_162.Name = "Part"
+p_162.Size = Vector3.new(15.5, 1, 4)
+p_162.Position = Vector3.new(308.746, 47.25, 5.478)
+p_162.Orientation = Vector3.new(0, -90, 90)
+p_162.Color = Color3.fromRGB(255, 176, 0)
+
+local p_163 = Instance.new("Part")
+p_163.Name = "Part"
+p_163.Size = Vector3.new(15.5, 1, 4)
+p_163.Position = Vector3.new(308.746, 47.25, -16.022)
+p_163.Orientation = Vector3.new(0, -90, 90)
+p_163.Color = Color3.fromRGB(255, 176, 0)
+
+local p_164 = Instance.new("Part")
+p_164.Name = "Part"
+p_164.Size = Vector3.new(22.5, 1, 4)
+p_164.Position = Vector3.new(301.746, 39, -5.272)
+p_164.Orientation = Vector3.new(0, -90, 0)
+p_164.Color = Color3.fromRGB(255, 0, 0)
+
+local p_165 = Instance.new("Cylinder")
+p_165.Name = "Part"
+p_165.Size = Vector3.new(0.67, 0.38, 1)
+p_165.Position = Vector3.new(389.352, 53.77, -19.96)
+p_165.Orientation = Vector3.new(0, -90, -90)
+p_165.Color = Color3.fromRGB(239, 184, 56)
+
+local p_166 = Instance.new("Part")
+p_166.Name = "Part"
+p_166.Size = Vector3.new(4, 1, 4.12)
+p_166.Position = Vector3.new(379.422, 39.816, -24.275)
+p_166.Orientation = Vector3.new(0, 0, 0)
+p_166.Color = Color3.fromRGB(239, 184, 56)
+
+local p_167 = Instance.new("Cylinder")
+p_167.Name = "Part"
+p_167.Size = Vector3.new(0.67, 0.38, 1)
+p_167.Position = Vector3.new(384.976, 53.77, -24.849)
+p_167.Orientation = Vector3.new(0, 175, -90)
+p_167.Color = Color3.fromRGB(239, 184, 56)
+
+local p_168 = Instance.new("Cylinder")
+p_168.Name = "Part"
+p_168.Size = Vector3.new(0.67, 0.38, 1)
+p_168.Position = Vector3.new(389.329, 53.77, -28.717)
+p_168.Orientation = Vector3.new(0, 90, -90)
+p_168.Color = Color3.fromRGB(239, 184, 56)
+
+local p_169 = Instance.new("Cylinder")
+p_169.Name = "Part"
+p_169.Size = Vector3.new(1.89, 1, 0.25)
+p_169.Position = Vector3.new(372.956, 53.55, -3.21)
+p_169.Orientation = Vector3.new(0, 90, 0)
+p_169.Color = Color3.fromRGB(239, 184, 56)
+
+local p_170 = Instance.new("Cylinder")
+p_170.Name = "Part"
+p_170.Size = Vector3.new(1.89, 1, 0.25)
+p_170.Position = Vector3.new(372.956, 53.55, -21.724)
+p_170.Orientation = Vector3.new(0, 90, 0)
+p_170.Color = Color3.fromRGB(239, 184, 56)
+
+local p_171 = Instance.new("Cylinder")
+p_171.Name = "Part"
+p_171.Size = Vector3.new(1.89, 1, 0.25)
+p_171.Position = Vector3.new(372.956, 53.55, 15.758)
+p_171.Orientation = Vector3.new(0, 90, 0)
+p_171.Color = Color3.fromRGB(239, 184, 56)
+
+local p_172 = Instance.new("Cylinder")
+p_172.Name = "Part"
+p_172.Size = Vector3.new(1.89, 1, 0.25)
+p_172.Position = Vector3.new(389.346, 53.55, 15.758)
+p_172.Orientation = Vector3.new(0, 90, 0)
+p_172.Color = Color3.fromRGB(239, 184, 56)
+
+local p_173 = Instance.new("Cylinder")
+p_173.Name = "Part"
+p_173.Size = Vector3.new(1.89, 1, 0.25)
+p_173.Position = Vector3.new(389.346, 53.55, -3.592)
+p_173.Orientation = Vector3.new(0, 90, 0)
+p_173.Color = Color3.fromRGB(239, 184, 56)
+
+local p_174 = Instance.new("Cylinder")
+p_174.Name = "Part"
+p_174.Size = Vector3.new(1.89, 1, 0.25)
+p_174.Position = Vector3.new(389.346, 53.55, -20.949)
+p_174.Orientation = Vector3.new(0, 90, 0)
+p_174.Color = Color3.fromRGB(239, 184, 56)
+
+local p_175 = Instance.new("Cylinder")
+p_175.Name = "Part"
+p_175.Size = Vector3.new(0.67, 0.38, 1)
+p_175.Position = Vector3.new(389.352, 53.77, -2.603)
+p_175.Orientation = Vector3.new(0, -90, -90)
+p_175.Color = Color3.fromRGB(239, 184, 56)
+
+local p_176 = Instance.new("Part")
+p_176.Name = "Part"
+p_176.Size = Vector3.new(4, 1, 4.12)
+p_176.Position = Vector3.new(365.833, 39.816, -24.275)
+p_176.Orientation = Vector3.new(0, 0, 0)
+p_176.Color = Color3.fromRGB(239, 184, 56)
+
+local p_177 = Instance.new("Cylinder")
+p_177.Name = "Part"
+p_177.Size = Vector3.new(0.67, 0.38, 1)
+p_177.Position = Vector3.new(384.976, 53.77, -7.492)
+p_177.Orientation = Vector3.new(0, 175, -90)
+p_177.Color = Color3.fromRGB(239, 184, 56)
+
+local p_178 = Instance.new("Cylinder")
+p_178.Name = "Part"
+p_178.Size = Vector3.new(0.67, 0.38, 1)
+p_178.Position = Vector3.new(389.329, 53.77, -11.36)
+p_178.Orientation = Vector3.new(0, 90, -90)
+p_178.Color = Color3.fromRGB(239, 184, 56)
+
+local p_179 = Instance.new("Cylinder")
+p_179.Name = "Part"
+p_179.Size = Vector3.new(1.878, 1.605, 0.674)
+p_179.Position = Vector3.new(393.275, 42.195, -23.539)
+p_179.Orientation = Vector3.new(0, -44.806, -90)
+p_179.Color = Color3.fromRGB(17, 17, 17)
+
+local p_180 = Instance.new("Part")
+p_180.Name = "Part"
+p_180.Size = Vector3.new(0.249, 0.28, 0.925)
+p_180.Position = Vector3.new(395.135, 43.747, -23.275)
+p_180.Orientation = Vector3.new(0, 135.194, 0)
+p_180.Color = Color3.fromRGB(17, 17, 17)
+
+local p_181 = Instance.new("Part")
+p_181.Name = "Part"
+p_181.Size = Vector3.new(4.548, 1.182, 4.291)
+p_181.Position = Vector3.new(393.549, 43.707, -21.041)
+p_181.Orientation = Vector3.new(0, -134.806, 0)
+p_181.Color = Color3.fromRGB(17, 17, 17)
+
+local p_182 = Instance.new("Cylinder")
+p_182.Name = "Part"
+p_182.Size = Vector3.new(3.258, 0.161, 1.605)
+p_182.Position = Vector3.new(392.223, 45.147, -21.478)
+p_182.Orientation = Vector3.new(0, -44.806, -111.139)
+p_182.Color = Color3.fromRGB(17, 17, 17)
+
+local p_183 = Instance.new("Cylinder")
+p_183.Name = "Part"
+p_183.Size = Vector3.new(1.107, 4.184, 4.591)
+p_183.Position = Vector3.new(391.825, 43.734, -19.318)
+p_183.Orientation = Vector3.new(0, 45.194, -90)
+p_183.Color = Color3.fromRGB(17, 17, 17)
+
+local p_184 = Instance.new("Part")
+p_184.Name = "Part"
+p_184.Size = Vector3.new(4.481, 0.38, 4.227)
+p_184.Position = Vector3.new(393.749, 45.956, -20.819)
+p_184.Orientation = Vector3.new(-38.075, -134.806, 0)
+p_184.Color = Color3.fromRGB(17, 17, 17)
+
+local p_185 = Instance.new("Cylinder")
+p_185.Name = "Part"
+p_185.Size = Vector3.new(0.386, 4.122, 4.523)
+p_185.Position = Vector3.new(392.08, 45.972, -19.091)
+p_185.Orientation = Vector3.new(38.075, 45.194, -90)
+p_185.Color = Color3.fromRGB(17, 17, 17)
+
+local p_186 = Instance.new("Cylinder")
+p_186.Name = "Part"
+p_186.Size = Vector3.new(1.878, 1.605, 0.674)
+p_186.Position = Vector3.new(395.65, 42.195, -21.18)
+p_186.Orientation = Vector3.new(0, -44.806, -90)
+p_186.Color = Color3.fromRGB(17, 17, 17)
+
+local p_187 = Instance.new("Part")
+p_187.Name = "Part"
+p_187.Size = Vector3.new(6.073, 0.514, 4.291)
+p_187.Position = Vector3.new(394.086, 43.373, -21.582)
+p_187.Orientation = Vector3.new(0, -134.806, 0)
+p_187.Color = Color3.fromRGB(17, 17, 17)
+
+local p_188 = Instance.new("Cylinder")
+p_188.Name = "Part"
+p_188.Size = Vector3.new(2.135, 1.605, 0.674)
+p_188.Position = Vector3.new(390.702, 42.377, -19.992)
+p_188.Orientation = Vector3.new(0, -44.806, -90)
+p_188.Color = Color3.fromRGB(17, 17, 17)
+
+local p_189 = Instance.new("Cylinder")
+p_189.Name = "Part"
+p_189.Size = Vector3.new(2.93, 1, 1)
+p_189.Position = Vector3.new(375.37, 40.827, -22.652)
+p_189.Orientation = Vector3.new(90, 0, 0)
+p_189.Color = Color3.fromRGB(239, 184, 56)
+
+local p_190 = Instance.new("Cylinder")
+p_190.Name = "Part"
+p_190.Size = Vector3.new(4, 1, 1)
+p_190.Position = Vector3.new(373.975, 42.136, -24.272)
+p_190.Orientation = Vector3.new(85, 90, 180)
+p_190.Color = Color3.fromRGB(211, 190, 150)
+
+local p_191 = Instance.new("Part")
+p_191.Name = "Part"
+p_191.Size = Vector3.new(4, 1, 2.83)
+p_191.Position = Vector3.new(374.095, 40.77, -24.241)
+p_191.Orientation = Vector3.new(85, 90, 180)
+p_191.Color = Color3.fromRGB(211, 190, 150)
+
+local p_192 = Instance.new("Cylinder")
+p_192.Name = "Part"
+p_192.Size = Vector3.new(2.93, 1, 1)
+p_192.Position = Vector3.new(375.128, 40.827, -25.736)
+p_192.Orientation = Vector3.new(90, 0, 0)
+p_192.Color = Color3.fromRGB(239, 184, 56)
+
+local p_193 = Instance.new("Cylinder")
+p_193.Name = "Part"
+p_193.Size = Vector3.new(4, 1, 1)
+p_193.Position = Vector3.new(376.511, 39.859, -24.272)
+p_193.Orientation = Vector3.new(0, -90, 0)
+p_193.Color = Color3.fromRGB(211, 190, 150)
+
+local p_194 = Instance.new("Part")
+p_194.Name = "Part"
+p_194.Size = Vector3.new(4, 1, 2)
+p_194.Position = Vector3.new(375.49, 39.859, -24.241)
+p_194.Orientation = Vector3.new(0, -90, 0)
+p_194.Color = Color3.fromRGB(211, 190, 150)
+
+local p_195 = Instance.new("Cylinder")
+p_195.Name = "Part"
+p_195.Size = Vector3.new(2.93, 1, 1)
+p_195.Position = Vector3.new(381.582, 40.827, -19.804)
+p_195.Orientation = Vector3.new(90, 90, 0)
+p_195.Color = Color3.fromRGB(239, 184, 56)
+
+local p_196 = Instance.new("Cylinder")
+p_196.Name = "Part"
+p_196.Size = Vector3.new(4, 1, 1)
+p_196.Position = Vector3.new(379.961, 42.136, -18.409)
+p_196.Orientation = Vector3.new(85, 180, 180)
+p_196.Color = Color3.fromRGB(211, 190, 150)
+
+local p_197 = Instance.new("Part")
+p_197.Name = "Part"
+p_197.Size = Vector3.new(4, 1, 2.83)
+p_197.Position = Vector3.new(379.992, 40.77, -18.529)
+p_197.Orientation = Vector3.new(85, 180, 180)
+p_197.Color = Color3.fromRGB(211, 190, 150)
+
+local p_198 = Instance.new("Cylinder")
+p_198.Name = "Part"
+p_198.Size = Vector3.new(2.93, 1, 1)
+p_198.Position = Vector3.new(378.498, 40.827, -19.563)
+p_198.Orientation = Vector3.new(90, 90, 0)
+p_198.Color = Color3.fromRGB(239, 184, 56)
+
+local p_199 = Instance.new("Cylinder")
+p_199.Name = "Part"
+p_199.Size = Vector3.new(4, 1, 1)
+p_199.Position = Vector3.new(379.961, 39.859, -20.946)
+p_199.Orientation = Vector3.new(0, 0, 0)
+p_199.Color = Color3.fromRGB(211, 190, 150)
+
+local p_200 = Instance.new("Part")
+p_200.Name = "Part"
+p_200.Size = Vector3.new(4, 1, 2)
+p_200.Position = Vector3.new(379.992, 39.859, -19.924)
+p_200.Orientation = Vector3.new(0, 0, 0)
+p_200.Color = Color3.fromRGB(211, 190, 150)
+
+local p_201 = Instance.new("Cylinder")
+p_201.Name = "Part"
+p_201.Size = Vector3.new(2.93, 1, 1)
+p_201.Position = Vector3.new(383.516, 40.827, -25.972)
+p_201.Orientation = Vector3.new(90, 180, 0)
+p_201.Color = Color3.fromRGB(239, 184, 56)
+
+local p_202 = Instance.new("Cylinder")
+p_202.Name = "Part"
+p_202.Size = Vector3.new(4, 1, 1)
+p_202.Position = Vector3.new(384.911, 42.136, -24.351)
+p_202.Orientation = Vector3.new(85, -90, 180)
+p_202.Color = Color3.fromRGB(211, 190, 150)
+
+local p_203 = Instance.new("Part")
+p_203.Name = "Part"
+p_203.Size = Vector3.new(4, 1, 2.83)
+p_203.Position = Vector3.new(384.791, 40.77, -24.383)
+p_203.Orientation = Vector3.new(85, -90, 180)
+p_203.Color = Color3.fromRGB(211, 190, 150)
+
+local p_204 = Instance.new("Cylinder")
+p_204.Name = "Part"
+p_204.Size = Vector3.new(2.93, 1, 1)
+p_204.Position = Vector3.new(383.758, 40.827, -22.888)
+p_204.Orientation = Vector3.new(90, 180, 0)
+p_204.Color = Color3.fromRGB(239, 184, 56)
+
+local p_205 = Instance.new("Cylinder")
+p_205.Name = "Part"
+p_205.Size = Vector3.new(4, 1, 1)
+p_205.Position = Vector3.new(382.374, 39.859, -24.351)
+p_205.Orientation = Vector3.new(0, 90, 0)
+p_205.Color = Color3.fromRGB(211, 190, 150)
+
+local p_206 = Instance.new("Part")
+p_206.Name = "Part"
+p_206.Size = Vector3.new(4, 1, 2)
+p_206.Position = Vector3.new(383.396, 39.859, -24.383)
+p_206.Orientation = Vector3.new(0, 90, 0)
+p_206.Color = Color3.fromRGB(211, 190, 150)
+
+local p_207 = Instance.new("Cylinder")
+p_207.Name = "Part"
+p_207.Size = Vector3.new(2.93, 1, 1)
+p_207.Position = Vector3.new(378.551, 40.827, -28.774)
+p_207.Orientation = Vector3.new(90, -90, 0)
+p_207.Color = Color3.fromRGB(239, 184, 56)
+
+local p_208 = Instance.new("Cylinder")
+p_208.Name = "Part"
+p_208.Size = Vector3.new(4, 1, 1)
+p_208.Position = Vector3.new(380.172, 42.136, -30.169)
+p_208.Orientation = Vector3.new(85, 0, 180)
+p_208.Color = Color3.fromRGB(211, 190, 150)
+
+local p_209 = Instance.new("Part")
+p_209.Name = "Part"
+p_209.Size = Vector3.new(4, 1, 2.83)
+p_209.Position = Vector3.new(380.141, 40.77, -30.05)
+p_209.Orientation = Vector3.new(85, 0, 180)
+p_209.Color = Color3.fromRGB(211, 190, 150)
+
+local p_210 = Instance.new("Cylinder")
+p_210.Name = "Part"
+p_210.Size = Vector3.new(2.93, 1, 1)
+p_210.Position = Vector3.new(381.635, 40.827, -29.016)
+p_210.Orientation = Vector3.new(90, -90, 0)
+p_210.Color = Color3.fromRGB(239, 184, 56)
+
+local p_211 = Instance.new("Cylinder")
+p_211.Name = "Part"
+p_211.Size = Vector3.new(4, 1, 1)
+p_211.Position = Vector3.new(380.172, 39.859, -27.633)
+p_211.Orientation = Vector3.new(0, 180, 0)
+p_211.Color = Color3.fromRGB(211, 190, 150)
+
+local p_212 = Instance.new("Part")
+p_212.Name = "Part"
+p_212.Size = Vector3.new(4, 1, 2)
+p_212.Position = Vector3.new(380.141, 39.859, -28.654)
+p_212.Orientation = Vector3.new(0, 180, 0)
+p_212.Color = Color3.fromRGB(211, 190, 150)
+
+local p_213 = Instance.new("Cylinder")
+p_213.Name = "Part"
+p_213.Size = Vector3.new(1.3, 0.25, 1)
+p_213.Position = Vector3.new(377.166, 54.085, -7.034)
+p_213.Orientation = Vector3.new(0, 0, -90)
+p_213.Color = Color3.fromRGB(231, 231, 236)
+
+local p_214 = Instance.new("Cylinder")
+p_214.Name = "Part"
+p_214.Size = Vector3.new(1.89, 1, 0.25)
+p_214.Position = Vector3.new(376.165, 53.55, -7.028)
+p_214.Orientation = Vector3.new(0, 180, 0)
+p_214.Color = Color3.fromRGB(239, 184, 56)
+
+local p_215 = Instance.new("Cylinder")
+p_215.Name = "Part"
+p_215.Size = Vector3.new(1.1, 5.33, 5.56)
+p_215.Position = Vector3.new(372.997, 53.975, -6.83)
+p_215.Orientation = Vector3.new(0, 90, -90)
+p_215.Color = Color3.fromRGB(239, 184, 56)
+
+local p_216 = Instance.new("Sphere")
+p_216.Name = "Part"
+p_216.Size = Vector3.new(4, 4, 4)
+p_216.Position = Vector3.new(373.028, 54.553, -6.735)
+p_216.Orientation = Vector3.new(0, 0, 0)
+p_216.Color = Color3.fromRGB(239, 184, 56)
+
+local p_217 = Instance.new("Cylinder")
+p_217.Name = "Part"
+p_217.Size = Vector3.new(1.89, 1, 0.25)
+p_217.Position = Vector3.new(372.945, 53.55, -9.988)
+p_217.Orientation = Vector3.new(0, -90, 0)
+p_217.Color = Color3.fromRGB(239, 184, 56)
+
+local p_218 = Instance.new("Cylinder")
+p_218.Name = "Part"
+p_218.Size = Vector3.new(1.3, 0.25, 1)
+p_218.Position = Vector3.new(372.939, 54.085, -10.99)
+p_218.Orientation = Vector3.new(0, 90, -90)
+p_218.Color = Color3.fromRGB(231, 231, 236)
+
+local p_219 = Instance.new("Cylinder")
+p_219.Name = "Part"
+p_219.Size = Vector3.new(1.89, 1, 0.25)
+p_219.Position = Vector3.new(369.572, 53.55, -7.03)
+p_219.Orientation = Vector3.new(0, -5, 0)
+p_219.Color = Color3.fromRGB(239, 184, 56)
+
+local p_220 = Instance.new("Cylinder")
+p_220.Name = "Part"
+p_220.Size = Vector3.new(1.3, 0.25, 1)
+p_220.Position = Vector3.new(368.574, 54.085, -7.111)
+p_220.Orientation = Vector3.new(0, 175, -90)
+p_220.Color = Color3.fromRGB(231, 231, 236)
+
+local p_221 = Instance.new("Cylinder")
+p_221.Name = "Part"
+p_221.Size = Vector3.new(1.3, 0.25, 1)
+p_221.Position = Vector3.new(372.962, 54.085, -2.208)
+p_221.Orientation = Vector3.new(0, -90, -90)
+p_221.Color = Color3.fromRGB(231, 231, 236)
+
+local p_222 = Instance.new("Cylinder")
+p_222.Name = "Part"
+p_222.Size = Vector3.new(1.3, 0.25, 1)
+p_222.Position = Vector3.new(377.166, 54.085, -25.548)
+p_222.Orientation = Vector3.new(0, 0, -90)
+p_222.Color = Color3.fromRGB(231, 231, 236)
+
+local p_223 = Instance.new("Cylinder")
+p_223.Name = "Part"
+p_223.Size = Vector3.new(1.89, 1, 0.25)
+p_223.Position = Vector3.new(376.165, 53.55, -25.542)
+p_223.Orientation = Vector3.new(0, 180, 0)
+p_223.Color = Color3.fromRGB(239, 184, 56)
+
+local p_224 = Instance.new("Cylinder")
+p_224.Name = "Part"
+p_224.Size = Vector3.new(1.1, 5.33, 5.56)
+p_224.Position = Vector3.new(372.997, 53.975, -25.344)
+p_224.Orientation = Vector3.new(0, 90, -90)
+p_224.Color = Color3.fromRGB(239, 184, 56)
+
+local p_225 = Instance.new("Sphere")
+p_225.Name = "Part"
+p_225.Size = Vector3.new(4, 4, 4)
+p_225.Position = Vector3.new(373.028, 54.553, -25.249)
+p_225.Orientation = Vector3.new(0, 0, 0)
+p_225.Color = Color3.fromRGB(239, 184, 56)
+
+local p_226 = Instance.new("Cylinder")
+p_226.Name = "Part"
+p_226.Size = Vector3.new(1.89, 1, 0.25)
+p_226.Position = Vector3.new(372.945, 53.55, -28.502)
+p_226.Orientation = Vector3.new(0, -90, 0)
+p_226.Color = Color3.fromRGB(239, 184, 56)
+
+local p_227 = Instance.new("Cylinder")
+p_227.Name = "Part"
+p_227.Size = Vector3.new(1.3, 0.25, 1)
+p_227.Position = Vector3.new(372.939, 54.085, -29.504)
+p_227.Orientation = Vector3.new(0, 90, -90)
+p_227.Color = Color3.fromRGB(231, 231, 236)
+
+local p_228 = Instance.new("Cylinder")
+p_228.Name = "Part"
+p_228.Size = Vector3.new(1.89, 1, 0.25)
+p_228.Position = Vector3.new(369.572, 53.55, -25.544)
+p_228.Orientation = Vector3.new(0, -5, 0)
+p_228.Color = Color3.fromRGB(239, 184, 56)
+
+local p_229 = Instance.new("Cylinder")
+p_229.Name = "Part"
+p_229.Size = Vector3.new(1.3, 0.25, 1)
+p_229.Position = Vector3.new(368.574, 54.085, -25.625)
+p_229.Orientation = Vector3.new(0, 175, -90)
+p_229.Color = Color3.fromRGB(231, 231, 236)
+
+local p_230 = Instance.new("Cylinder")
+p_230.Name = "Part"
+p_230.Size = Vector3.new(1.3, 0.25, 1)
+p_230.Position = Vector3.new(372.962, 54.085, -20.722)
+p_230.Orientation = Vector3.new(0, -90, -90)
+p_230.Color = Color3.fromRGB(231, 231, 236)
+
+local p_231 = Instance.new("Cylinder")
+p_231.Name = "Part"
+p_231.Size = Vector3.new(1.3, 0.25, 1)
+p_231.Position = Vector3.new(377.166, 54.085, 11.934)
+p_231.Orientation = Vector3.new(0, 0, -90)
+p_231.Color = Color3.fromRGB(231, 231, 236)
+
+local p_232 = Instance.new("Cylinder")
+p_232.Name = "Part"
+p_232.Size = Vector3.new(1.89, 1, 0.25)
+p_232.Position = Vector3.new(376.165, 53.55, 11.94)
+p_232.Orientation = Vector3.new(0, 180, 0)
+p_232.Color = Color3.fromRGB(239, 184, 56)
+
+local p_233 = Instance.new("Cylinder")
+p_233.Name = "Part"
+p_233.Size = Vector3.new(1.1, 5.33, 5.56)
+p_233.Position = Vector3.new(372.997, 53.975, 12.138)
+p_233.Orientation = Vector3.new(0, 90, -90)
+p_233.Color = Color3.fromRGB(239, 184, 56)
+
+local p_234 = Instance.new("Sphere")
+p_234.Name = "Part"
+p_234.Size = Vector3.new(4, 4, 4)
+p_234.Position = Vector3.new(373.028, 54.553, 12.233)
+p_234.Orientation = Vector3.new(0, 0, 0)
+p_234.Color = Color3.fromRGB(239, 184, 56)
+
+local p_235 = Instance.new("Cylinder")
+p_235.Name = "Part"
+p_235.Size = Vector3.new(1.89, 1, 0.25)
+p_235.Position = Vector3.new(372.945, 53.55, 8.979)
+p_235.Orientation = Vector3.new(0, -90, 0)
+p_235.Color = Color3.fromRGB(239, 184, 56)
+
+local p_236 = Instance.new("Cylinder")
+p_236.Name = "Part"
+p_236.Size = Vector3.new(1.3, 0.25, 1)
+p_236.Position = Vector3.new(372.939, 54.085, 7.978)
+p_236.Orientation = Vector3.new(0, 90, -90)
+p_236.Color = Color3.fromRGB(231, 231, 236)
+
+local p_237 = Instance.new("Cylinder")
+p_237.Name = "Part"
+p_237.Size = Vector3.new(1.89, 1, 0.25)
+p_237.Position = Vector3.new(369.572, 53.55, 11.938)
+p_237.Orientation = Vector3.new(0, -5, 0)
+p_237.Color = Color3.fromRGB(239, 184, 56)
+
+local p_238 = Instance.new("Cylinder")
+p_238.Name = "Part"
+p_238.Size = Vector3.new(1.3, 0.25, 1)
+p_238.Position = Vector3.new(368.574, 54.085, 11.857)
+p_238.Orientation = Vector3.new(0, 175, -90)
+p_238.Color = Color3.fromRGB(231, 231, 236)
+
+local p_239 = Instance.new("Cylinder")
+p_239.Name = "Part"
+p_239.Size = Vector3.new(1.3, 0.25, 1)
+p_239.Position = Vector3.new(372.962, 54.085, 16.759)
+p_239.Orientation = Vector3.new(0, -90, -90)
+p_239.Color = Color3.fromRGB(231, 231, 236)
+
+local p_240 = Instance.new("Cylinder")
+p_240.Name = "Part"
+p_240.Size = Vector3.new(1.3, 0.25, 1)
+p_240.Position = Vector3.new(393.556, 54.085, 11.934)
+p_240.Orientation = Vector3.new(0, 0, -90)
+p_240.Color = Color3.fromRGB(231, 231, 236)
+
+local p_241 = Instance.new("Cylinder")
+p_241.Name = "Part"
+p_241.Size = Vector3.new(1.89, 1, 0.25)
+p_241.Position = Vector3.new(392.555, 53.55, 11.94)
+p_241.Orientation = Vector3.new(0, 180, 0)
+p_241.Color = Color3.fromRGB(239, 184, 56)
+
+local p_242 = Instance.new("Cylinder")
+p_242.Name = "Part"
+p_242.Size = Vector3.new(1.1, 5.33, 5.56)
+p_242.Position = Vector3.new(389.387, 53.975, 12.138)
+p_242.Orientation = Vector3.new(0, 90, -90)
+p_242.Color = Color3.fromRGB(239, 184, 56)
+
+local p_243 = Instance.new("Sphere")
+p_243.Name = "Part"
+p_243.Size = Vector3.new(4, 4, 4)
+p_243.Position = Vector3.new(389.418, 54.553, 12.233)
+p_243.Orientation = Vector3.new(0, 0, 0)
+p_243.Color = Color3.fromRGB(239, 184, 56)
+
+local p_244 = Instance.new("Cylinder")
+p_244.Name = "Part"
+p_244.Size = Vector3.new(1.89, 1, 0.25)
+p_244.Position = Vector3.new(389.335, 53.55, 8.979)
+p_244.Orientation = Vector3.new(0, -90, 0)
+p_244.Color = Color3.fromRGB(239, 184, 56)
+
+local p_245 = Instance.new("Cylinder")
+p_245.Name = "Part"
+p_245.Size = Vector3.new(1.3, 0.25, 1)
+p_245.Position = Vector3.new(389.329, 54.085, 7.978)
+p_245.Orientation = Vector3.new(0, 90, -90)
+p_245.Color = Color3.fromRGB(231, 231, 236)
+
+local p_246 = Instance.new("Cylinder")
+p_246.Name = "Part"
+p_246.Size = Vector3.new(1.89, 1, 0.25)
+p_246.Position = Vector3.new(385.962, 53.55, 11.938)
+p_246.Orientation = Vector3.new(0, -5, 0)
+p_246.Color = Color3.fromRGB(239, 184, 56)
+
+local p_247 = Instance.new("Cylinder")
+p_247.Name = "Part"
+p_247.Size = Vector3.new(1.3, 0.25, 1)
+p_247.Position = Vector3.new(384.964, 54.085, 11.857)
+p_247.Orientation = Vector3.new(0, 175, -90)
+p_247.Color = Color3.fromRGB(231, 231, 236)
+
+local p_248 = Instance.new("Cylinder")
+p_248.Name = "Part"
+p_248.Size = Vector3.new(1.3, 0.25, 1)
+p_248.Position = Vector3.new(389.352, 54.085, 16.759)
+p_248.Orientation = Vector3.new(0, -90, -90)
+p_248.Color = Color3.fromRGB(231, 231, 236)
+
+local p_249 = Instance.new("Cylinder")
+p_249.Name = "Part"
+p_249.Size = Vector3.new(1.3, 0.25, 1)
+p_249.Position = Vector3.new(393.556, 54.085, -7.416)
+p_249.Orientation = Vector3.new(0, 0, -90)
+p_249.Color = Color3.fromRGB(231, 231, 236)
+
+local p_250 = Instance.new("Cylinder")
+p_250.Name = "Part"
+p_250.Size = Vector3.new(1.89, 1, 0.25)
+p_250.Position = Vector3.new(392.555, 53.55, -7.41)
+p_250.Orientation = Vector3.new(0, 180, 0)
+p_250.Color = Color3.fromRGB(239, 184, 56)
+
+local p_251 = Instance.new("Cylinder")
+p_251.Name = "Part"
+p_251.Size = Vector3.new(1.1, 5.33, 5.56)
+p_251.Position = Vector3.new(389.387, 53.975, -7.212)
+p_251.Orientation = Vector3.new(0, 90, -90)
+p_251.Color = Color3.fromRGB(239, 184, 56)
+
+local p_252 = Instance.new("Sphere")
+p_252.Name = "Part"
+p_252.Size = Vector3.new(4, 4, 4)
+p_252.Position = Vector3.new(389.418, 54.553, -7.117)
+p_252.Orientation = Vector3.new(0, 0, 0)
+p_252.Color = Color3.fromRGB(239, 184, 56)
+
+local p_253 = Instance.new("Cylinder")
+p_253.Name = "Part"
+p_253.Size = Vector3.new(1.89, 1, 0.25)
+p_253.Position = Vector3.new(389.335, 53.55, -10.371)
+p_253.Orientation = Vector3.new(0, -90, 0)
+p_253.Color = Color3.fromRGB(239, 184, 56)
+
+local p_254 = Instance.new("Cylinder")
+p_254.Name = "Part"
+p_254.Size = Vector3.new(1.3, 0.25, 1)
+p_254.Position = Vector3.new(389.329, 54.085, -11.372)
+p_254.Orientation = Vector3.new(0, 90, -90)
+p_254.Color = Color3.fromRGB(231, 231, 236)
+
+local p_255 = Instance.new("Cylinder")
+p_255.Name = "Part"
+p_255.Size = Vector3.new(1.89, 1, 0.25)
+p_255.Position = Vector3.new(385.962, 53.55, -7.412)
+p_255.Orientation = Vector3.new(0, -5, 0)
+p_255.Color = Color3.fromRGB(239, 184, 56)
+
+local p_256 = Instance.new("Cylinder")
+p_256.Name = "Part"
+p_256.Size = Vector3.new(1.3, 0.25, 1)
+p_256.Position = Vector3.new(384.964, 54.085, -7.493)
+p_256.Orientation = Vector3.new(0, 175, -90)
+p_256.Color = Color3.fromRGB(231, 231, 236)
+
+local p_257 = Instance.new("Cylinder")
+p_257.Name = "Part"
+p_257.Size = Vector3.new(1.3, 0.25, 1)
+p_257.Position = Vector3.new(389.352, 54.085, -2.59)
+p_257.Orientation = Vector3.new(0, -90, -90)
+p_257.Color = Color3.fromRGB(231, 231, 236)
+
+local p_258 = Instance.new("Cylinder")
+p_258.Name = "Part"
+p_258.Size = Vector3.new(1.3, 0.25, 1)
+p_258.Position = Vector3.new(393.556, 54.085, -24.773)
+p_258.Orientation = Vector3.new(0, 0, -90)
+p_258.Color = Color3.fromRGB(231, 231, 236)
+
+local p_259 = Instance.new("Cylinder")
+p_259.Name = "Part"
+p_259.Size = Vector3.new(1.89, 1, 0.25)
+p_259.Position = Vector3.new(392.555, 53.55, -24.767)
+p_259.Orientation = Vector3.new(0, 180, 0)
+p_259.Color = Color3.fromRGB(239, 184, 56)
+
+local p_260 = Instance.new("Cylinder")
+p_260.Name = "Part"
+p_260.Size = Vector3.new(1.1, 5.33, 5.56)
+p_260.Position = Vector3.new(389.387, 53.975, -24.569)
+p_260.Orientation = Vector3.new(0, 90, -90)
+p_260.Color = Color3.fromRGB(239, 184, 56)
+
+local p_261 = Instance.new("Sphere")
+p_261.Name = "Part"
+p_261.Size = Vector3.new(4, 4, 4)
+p_261.Position = Vector3.new(389.418, 54.553, -24.474)
+p_261.Orientation = Vector3.new(0, 0, 0)
+p_261.Color = Color3.fromRGB(239, 184, 56)
+
+local p_262 = Instance.new("Cylinder")
+p_262.Name = "Part"
+p_262.Size = Vector3.new(1.89, 1, 0.25)
+p_262.Position = Vector3.new(389.335, 53.55, -27.728)
+p_262.Orientation = Vector3.new(0, -90, 0)
+p_262.Color = Color3.fromRGB(239, 184, 56)
+
+local p_263 = Instance.new("Cylinder")
+p_263.Name = "Part"
+p_263.Size = Vector3.new(1.3, 0.25, 1)
+p_263.Position = Vector3.new(389.329, 54.085, -28.729)
+p_263.Orientation = Vector3.new(0, 90, -90)
+p_263.Color = Color3.fromRGB(231, 231, 236)
+
+local p_264 = Instance.new("Cylinder")
+p_264.Name = "Part"
+p_264.Size = Vector3.new(1.89, 1, 0.25)
+p_264.Position = Vector3.new(385.962, 53.55, -24.769)
+p_264.Orientation = Vector3.new(0, -5, 0)
+p_264.Color = Color3.fromRGB(239, 184, 56)
+
+local p_265 = Instance.new("Cylinder")
+p_265.Name = "Part"
+p_265.Size = Vector3.new(1.3, 0.25, 1)
+p_265.Position = Vector3.new(384.964, 54.085, -24.85)
+p_265.Orientation = Vector3.new(0, 175, -90)
+p_265.Color = Color3.fromRGB(231, 231, 236)
+
+local p_266 = Instance.new("Cylinder")
+p_266.Name = "Part"
+p_266.Size = Vector3.new(1.3, 0.25, 1)
+p_266.Position = Vector3.new(389.352, 54.085, -19.948)
+p_266.Orientation = Vector3.new(0, -90, -90)
+p_266.Color = Color3.fromRGB(231, 231, 236)
+
+local p_267 = Instance.new("Cylinder")
+p_267.Name = "Part"
+p_267.Size = Vector3.new(2.93, 1, 1)
+p_267.Position = Vector3.new(361.78, 40.827, -22.652)
+p_267.Orientation = Vector3.new(90, 0, 0)
+p_267.Color = Color3.fromRGB(239, 184, 56)
+
+local p_268 = Instance.new("Cylinder")
+p_268.Name = "Part"
+p_268.Size = Vector3.new(4, 1, 1)
+p_268.Position = Vector3.new(360.385, 42.136, -24.272)
+p_268.Orientation = Vector3.new(85, 90, 180)
+p_268.Color = Color3.fromRGB(211, 190, 150)
+
+local p_269 = Instance.new("Part")
+p_269.Name = "Part"
+p_269.Size = Vector3.new(4, 1, 2.83)
+p_269.Position = Vector3.new(360.505, 40.77, -24.241)
+p_269.Orientation = Vector3.new(85, 90, 180)
+p_269.Color = Color3.fromRGB(211, 190, 150)
+
+local p_270 = Instance.new("Cylinder")
+p_270.Name = "Part"
+p_270.Size = Vector3.new(2.93, 1, 1)
+p_270.Position = Vector3.new(361.538, 40.827, -25.736)
+p_270.Orientation = Vector3.new(90, 0, 0)
+p_270.Color = Color3.fromRGB(239, 184, 56)
+
+local p_271 = Instance.new("Cylinder")
+p_271.Name = "Part"
+p_271.Size = Vector3.new(4, 1, 1)
+p_271.Position = Vector3.new(362.922, 39.859, -24.272)
+p_271.Orientation = Vector3.new(0, -90, 0)
+p_271.Color = Color3.fromRGB(211, 190, 150)
+
+local p_272 = Instance.new("Part")
+p_272.Name = "Part"
+p_272.Size = Vector3.new(4, 1, 2)
+p_272.Position = Vector3.new(361.9, 39.859, -24.241)
+p_272.Orientation = Vector3.new(0, -90, 0)
+p_272.Color = Color3.fromRGB(211, 190, 150)
+
+local p_273 = Instance.new("Cylinder")
+p_273.Name = "Part"
+p_273.Size = Vector3.new(2.93, 1, 1)
+p_273.Position = Vector3.new(367.992, 40.827, -19.804)
+p_273.Orientation = Vector3.new(90, 90, 0)
+p_273.Color = Color3.fromRGB(239, 184, 56)
+
+local p_274 = Instance.new("Cylinder")
+p_274.Name = "Part"
+p_274.Size = Vector3.new(4, 1, 1)
+p_274.Position = Vector3.new(366.371, 42.136, -18.409)
+p_274.Orientation = Vector3.new(85, 180, 180)
+p_274.Color = Color3.fromRGB(211, 190, 150)
+
+local p_275 = Instance.new("Part")
+p_275.Name = "Part"
+p_275.Size = Vector3.new(4, 1, 2.83)
+p_275.Position = Vector3.new(366.402, 40.77, -18.529)
+p_275.Orientation = Vector3.new(85, 180, 180)
+p_275.Color = Color3.fromRGB(211, 190, 150)
+
+local p_276 = Instance.new("Cylinder")
+p_276.Name = "Part"
+p_276.Size = Vector3.new(2.93, 1, 1)
+p_276.Position = Vector3.new(364.908, 40.827, -19.563)
+p_276.Orientation = Vector3.new(90, 90, 0)
+p_276.Color = Color3.fromRGB(239, 184, 56)
+
+local p_277 = Instance.new("Cylinder")
+p_277.Name = "Part"
+p_277.Size = Vector3.new(4, 1, 1)
+p_277.Position = Vector3.new(366.371, 39.859, -20.946)
+p_277.Orientation = Vector3.new(0, 0, 0)
+p_277.Color = Color3.fromRGB(211, 190, 150)
+
+local p_278 = Instance.new("Part")
+p_278.Name = "Part"
+p_278.Size = Vector3.new(4, 1, 2)
+p_278.Position = Vector3.new(366.402, 39.859, -19.924)
+p_278.Orientation = Vector3.new(0, 0, 0)
+p_278.Color = Color3.fromRGB(211, 190, 150)
+
+local p_279 = Instance.new("Cylinder")
+p_279.Name = "Part"
+p_279.Size = Vector3.new(2.93, 1, 1)
+p_279.Position = Vector3.new(369.926, 40.827, -25.972)
+p_279.Orientation = Vector3.new(90, 180, 0)
+p_279.Color = Color3.fromRGB(239, 184, 56)
+
+local p_280 = Instance.new("Cylinder")
+p_280.Name = "Part"
+p_280.Size = Vector3.new(4, 1, 1)
+p_280.Position = Vector3.new(371.321, 42.136, -24.351)
+p_280.Orientation = Vector3.new(85, -90, 180)
+p_280.Color = Color3.fromRGB(211, 190, 150)
+
+local p_281 = Instance.new("Part")
+p_281.Name = "Part"
+p_281.Size = Vector3.new(4, 1, 2.83)
+p_281.Position = Vector3.new(371.202, 40.77, -24.383)
+p_281.Orientation = Vector3.new(85, -90, 180)
+p_281.Color = Color3.fromRGB(211, 190, 150)
+
+local p_282 = Instance.new("Cylinder")
+p_282.Name = "Part"
+p_282.Size = Vector3.new(2.93, 1, 1)
+p_282.Position = Vector3.new(370.168, 40.827, -22.888)
+p_282.Orientation = Vector3.new(90, 180, 0)
+p_282.Color = Color3.fromRGB(239, 184, 56)
+
+local p_283 = Instance.new("Cylinder")
+p_283.Name = "Part"
+p_283.Size = Vector3.new(4, 1, 1)
+p_283.Position = Vector3.new(368.785, 39.859, -24.351)
+p_283.Orientation = Vector3.new(0, 90, 0)
+p_283.Color = Color3.fromRGB(211, 190, 150)
+
+local p_284 = Instance.new("Part")
+p_284.Name = "Part"
+p_284.Size = Vector3.new(4, 1, 2)
+p_284.Position = Vector3.new(369.806, 39.859, -24.383)
+p_284.Orientation = Vector3.new(0, 90, 0)
+p_284.Color = Color3.fromRGB(211, 190, 150)
+
+local p_285 = Instance.new("Cylinder")
+p_285.Name = "Part"
+p_285.Size = Vector3.new(2.93, 1, 1)
+p_285.Position = Vector3.new(364.961, 40.827, -28.774)
+p_285.Orientation = Vector3.new(90, -90, 0)
+p_285.Color = Color3.fromRGB(239, 184, 56)
+
+local p_286 = Instance.new("Cylinder")
+p_286.Name = "Part"
+p_286.Size = Vector3.new(4, 1, 1)
+p_286.Position = Vector3.new(366.582, 42.136, -30.169)
+p_286.Orientation = Vector3.new(85, 0, 180)
+p_286.Color = Color3.fromRGB(211, 190, 150)
+
+local p_287 = Instance.new("Part")
+p_287.Name = "Part"
+p_287.Size = Vector3.new(4, 1, 2.83)
+p_287.Position = Vector3.new(366.551, 40.77, -30.05)
+p_287.Orientation = Vector3.new(85, 0, 180)
+p_287.Color = Color3.fromRGB(211, 190, 150)
+
+local p_288 = Instance.new("Cylinder")
+p_288.Name = "Part"
+p_288.Size = Vector3.new(2.93, 1, 1)
+p_288.Position = Vector3.new(368.045, 40.827, -29.016)
+p_288.Orientation = Vector3.new(90, -90, 0)
+p_288.Color = Color3.fromRGB(239, 184, 56)
+
+local p_289 = Instance.new("Cylinder")
+p_289.Name = "Part"
+p_289.Size = Vector3.new(4, 1, 1)
+p_289.Position = Vector3.new(366.582, 39.859, -27.633)
+p_289.Orientation = Vector3.new(0, 180, 0)
+p_289.Color = Color3.fromRGB(211, 190, 150)
+
+local p_290 = Instance.new("Part")
+p_290.Name = "Part"
+p_290.Size = Vector3.new(4, 1, 2)
+p_290.Position = Vector3.new(366.551, 39.859, -28.654)
+p_290.Orientation = Vector3.new(0, 180, 0)
+p_290.Color = Color3.fromRGB(211, 190, 150)
+
+local p_291 = Instance.new("Part")
+p_291.Name = "Part"
+p_291.Size = Vector3.new(0.249, 0.28, 0.925)
+p_291.Position = Vector3.new(396.573, 43.747, -21.848)
+p_291.Orientation = Vector3.new(0, 135.194, 0)
+p_291.Color = Color3.fromRGB(17, 17, 17)
+
+local p_292 = Instance.new("Part")
+p_292.Name = "Part"
+p_292.Size = Vector3.new(0.233, 0.272, 0.925)
+p_292.Position = Vector3.new(395.141, 43.744, -23.27)
+p_292.Orientation = Vector3.new(0, 135.194, 0)
+p_292.Color = Color3.fromRGB(17, 17, 17)
+
+local p_293 = Instance.new("Part")
+p_293.Name = "Part"
+p_293.Size = Vector3.new(0.506, 0.296, 1.338)
+p_293.Position = Vector3.new(395.437, 43.734, -23.266)
+p_293.Orientation = Vector3.new(0, 135.194, 0)
+p_293.Color = Color3.fromRGB(163, 162, 165)
+
+local p_294 = Instance.new("Part")
+p_294.Name = "Part"
+p_294.Size = Vector3.new(0.249, 0.28, 0.925)
+p_294.Position = Vector3.new(394.433, 43.747, -23.973)
+p_294.Orientation = Vector3.new(0, 135.194, 0)
+p_294.Color = Color3.fromRGB(17, 17, 17)
+
+local p_295 = Instance.new("Part")
+p_295.Name = "Part"
+p_295.Size = Vector3.new(0.506, 0.296, 1.338)
+p_295.Position = Vector3.new(394.735, 43.734, -23.964)
+p_295.Orientation = Vector3.new(0, 135.194, 0)
+p_295.Color = Color3.fromRGB(163, 162, 165)
+
+local p_296 = Instance.new("Part")
+p_296.Name = "Part"
+p_296.Size = Vector3.new(0.249, 0.28, 0.925)
+p_296.Position = Vector3.new(395.5, 43.747, -22.913)
+p_296.Orientation = Vector3.new(0, 135.194, 0)
+p_296.Color = Color3.fromRGB(17, 17, 17)
+
+local p_297 = Instance.new("Part")
+p_297.Name = "Part"
+p_297.Size = Vector3.new(0.233, 0.272, 0.925)
+p_297.Position = Vector3.new(394.438, 43.744, -23.967)
+p_297.Orientation = Vector3.new(0, 135.194, 0)
+p_297.Color = Color3.fromRGB(17, 17, 17)
+
+local p_298 = Instance.new("Part")
+p_298.Name = "Part"
+p_298.Size = Vector3.new(0.233, 0.272, 0.925)
+p_298.Position = Vector3.new(395.506, 43.744, -22.907)
+p_298.Orientation = Vector3.new(0, 135.194, 0)
+p_298.Color = Color3.fromRGB(17, 17, 17)
+
+local p_299 = Instance.new("Part")
+p_299.Name = "Part"
+p_299.Size = Vector3.new(0.506, 0.296, 1.338)
+p_299.Position = Vector3.new(395.802, 43.734, -22.903)
+p_299.Orientation = Vector3.new(0, 135.194, 0)
+p_299.Color = Color3.fromRGB(163, 162, 165)
+
+local p_300 = Instance.new("Part")
+p_300.Name = "Part"
+p_300.Size = Vector3.new(0.249, 0.28, 0.925)
+p_300.Position = Vector3.new(394.794, 43.747, -23.614)
+p_300.Orientation = Vector3.new(0, 135.194, 0)
+p_300.Color = Color3.fromRGB(17, 17, 17)
+
+local p_301 = Instance.new("Part")
+p_301.Name = "Part"
+p_301.Size = Vector3.new(0.233, 0.272, 0.925)
+p_301.Position = Vector3.new(394.799, 43.744, -23.609)
+p_301.Orientation = Vector3.new(0, 135.194, 0)
+p_301.Color = Color3.fromRGB(17, 17, 17)
+
+local p_302 = Instance.new("Part")
+p_302.Name = "Part"
+p_302.Size = Vector3.new(0.506, 0.296, 1.338)
+p_302.Position = Vector3.new(395.096, 43.734, -23.605)
+p_302.Orientation = Vector3.new(0, 135.194, 0)
+p_302.Color = Color3.fromRGB(163, 162, 165)
+
+local p_303 = Instance.new("Part")
+p_303.Name = "Part"
+p_303.Size = Vector3.new(0.506, 0.296, 1.338)
+p_303.Position = Vector3.new(394.371, 43.734, -24.325)
+p_303.Orientation = Vector3.new(0, 135.194, 0)
+p_303.Color = Color3.fromRGB(163, 162, 165)
+
+local p_304 = Instance.new("Part")
+p_304.Name = "Part"
+p_304.Size = Vector3.new(0.506, 0.296, 1.338)
+p_304.Position = Vector3.new(396.874, 43.734, -21.839)
+p_304.Orientation = Vector3.new(0, 135.194, 0)
+p_304.Color = Color3.fromRGB(163, 162, 165)
+
+local p_305 = Instance.new("Part")
+p_305.Name = "Part"
+p_305.Size = Vector3.new(0.233, 0.272, 0.925)
+p_305.Position = Vector3.new(396.578, 43.744, -21.842)
+p_305.Orientation = Vector3.new(0, 135.194, 0)
+p_305.Color = Color3.fromRGB(17, 17, 17)
+
+local p_306 = Instance.new("Part")
+p_306.Name = "Part"
+p_306.Size = Vector3.new(0.249, 0.28, 0.925)
+p_306.Position = Vector3.new(395.87, 43.747, -22.546)
+p_306.Orientation = Vector3.new(0, 135.194, 0)
+p_306.Color = Color3.fromRGB(17, 17, 17)
+
+local p_307 = Instance.new("Part")
+p_307.Name = "Part"
+p_307.Size = Vector3.new(0.506, 0.296, 1.338)
+p_307.Position = Vector3.new(396.172, 43.734, -22.537)
+p_307.Orientation = Vector3.new(0, 135.194, 0)
+p_307.Color = Color3.fromRGB(163, 162, 165)
+
+local p_308 = Instance.new("Part")
+p_308.Name = "Part"
+p_308.Size = Vector3.new(0.233, 0.272, 0.925)
+p_308.Position = Vector3.new(395.875, 43.744, -22.54)
+p_308.Orientation = Vector3.new(0, 135.194, 0)
+p_308.Color = Color3.fromRGB(17, 17, 17)
+
+local p_309 = Instance.new("Part")
+p_309.Name = "Part"
+p_309.Size = Vector3.new(0.249, 0.28, 0.925)
+p_309.Position = Vector3.new(396.23, 43.747, -22.188)
+p_309.Orientation = Vector3.new(0, 135.194, 0)
+p_309.Color = Color3.fromRGB(17, 17, 17)
+
+local p_310 = Instance.new("Part")
+p_310.Name = "Part"
+p_310.Size = Vector3.new(0.506, 0.296, 1.338)
+p_310.Position = Vector3.new(396.532, 43.734, -22.179)
+p_310.Orientation = Vector3.new(0, 135.194, 0)
+p_310.Color = Color3.fromRGB(163, 162, 165)
+
+local p_311 = Instance.new("Part")
+p_311.Name = "Part"
+p_311.Size = Vector3.new(0.233, 0.272, 0.925)
+p_311.Position = Vector3.new(396.235, 43.744, -22.182)
+p_311.Orientation = Vector3.new(0, 135.194, 0)
+p_311.Color = Color3.fromRGB(17, 17, 17)
+
+local p_312 = Instance.new("Cylinder")
+p_312.Name = "Part"
+p_312.Size = Vector3.new(0.67, 0.38, 1)
+p_312.Position = Vector3.new(377.154, 53.77, -7.034)
+p_312.Orientation = Vector3.new(0, 0, -90)
+p_312.Color = Color3.fromRGB(239, 184, 56)
+
+local p_313 = Instance.new("Cylinder")
+p_313.Name = "Part"
+p_313.Size = Vector3.new(0.67, 0.38, 1)
+p_313.Position = Vector3.new(372.939, 53.77, -10.978)
+p_313.Orientation = Vector3.new(0, 90, -90)
+p_313.Color = Color3.fromRGB(239, 184, 56)
+
+local p_314 = Instance.new("Cylinder")
+p_314.Name = "Part"
+p_314.Size = Vector3.new(0.67, 0.38, 1)
+p_314.Position = Vector3.new(368.586, 53.77, -7.11)
+p_314.Orientation = Vector3.new(0, 175, -90)
+p_314.Color = Color3.fromRGB(239, 184, 56)
+
+local p_315 = Instance.new("Cylinder")
+p_315.Name = "Part"
+p_315.Size = Vector3.new(0.67, 0.38, 1)
+p_315.Position = Vector3.new(372.962, 53.77, -2.22)
+p_315.Orientation = Vector3.new(0, -90, -90)
+p_315.Color = Color3.fromRGB(239, 184, 56)
+
+local p_316 = Instance.new("Cylinder")
+p_316.Name = "Part"
+p_316.Size = Vector3.new(0.67, 0.38, 1)
+p_316.Position = Vector3.new(377.154, 53.77, -25.548)
+p_316.Orientation = Vector3.new(0, 0, -90)
+p_316.Color = Color3.fromRGB(239, 184, 56)
+
+local p_317 = Instance.new("Cylinder")
+p_317.Name = "Part"
+p_317.Size = Vector3.new(0.67, 0.38, 1)
+p_317.Position = Vector3.new(372.939, 53.77, -29.492)
+p_317.Orientation = Vector3.new(0, 90, -90)
+p_317.Color = Color3.fromRGB(239, 184, 56)
+
+local p_318 = Instance.new("Cylinder")
+p_318.Name = "Part"
+p_318.Size = Vector3.new(0.67, 0.38, 1)
+p_318.Position = Vector3.new(368.586, 53.77, -25.624)
+p_318.Orientation = Vector3.new(0, 175, -90)
+p_318.Color = Color3.fromRGB(239, 184, 56)
+
+local p_319 = Instance.new("Cylinder")
+p_319.Name = "Part"
+p_319.Size = Vector3.new(0.67, 0.38, 1)
+p_319.Position = Vector3.new(372.962, 53.77, -20.734)
+p_319.Orientation = Vector3.new(0, -90, -90)
+p_319.Color = Color3.fromRGB(239, 184, 56)
+
+local p_320 = Instance.new("Cylinder")
+p_320.Name = "Part"
+p_320.Size = Vector3.new(0.67, 0.38, 1)
+p_320.Position = Vector3.new(377.154, 53.77, 11.934)
+p_320.Orientation = Vector3.new(0, 0, -90)
+p_320.Color = Color3.fromRGB(239, 184, 56)
+
+local p_321 = Instance.new("Cylinder")
+p_321.Name = "Part"
+p_321.Size = Vector3.new(0.67, 0.38, 1)
+p_321.Position = Vector3.new(372.939, 53.77, 7.99)
+p_321.Orientation = Vector3.new(0, 90, -90)
+p_321.Color = Color3.fromRGB(239, 184, 56)
+
+local p_322 = Instance.new("Cylinder")
+p_322.Name = "Part"
+p_322.Size = Vector3.new(0.67, 0.38, 1)
+p_322.Position = Vector3.new(368.586, 53.77, 11.858)
+p_322.Orientation = Vector3.new(0, 175, -90)
+p_322.Color = Color3.fromRGB(239, 184, 56)
+
+local p_323 = Instance.new("Cylinder")
+p_323.Name = "Part"
+p_323.Size = Vector3.new(0.67, 0.38, 1)
+p_323.Position = Vector3.new(372.962, 53.77, 16.747)
+p_323.Orientation = Vector3.new(0, -90, -90)
+p_323.Color = Color3.fromRGB(239, 184, 56)
+
+local p_324 = Instance.new("Cylinder")
+p_324.Name = "Part"
+p_324.Size = Vector3.new(0.67, 0.38, 1)
+p_324.Position = Vector3.new(393.544, 53.77, 11.934)
+p_324.Orientation = Vector3.new(0, 0, -90)
+p_324.Color = Color3.fromRGB(239, 184, 56)
+
+local p_325 = Instance.new("Cylinder")
+p_325.Name = "Part"
+p_325.Size = Vector3.new(0.67, 0.38, 1)
+p_325.Position = Vector3.new(389.329, 53.77, 7.99)
+p_325.Orientation = Vector3.new(0, 90, -90)
+p_325.Color = Color3.fromRGB(239, 184, 56)
+
+local p_326 = Instance.new("Cylinder")
+p_326.Name = "Part"
+p_326.Size = Vector3.new(0.67, 0.38, 1)
+p_326.Position = Vector3.new(384.976, 53.77, 11.858)
+p_326.Orientation = Vector3.new(0, 175, -90)
+p_326.Color = Color3.fromRGB(239, 184, 56)
+
+local p_327 = Instance.new("Cylinder")
+p_327.Name = "Part"
+p_327.Size = Vector3.new(0.67, 0.38, 1)
+p_327.Position = Vector3.new(389.352, 53.77, 16.747)
+p_327.Orientation = Vector3.new(0, -90, -90)
+p_327.Color = Color3.fromRGB(239, 184, 56)
+
+local p_328 = Instance.new("BombTool")
+p_328.Position = Vector3.new(378.482, 43.316, 13.733)
+p_328.Orientation = Vector3.new(0, 0, 0)
+
+
+local p_330 = Instance.new("RocketLauncher")
+p_330.Position = Vector3.new(370.482, 43.316, 13.733)
+p_330.Orientation = Vector3.new(0, 0, 0)
+
