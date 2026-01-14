@@ -6,6 +6,7 @@
       "gamedesc": "Welcome to Chaos Corner — a nonstop, high-energy battleground where anything can happen. Grab powerful tools, launch explosive attacks, and clash with other players in fast-paced, unpredictable fights. The map is designed for pure mayhem, encouraging constant movement, quick thinking, and creative combat. Expect chaos, unexpected moments, and yes… a few bugs along the way. Survive as long as you can and embrace the madness.",
       "gamecreated": "9/11/2025",
       "gamemaker": "blox",
+      "gameid": "1",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/Chaos%20Canyon.txt"
     },
     {
@@ -14,6 +15,7 @@
       "gamedesc": "At first glance, Crosswalk looks calm and peaceful — quiet streets, open space, and a relaxing atmosphere. But don’t be fooled. This map blends exploration and free roaming with sudden, intense player-versus-player encounters. Walk the streets, explore the environment, or challenge anyone you see on sight. Whether you want to chill or start chaos, Crosswalk lets you decide how peaceful (or violent) the world becomes.",
       "gamecreated": "9/11/2025",
       "gamemaker": "blox",
+      "gameid": "2",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/Crossroads.txt"
     },
     {
@@ -22,6 +24,7 @@
       "gamedesc": "Blox House Chaos throws you into a familiar environment turned into a full-on combat zone. Explore every room, hallway, and corner of the house while battling other players in close-quarters fights. Expect sudden ambushes, intense indoor combat, and fast reactions. The compact layout keeps the action constant, making every room a potential danger zone filled with surprises.",
       "gamecreated": "9/11/2025",
       "gamemaker": "blox",
+      "gameid": "3",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/HouseTest.txt"
     },
     {
@@ -30,6 +33,7 @@
       "gamedesc": "Enter the Haunted map if you’re ready for a darker experience. Explore eerie environments filled with unsettling visuals, hidden paths, and mysterious spaces. The atmosphere is heavy, quiet, and tense — perfect for players who enjoy suspense and exploration. Whether you’re uncovering secrets or encountering other players in the shadows, Haunted delivers a chilling and memorable experience.",
       "gamecreated": "9/11/2025",
       "gamemaker": "blox",
+      "gameid": "4",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/Haunted%20Mansion.txt"
     },
     {
@@ -38,6 +42,7 @@
       "gamedesc": "Big Fighting Place is exactly what it sounds like — a massive open arena built purely for combat. No rules, no safety, just players fighting until only one stands. The wide layout gives plenty of room for movement, chaos, and large-scale battles. If you’re looking for nonstop action and absolute mayhem, this is the place to fight to the death.",
       "gamecreated": "1/5/2026",
       "gamemaker": "blox",
+      "gameid": "5",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/GlassBridgeMap.txt"
     },
     {
@@ -46,6 +51,7 @@
       "gamedesc": "Biggest Map Ever lives up to its name. Featuring massive towers, huge open spaces, and a sense of scale unlike any other map, this world is built for exploration and large multiplayer encounters. Climb towering structures, travel long distances, and discover just how big the environment really is. Perfect for players who want freedom, scale, and epic moments.",
       "gamecreated": "1/11/2026",
       "gamemaker": "blox",
+      "gameid": "6",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/RobloxHQ.txt"
     },
     {
@@ -54,6 +60,7 @@
       "gamedesc": "Ball Movement Testing is a simple experimental map designed to test physics, movement, and interaction. Featuring just a few balls and a small baseplate, this map focuses purely on how objects behave in the world. It’s minimal, clean, and perfect for showcasing movement systems, physics reactions, and early gameplay experiments.",
       "gamecreated": "1/11/2026",
       "gamemaker": "blox",
+      "gameid": "7",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/Showcase.txt"
     },
     {
@@ -62,6 +69,7 @@
       "gamedesc": "Object Import Testing is a small but important testing environment focused on stability and asset loading. This map exists to make sure objects, bricks, and imported assets load correctly without breaking or failing. While simple in appearance, it plays a key role in ensuring the game systems remain stable as new content is added.",
       "gamecreated": "1/11/2026",
       "gamemaker": "blox",
+      "gameid": "8",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/TestingObjects.txt"
     },
     {
@@ -70,6 +78,7 @@
       "gamedesc": "A small destructable city you can destroy!",
       "gamecreated": "1/11/2026",
       "gamemaker": "blox",
+      "gameid": "9",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/GreyCity.txt"
     },
     {
@@ -78,6 +87,7 @@
       "gamedesc": "A crossroad with multiple things like Biggest Map Ever, Blox House Chaos, and Crosswalk.",
       "gamecreated": "1/11/2026",
       "gamemaker": "blox",
+      "gameid": "10",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/IDKwhatthisis.txt"
     },
     {
@@ -86,6 +96,7 @@
       "gamedesc": "Shoot All The Targets For Nothing.",
       "gamecreated": "1/12/2026",
       "gamemaker": "blox",
+      "gameid": "11",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/TargetPractice.txt"
     },
     {
@@ -94,6 +105,7 @@
       "gamedesc": "Beat the obby and get access to the vip room with rocket launcher and bomb!!!",
       "gamecreated": "1/12/2026",
       "gamemaker": "blox",
+      "gameid": "12",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/obby.txt"
     }
   ]
