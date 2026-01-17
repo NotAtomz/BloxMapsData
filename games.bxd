@@ -107,6 +107,15 @@
       "gamemaker": "blox",
       "gameid": "12",
       "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/obby.txt"
+    },
+    {
+      "gamename": "Big City Distruction",
+      "gameimage": "",
+      "gamedesc": "HOLY BLOX A REALLY BIG CITY WITH BOMB AND ROCKET LAUNCHER SO GO OUT AND DESTROY THE CITY!",
+      "gamecreated": "1/17/2026",
+      "gamemaker": "blox",
+      "gameid": "13",
+      "gamemaplink": "https://raw.githubusercontent.com/NotAtomz/BloxMapsData/refs/heads/main/bigcity.txt"
     }
   ]
 }
